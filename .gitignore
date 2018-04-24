@@ -1,0 +1,10 @@
+node_modules/
+.nyc_output/
+backup/
+demo/
+.idea
+
+.migrate
+.DS_Store
+*.log
+*.log.*

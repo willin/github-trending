@@ -1,0 +1,9 @@
+language: node_js
+node_js: node
+install:
+  - yarn
+script: yarn start
+env:
+  global:
+    - GH_REF: github.com/willin/github-trending.git
+    - secure: "B498VUcmjdWIi43h9mDtof1jZ+7vdoHdANPrzNQogFb4NmwjzyAhQKbj+rZT+q/aDP8TJpOZOkQEaFwHgHszTBlGXezsSgzfFiuYfOiHZEoB26o8PZaycvOtX5yTgM17ADia+brHJLDvY2D+T9S3YGXJk1W+IRhjPFFmvu9ydGB3cHjzAok/74sw19dDthQTSGcgzgxu4YBxJtAku/vSsjDJG+QgiDcySc6Cn4QaTqiO8lPSxkn/4Eyhjqs2wyqrvqomOSVxowk8jEDXkIRRCfddWiXnS54bgkampDI7iaBdP3FKrHIBojFlsJytRGLl5kbWFHr5GHLvxdL4+iy0rAFK2CKMUTnBa0hBzs8xibHrOxVCrdmxEVhV3J6WaaoSYcPVEfSpcMOa51c8A2aOABQEJM/yexidzcVLk/wDOjJDz4N/VS8PmIJ6T3jSqcFSJ3Nd+iCUtXGrWtPWK3egPX1RlnSAHZQuw1G2QAh1DWyDd6ndu+chSyJ4QLpg4xyIP6oEvcO6y4cG9RCz7whg6hwtlHlQ2Xzq3brZeAZQNw9ByCq8fuJ7Lkx1l8VMHS6yaWJzAkflvvFgMF9HFHA8kftmxicAX4ckNDSc7gouIh2ImxtEk5XyDWLrOr/UKerDrARJYmZ3GvwdBv/cTiTsSbNpgh6mGsG2Atu/9EIWycg="

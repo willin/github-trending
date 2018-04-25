@@ -10,6 +10,11 @@
     "lang": "JavaScript"
   },
   {
+    "title": "linkedin/css-blocks",
+    "url": "https://github.com/linkedin/css-blocks",
+    "lang": "TypeScript"
+  },
+  {
     "title": "raviqqe/muffet",
     "url": "https://github.com/raviqqe/muffet",
     "lang": "Go"
@@ -30,11 +35,6 @@
     "lang": "HTML"
   },
   {
-    "title": "linkedin/css-blocks",
-    "url": "https://github.com/linkedin/css-blocks",
-    "lang": "TypeScript"
-  },
-  {
     "title": "apple/foundationdb",
     "url": "https://github.com/apple/foundationdb",
     "lang": "C++"
@@ -45,8 +45,16 @@
     "lang": "JavaScript"
   },
   {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook"
+  },
+  {
     "title": "fengdu78/deeplearning_ai_books",
     "url": "https://github.com/fengdu78/deeplearning_ai_books"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
   },
   {
     "title": "eriklindernoren/PyTorch-GAN",
@@ -54,9 +62,14 @@
     "lang": "Python"
   },
   {
-    "title": "reswitched/fusee-launcher",
-    "url": "https://github.com/reswitched/fusee-launcher",
-    "lang": "Python"
+    "title": "vuejs/vuepress",
+    "url": "https://github.com/vuejs/vuepress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fail0verflow/shofel2",
+    "url": "https://github.com/fail0verflow/shofel2",
+    "lang": "C"
   },
   {
     "title": "serhii-londar/open-source-mac-os-apps",
@@ -64,24 +77,9 @@
     "lang": "Swift"
   },
   {
-    "title": "sindresorhus/slugify",
-    "url": "https://github.com/sindresorhus/slugify",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "Info-cn/Terminus",
-    "url": "https://github.com/Info-cn/Terminus",
-    "lang": "CSS"
-  },
-  {
-    "title": "vuejs/vuepress",
-    "url": "https://github.com/vuejs/vuepress",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "zzarcon/react-circle",
-    "url": "https://github.com/zzarcon/react-circle",
-    "lang": "TypeScript"
+    "title": "reswitched/fusee-launcher",
+    "url": "https://github.com/reswitched/fusee-launcher",
+    "lang": "Python"
   },
   {
     "title": "text-mask/text-mask",
@@ -89,17 +87,9 @@
     "lang": "JavaScript"
   },
   {
-    "title": "CyC2018/Interview-Notebook",
-    "url": "https://github.com/CyC2018/Interview-Notebook"
-  },
-  {
-    "title": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university"
-  },
-  {
-    "title": "sdras/page-transitions-travelapp",
-    "url": "https://github.com/sdras/page-transitions-travelapp",
-    "lang": "Vue"
+    "title": "sindresorhus/slugify",
+    "url": "https://github.com/sindresorhus/slugify",
+    "lang": "JavaScript"
   },
   {
     "title": "tensorflow/tensorflow",
@@ -107,17 +97,28 @@
     "lang": "C++"
   },
   {
+    "title": "sdras/page-transitions-travelapp",
+    "url": "https://github.com/sdras/page-transitions-travelapp",
+    "lang": "Vue"
+  },
+  {
+    "title": "Info-cn/Terminus",
+    "url": "https://github.com/Info-cn/Terminus",
+    "lang": "CSS"
+  },
+  {
+    "title": "linkedin/opticss",
+    "url": "https://github.com/linkedin/opticss",
+    "lang": "TypeScript"
+  },
+  {
     "title": "iikira/BaiduPCS-Go",
     "url": "https://github.com/iikira/BaiduPCS-Go",
     "lang": "Go"
   },
   {
-    "title": "github/gitignore",
-    "url": "https://github.com/github/gitignore"
-  },
-  {
-    "title": "vuejs/vue",
-    "url": "https://github.com/vuejs/vue",
-    "lang": "JavaScript"
+    "title": "zzarcon/react-circle",
+    "url": "https://github.com/zzarcon/react-circle",
+    "lang": "TypeScript"
   }
 ]

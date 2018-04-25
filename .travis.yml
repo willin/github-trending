@@ -1,8 +1,24 @@
 language: node_js
+sudo: true
 node_js: node
+cache:
+  directories:
+    - node_modules
 install:
   - yarn
+before_script:
+  - git config user.name "Travis-CI"
+  - git config user.email "willin@willin.org"
+  - git remote rm origin
+  - git remote add origin https://${GH_TOKEN}@${GH_REF}
+  - git checkout master
 script: yarn start
+after_success:
+  - git add -A .
+  - git status
+  - git commit -a -m "Travis-CI Deployed to Github"
+  - git push origin master
+  - echo -e "Done\n"
 env:
   global:
     - GH_REF: github.com/willin/github-trending.git

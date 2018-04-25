@@ -4,7 +4,7 @@
   "description": "Github Daily Trending Archives",
   "main": "index.js",
   "scripts": {
-    "start": "sh ./deploy.sh"
+    "start": "node src"
   },
   "repository": {
     "type": "git",

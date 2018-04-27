@@ -20,6 +20,6 @@ axios.get('https://github.com/trending').then(({ data }) => {
   });
   const date = formatDate('yyyy-MM-dd');
   writeFileSync(path.resolve(__dirname, '../data/', `${date}.json`), JSON.stringify(arr, null, 2), 'utf-8');
-  const md = [`# ${date}`, '', ...arr.map(({ title, url, lang }, i) => `${i + 1}. [${title}](${url}) ${lang === '' ? '' : `【${lang}】`}`), ''];
+  const md = [`# ${date}`, '', ...arr.map(({ title, url, lang }, i) => `${i + 1}. [${title}](${url}) ${lang === undefined ? '' : `【${lang}】`}`), ''];
   writeFileSync(path.resolve(__dirname, '../archives/', `${date}.md`), md.join('\n'), 'utf-8');
 });

@@ -1,0 +1,121 @@
+[
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome"
+  },
+  {
+    "title": "google/gvisor",
+    "url": "https://github.com/google/gvisor",
+    "lang": "Go"
+  },
+  {
+    "title": "davideuler/architecture.of.internet-product",
+    "url": "https://github.com/davideuler/architecture.of.internet-product"
+  },
+  {
+    "title": "kusti8/proton-native",
+    "url": "https://github.com/kusti8/proton-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/gh-ost",
+    "url": "https://github.com/github/gh-ost",
+    "lang": "Go"
+  },
+  {
+    "title": "pytorch/ELF",
+    "url": "https://github.com/pytorch/ELF",
+    "lang": "C++"
+  },
+  {
+    "title": "cyanharlow/purecss-francine",
+    "url": "https://github.com/cyanharlow/purecss-francine",
+    "lang": "CSS"
+  },
+  {
+    "title": "sallar/github-contributions-chart",
+    "url": "https://github.com/sallar/github-contributions-chart",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RelaxedJS/ReLaXed",
+    "url": "https://github.com/RelaxedJS/ReLaXed",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/ow",
+    "url": "https://github.com/sindresorhus/ow",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xx45/dayjs",
+    "url": "https://github.com/xx45/dayjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "nhnent/tui.calendar",
+    "url": "https://github.com/nhnent/tui.calendar",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YadiraF/PRNet",
+    "url": "https://github.com/YadiraF/PRNet",
+    "lang": "Python"
+  },
+  {
+    "title": "hasura/skor",
+    "url": "https://github.com/hasura/skor",
+    "lang": "C"
+  },
+  {
+    "title": "roytseng-tw/Detectron.pytorch",
+    "url": "https://github.com/roytseng-tw/Detectron.pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "iotexproject/iotex-core",
+    "url": "https://github.com/iotexproject/iotex-core",
+    "lang": "Go"
+  },
+  {
+    "title": "layerJS/layerJS",
+    "url": "https://github.com/layerJS/layerJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "lang": "CSS"
+  },
+  {
+    "title": "tmcw/big",
+    "url": "https://github.com/tmcw/big",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cgoldsby/LoginCritter",
+    "url": "https://github.com/cgoldsby/LoginCritter",
+    "lang": "Swift"
+  }
+]

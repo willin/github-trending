@@ -1,0 +1,123 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wiredjs/wired-elements",
+    "url": "https://github.com/wiredjs/wired-elements",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "ambv/black",
+    "url": "https://github.com/ambv/black",
+    "lang": "Python"
+  },
+  {
+    "title": "duckythescientist/SmoothLife",
+    "url": "https://github.com/duckythescientist/SmoothLife",
+    "lang": "Python"
+  },
+  {
+    "title": "guardicore/monkey",
+    "url": "https://github.com/guardicore/monkey",
+    "lang": "Python"
+  },
+  {
+    "title": "NervanaSystems/nlp-architect",
+    "url": "https://github.com/NervanaSystems/nlp-architect",
+    "lang": "Python"
+  },
+  {
+    "title": "mimecorg/vuido",
+    "url": "https://github.com/mimecorg/vuido",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mint-lang/mint",
+    "url": "https://github.com/mint-lang/mint",
+    "lang": "Crystal"
+  },
+  {
+    "title": "nim-lang/nimforum",
+    "url": "https://github.com/nim-lang/nimforum",
+    "lang": "Nim"
+  },
+  {
+    "title": "openai/retro",
+    "url": "https://github.com/openai/retro",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "GetStream/Winds",
+    "url": "https://github.com/GetStream/Winds",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davideuler/architecture.of.internet-product",
+    "url": "https://github.com/davideuler/architecture.of.internet-product"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets"
+  },
+  {
+    "title": "golangci/golangci-lint",
+    "url": "https://github.com/golangci/golangci-lint",
+    "lang": "Go"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome"
+  },
+  {
+    "title": "hybridsjs/hybrids",
+    "url": "https://github.com/hybridsjs/hybrids",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "klauscfhq/signale",
+    "url": "https://github.com/klauscfhq/signale",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "lang": "Java"
+  },
+  {
+    "title": "imWildCat/scylla",
+    "url": "https://github.com/imWildCat/scylla",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "phan/phan",
+    "url": "https://github.com/phan/phan",
+    "lang": "PHP"
+  },
+  {
+    "title": "easy-tensorflow/easy-tensorflow",
+    "url": "https://github.com/easy-tensorflow/easy-tensorflow",
+    "lang": "Python"
+  }
+]

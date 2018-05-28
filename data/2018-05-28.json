@@ -1,0 +1,123 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wiredjs/wired-elements",
+    "url": "https://github.com/wiredjs/wired-elements",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "imWildCat/scylla",
+    "url": "https://github.com/imWildCat/scylla",
+    "lang": "Python"
+  },
+  {
+    "title": "mimecorg/vuido",
+    "url": "https://github.com/mimecorg/vuido",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jack-Cherish/python-spider",
+    "url": "https://github.com/Jack-Cherish/python-spider",
+    "lang": "Python"
+  },
+  {
+    "title": "ambv/black",
+    "url": "https://github.com/ambv/black",
+    "lang": "Python"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets"
+  },
+  {
+    "title": "davideuler/architecture.of.internet-product",
+    "url": "https://github.com/davideuler/architecture.of.internet-product"
+  },
+  {
+    "title": "FairyEver/d2admin-vue-element",
+    "url": "https://github.com/FairyEver/d2admin-vue-element",
+    "lang": "CSS"
+  },
+  {
+    "title": "higgsfield/RL-Adventure-2",
+    "url": "https://github.com/higgsfield/RL-Adventure-2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NervanaSystems/nlp-architect",
+    "url": "https://github.com/NervanaSystems/nlp-architect",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "DistrictDataLabs/yellowbrick",
+    "url": "https://github.com/DistrictDataLabs/yellowbrick",
+    "lang": "Python"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome"
+  },
+  {
+    "title": "klauscfhq/signale",
+    "url": "https://github.com/klauscfhq/signale",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "lang": "Java"
+  },
+  {
+    "title": "DingMouRen/LayoutManagerGroup",
+    "url": "https://github.com/DingMouRen/LayoutManagerGroup",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "c0ny1/upload-labs",
+    "url": "https://github.com/c0ny1/upload-labs",
+    "lang": "PHP"
+  },
+  {
+    "title": "mint-lang/mint",
+    "url": "https://github.com/mint-lang/mint",
+    "lang": "Crystal"
+  },
+  {
+    "title": "GetStream/Winds",
+    "url": "https://github.com/GetStream/Winds",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spacejam/sled",
+    "url": "https://github.com/spacejam/sled",
+    "lang": "Rust"
+  },
+  {
+    "title": "guardicore/monkey",
+    "url": "https://github.com/guardicore/monkey",
+    "lang": "Python"
+  },
+  {
+    "title": "golangci/golangci-lint",
+    "url": "https://github.com/golangci/golangci-lint",
+    "lang": "Go"
+  }
+]

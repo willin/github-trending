@@ -1,0 +1,125 @@
+[
+  {
+    "title": "ry/deno",
+    "url": "https://github.com/ry/deno",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "senorprogrammer/wtf",
+    "url": "https://github.com/senorprogrammer/wtf",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reach/router",
+    "url": "https://github.com/reach/router",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "egoist/maid",
+    "url": "https://github.com/egoist/maid",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fejes713/30-seconds-of-interviews",
+    "url": "https://github.com/fejes713/30-seconds-of-interviews",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GoogleChromeLabs/prerender-loader",
+    "url": "https://github.com/GoogleChromeLabs/prerender-loader",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uber/kepler.gl",
+    "url": "https://github.com/uber/kepler.gl",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "wangshub/Douyin-Bot",
+    "url": "https://github.com/wangshub/Douyin-Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChromeLabs/critters",
+    "url": "https://github.com/GoogleChromeLabs/critters",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "c8r/kit",
+    "url": "https://github.com/c8r/kit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wiredjs/wired-elements",
+    "url": "https://github.com/wiredjs/wired-elements",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TelegramMessenger/MTProxy",
+    "url": "https://github.com/TelegramMessenger/MTProxy",
+    "lang": "C"
+  },
+  {
+    "title": "sodium-friends/learntocrypto",
+    "url": "https://github.com/sodium-friends/learntocrypto",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uileader/touchui",
+    "url": "https://github.com/uileader/touchui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "llSourcell/Learn_Deep_Learning_in_6_Weeks",
+    "url": "https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imWildCat/scylla",
+    "url": "https://github.com/imWildCat/scylla",
+    "lang": "Python"
+  },
+  {
+    "title": "yandex/odyssey",
+    "url": "https://github.com/yandex/odyssey",
+    "lang": "C"
+  },
+  {
+    "title": "mgechev/revive",
+    "url": "https://github.com/mgechev/revive",
+    "lang": "Go"
+  },
+  {
+    "title": "iqiyi/Andromeda",
+    "url": "https://github.com/iqiyi/Andromeda",
+    "lang": "Java"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "jeeliz/jeelizFaceFilter",
+    "url": "https://github.com/jeeliz/jeelizFaceFilter",
+    "lang": "JavaScript"
+  }
+]

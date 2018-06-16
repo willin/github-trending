@@ -1,0 +1,123 @@
+[
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Netflix/pollyjs",
+    "url": "https://github.com/Netflix/pollyjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/gif-for-cli",
+    "url": "https://github.com/google/gif-for-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "lang": "Shell"
+  },
+  {
+    "title": "ry/deno",
+    "url": "https://github.com/ry/deno",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GeekyAnts/vue-native-core",
+    "url": "https://github.com/GeekyAnts/vue-native-core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xo/usql",
+    "url": "https://github.com/xo/usql",
+    "lang": "Go"
+  },
+  {
+    "title": "Tinder/Scarlet",
+    "url": "https://github.com/Tinder/Scarlet",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "klinker24/talon-for-twitter-android",
+    "url": "https://github.com/klinker24/talon-for-twitter-android",
+    "lang": "Java"
+  },
+  {
+    "title": "styfle/awesome-online-ide",
+    "url": "https://github.com/styfle/awesome-online-ide"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/react-native-windows",
+    "url": "https://github.com/Microsoft/react-native-windows",
+    "lang": "C#"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "lang": "C"
+  },
+  {
+    "title": "facebook/Sonar",
+    "url": "https://github.com/facebook/Sonar",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arturadib/strapdown",
+    "url": "https://github.com/arturadib/strapdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Microsoft/vscode-pull-request-github",
+    "url": "https://github.com/Microsoft/vscode-pull-request-github",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaredpalmer/razzle",
+    "url": "https://github.com/jaredpalmer/razzle",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antoaravinth/lets-build-express",
+    "url": "https://github.com/antoaravinth/lets-build-express",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidmerfield/Blot",
+    "url": "https://github.com/davidmerfield/Blot",
+    "lang": "HTML"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  }
+]

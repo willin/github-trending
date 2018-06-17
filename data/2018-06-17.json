@@ -1,0 +1,123 @@
+[
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "lang": "Shell"
+  },
+  {
+    "title": "OWASP/owasp-mstg",
+    "url": "https://github.com/OWASP/owasp-mstg",
+    "lang": "HTML"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns"
+  },
+  {
+    "title": "Netflix/pollyjs",
+    "url": "https://github.com/Netflix/pollyjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/gif-for-cli",
+    "url": "https://github.com/google/gif-for-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "styfle/awesome-online-ide",
+    "url": "https://github.com/styfle/awesome-online-ide"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ry/deno",
+    "url": "https://github.com/ry/deno",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "botpress/botpress",
+    "url": "https://github.com/botpress/botpress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tinder/Scarlet",
+    "url": "https://github.com/Tinder/Scarlet",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "jaredpalmer/razzle",
+    "url": "https://github.com/jaredpalmer/razzle",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GeekyAnts/vue-native-core",
+    "url": "https://github.com/GeekyAnts/vue-native-core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ml5js/ml5-library",
+    "url": "https://github.com/ml5js/ml5-library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "arturadib/strapdown",
+    "url": "https://github.com/arturadib/strapdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "xo/usql",
+    "url": "https://github.com/xo/usql",
+    "lang": "Go"
+  },
+  {
+    "title": "antoaravinth/lets-build-express",
+    "url": "https://github.com/antoaravinth/lets-build-express",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "o1lab/xmysql",
+    "url": "https://github.com/o1lab/xmysql",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "klinker24/talon-for-twitter-android",
+    "url": "https://github.com/klinker24/talon-for-twitter-android",
+    "lang": "Java"
+  }
+]

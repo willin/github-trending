@@ -1,0 +1,123 @@
+[
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "lang": "Shell"
+  },
+  {
+    "title": "Netflix/pollyjs",
+    "url": "https://github.com/Netflix/pollyjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yrnkrn/zapcc",
+    "url": "https://github.com/yrnkrn/zapcc",
+    "lang": "C++"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns"
+  },
+  {
+    "title": "NationalSecurityAgency/lemongraph",
+    "url": "https://github.com/NationalSecurityAgency/lemongraph",
+    "lang": "Python"
+  },
+  {
+    "title": "khlieng/dispatch",
+    "url": "https://github.com/khlieng/dispatch",
+    "lang": "Go"
+  },
+  {
+    "title": "kyle8998/Vynchronize",
+    "url": "https://github.com/kyle8998/Vynchronize",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geeofree/kalendaryo",
+    "url": "https://github.com/geeofree/kalendaryo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OWASP/owasp-mstg",
+    "url": "https://github.com/OWASP/owasp-mstg",
+    "lang": "HTML"
+  },
+  {
+    "title": "ml5js/ml5-library",
+    "url": "https://github.com/ml5js/ml5-library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/gif-for-cli",
+    "url": "https://github.com/google/gif-for-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "ry/deno",
+    "url": "https://github.com/ry/deno",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "o1lab/xmysql",
+    "url": "https://github.com/o1lab/xmysql",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GeekyAnts/vue-native-core",
+    "url": "https://github.com/GeekyAnts/vue-native-core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tinder/Scarlet",
+    "url": "https://github.com/Tinder/Scarlet",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "botpress/botpress",
+    "url": "https://github.com/botpress/botpress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "externalist/exploit_playground",
+    "url": "https://github.com/externalist/exploit_playground",
+    "lang": "C"
+  },
+  {
+    "title": "aalansehaiyang/technology-talk",
+    "url": "https://github.com/aalansehaiyang/technology-talk"
+  },
+  {
+    "title": "styfle/awesome-online-ide",
+    "url": "https://github.com/styfle/awesome-online-ide"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "adam-golab/react-developer-roadmap",
+    "url": "https://github.com/adam-golab/react-developer-roadmap"
+  },
+  {
+    "title": "alcor/itty-bitty",
+    "url": "https://github.com/alcor/itty-bitty",
+    "lang": "HTML"
+  },
+  {
+    "title": "recca0120/laravel-terminal",
+    "url": "https://github.com/recca0120/laravel-terminal",
+    "lang": "PHP"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "lang": "Swift"
+  },
+  {
+    "title": "udacity/deep-reinforcement-learning",
+    "url": "https://github.com/udacity/deep-reinforcement-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "retejs/rete",
+    "url": "https://github.com/retejs/rete",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dylanaraps/neofetch",
+    "url": "https://github.com/dylanaraps/neofetch",
+    "lang": "Shell"
+  },
+  {
+    "title": "yidas/phpspreadsheet-helper",
+    "url": "https://github.com/yidas/phpspreadsheet-helper",
+    "lang": "PHP"
+  },
+  {
+    "title": "microstates/microstates.js",
+    "url": "https://github.com/microstates/microstates.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nbedos/termtosvg",
+    "url": "https://github.com/nbedos/termtosvg",
+    "lang": "Python"
+  },
+  {
+    "title": "d2-projects/d2-admin",
+    "url": "https://github.com/d2-projects/d2-admin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laravel-dojo/smartdove",
+    "url": "https://github.com/laravel-dojo/smartdove",
+    "lang": "PHP"
+  },
+  {
+    "title": "FiloSottile/mkcert",
+    "url": "https://github.com/FiloSottile/mkcert",
+    "lang": "Go"
+  },
+  {
+    "title": "kay-is/react-from-zero",
+    "url": "https://github.com/kay-is/react-from-zero",
+    "lang": "HTML"
+  },
+  {
+    "title": "globaleaks/GlobaLeaks",
+    "url": "https://github.com/globaleaks/GlobaLeaks",
+    "lang": "Python"
+  },
+  {
+    "title": "timqian/hacker-job-trends",
+    "url": "https://github.com/timqian/hacker-job-trends",
+    "lang": "HTML"
+  },
+  {
+    "title": "istarkov/rifm",
+    "url": "https://github.com/istarkov/rifm",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eropple/taskbotjs",
+    "url": "https://github.com/eropple/taskbotjs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "onecentlin/laravel-adminer",
+    "url": "https://github.com/onecentlin/laravel-adminer",
+    "lang": "PHP"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "learn-vuejs/vue-patterns",
+    "url": "https://github.com/learn-vuejs/vue-patterns"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "hazbo/httpu",
+    "url": "https://github.com/hazbo/httpu",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "saschagrunert/webapp.rs",
+    "url": "https://github.com/saschagrunert/webapp.rs",
+    "lang": "Rust"
+  }
+]

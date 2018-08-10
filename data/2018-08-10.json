@@ -1,0 +1,123 @@
+[
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "lang": "Ruby"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "lang": "Shell"
+  },
+  {
+    "title": "niieani/bash-oo-framework",
+    "url": "https://github.com/niieani/bash-oo-framework",
+    "lang": "Shell"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "williamngan/pts",
+    "url": "https://github.com/williamngan/pts",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/glb-director",
+    "url": "https://github.com/github/glb-director",
+    "lang": "C"
+  },
+  {
+    "title": "xoreaxeaxeax/rosenbridge",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "lang": "C"
+  },
+  {
+    "title": "SpiderLabs/social_mapper",
+    "url": "https://github.com/SpiderLabs/social_mapper",
+    "lang": "Python"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "zeeshanu/dumper.js",
+    "url": "https://github.com/zeeshanu/dumper.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "lang": "Go"
+  },
+  {
+    "title": "bvaughn/react-window",
+    "url": "https://github.com/bvaughn/react-window",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/got",
+    "url": "https://github.com/sindresorhus/got",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shengxinjing/programmer-job-blacklist",
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist"
+  },
+  {
+    "title": "HcySunYang/vue-design",
+    "url": "https://github.com/HcySunYang/vue-design",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "darlinghq/darling",
+    "url": "https://github.com/darlinghq/darling",
+    "lang": "C"
+  },
+  {
+    "title": "vitelabs/go-vite",
+    "url": "https://github.com/vitelabs/go-vite",
+    "lang": "Go"
+  },
+  {
+    "title": "haskellcamargo/sclack",
+    "url": "https://github.com/haskellcamargo/sclack",
+    "lang": "Python"
+  },
+  {
+    "title": "dawnlabs/carbon",
+    "url": "https://github.com/dawnlabs/carbon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/Interview-Notebook",
+    "url": "https://github.com/CyC2018/Interview-Notebook"
+  }
+]

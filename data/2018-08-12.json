@@ -1,0 +1,123 @@
+[
+  {
+    "title": "umpox/TinyEditor",
+    "url": "https://github.com/umpox/TinyEditor",
+    "lang": "HTML"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "electron/fiddle",
+    "url": "https://github.com/electron/fiddle",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "niieani/bash-oo-framework",
+    "url": "https://github.com/niieani/bash-oo-framework",
+    "lang": "Shell"
+  },
+  {
+    "title": "Hello-Linux/Ansible-VIM-IDE",
+    "url": "https://github.com/Hello-Linux/Ansible-VIM-IDE"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "GetPublii/Publii",
+    "url": "https://github.com/GetPublii/Publii",
+    "lang": "HTML"
+  },
+  {
+    "title": "xoreaxeaxeax/rosenbridge",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "lang": "C"
+  },
+  {
+    "title": "thepracticaldev/dev.to",
+    "url": "https://github.com/thepracticaldev/dev.to",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphqurl",
+    "url": "https://github.com/hasura/graphqurl",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-source-ideas/open-source-ideas",
+    "url": "https://github.com/open-source-ideas/open-source-ideas"
+  },
+  {
+    "title": "terryjiao/BitcoinWallet",
+    "url": "https://github.com/terryjiao/BitcoinWallet",
+    "lang": "Java"
+  },
+  {
+    "title": "zeeshanu/dumper.js",
+    "url": "https://github.com/zeeshanu/dumper.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "williamngan/pts",
+    "url": "https://github.com/williamngan/pts",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SpiderLabs/social_mapper",
+    "url": "https://github.com/SpiderLabs/social_mapper",
+    "lang": "Python"
+  },
+  {
+    "title": "monostable/electro-grammar",
+    "url": "https://github.com/monostable/electro-grammar",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/Detours",
+    "url": "https://github.com/Microsoft/Detours",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ml874/Data-Science-Cheatsheet",
+    "url": "https://github.com/ml874/Data-Science-Cheatsheet",
+    "lang": "TeX"
+  },
+  {
+    "title": "yogurt-cultures/kefir",
+    "url": "https://github.com/yogurt-cultures/kefir",
+    "lang": "Python"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "lang": "Shell"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "google/xi-editor",
+    "url": "https://github.com/google/xi-editor",
+    "lang": "Rust"
+  }
+]

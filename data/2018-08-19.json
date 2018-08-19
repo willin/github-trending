@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Microsoft/FASTER",
+    "url": "https://github.com/Microsoft/FASTER",
+    "lang": "C#"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "lang": "Python"
+  },
+  {
+    "title": "Droogans/unmaintainable-code",
+    "url": "https://github.com/Droogans/unmaintainable-code"
+  },
+  {
+    "title": "MichaelMure/git-bug",
+    "url": "https://github.com/MichaelMure/git-bug",
+    "lang": "Go"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "lang": "Python"
+  },
+  {
+    "title": "runvnc/dadsresume",
+    "url": "https://github.com/runvnc/dadsresume"
+  },
+  {
+    "title": "aykevl/tinygo",
+    "url": "https://github.com/aykevl/tinygo",
+    "lang": "Go"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "lang": "Python"
+  },
+  {
+    "title": "benhoyt/goawk",
+    "url": "https://github.com/benhoyt/goawk",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "imhuay/Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "IEEEKeralaSection/rescuekerala",
+    "url": "https://github.com/IEEEKeralaSection/rescuekerala",
+    "lang": "Python"
+  },
+  {
+    "title": "mawww/kakoune",
+    "url": "https://github.com/mawww/kakoune",
+    "lang": "C++"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "lang": "Go"
+  },
+  {
+    "title": "zserge/webview",
+    "url": "https://github.com/zserge/webview",
+    "lang": "C"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "astorfi/Deep-Learning-World",
+    "url": "https://github.com/astorfi/Deep-Learning-World",
+    "lang": "Python"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "lang": "Java"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "firehol/netdata",
+    "url": "https://github.com/firehol/netdata",
+    "lang": "C"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  }
+]

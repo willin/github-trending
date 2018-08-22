@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "lang": "Python"
+  },
+  {
+    "title": "JessYanCoding/AndroidAutoSize",
+    "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "lang": "Java"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "lang": "Python"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "pedronauck/reworm",
+    "url": "https://github.com/pedronauck/reworm",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/interactive-coding-challenges",
+    "url": "https://github.com/donnemartin/interactive-coding-challenges",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "BestDingSheng/resources",
+    "url": "https://github.com/BestDingSheng/resources",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TKkk-iOSer/WeChatPlugin-MacOS",
+    "url": "https://github.com/TKkk-iOSer/WeChatPlugin-MacOS",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "sinclairtarget/um",
+    "url": "https://github.com/sinclairtarget/um",
+    "lang": "Ruby"
+  },
+  {
+    "title": "google/python-fire",
+    "url": "https://github.com/google/python-fire",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "ai/nanoid",
+    "url": "https://github.com/ai/nanoid",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "lang": "Python"
+  },
+  {
+    "title": "sourcerer-io/hall-of-fame",
+    "url": "https://github.com/sourcerer-io/hall-of-fame",
+    "lang": "Python"
+  },
+  {
+    "title": "ampproject/worker-dom",
+    "url": "https://github.com/ampproject/worker-dom",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zjun615/RuleView",
+    "url": "https://github.com/zjun615/RuleView",
+    "lang": "Java"
+  },
+  {
+    "title": "Droogans/unmaintainable-code",
+    "url": "https://github.com/Droogans/unmaintainable-code"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map"
+  },
+  {
+    "title": "bustle/mobiledoc-kit",
+    "url": "https://github.com/bustle/mobiledoc-kit",
+    "lang": "JavaScript"
+  }
+]

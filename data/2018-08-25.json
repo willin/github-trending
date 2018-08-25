@@ -1,0 +1,123 @@
+[
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "lang": "Ruby"
+  },
+  {
+    "title": "fogleman/Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "lang": "C"
+  },
+  {
+    "title": "arduino/arduino-cli",
+    "url": "https://github.com/arduino/arduino-cli",
+    "lang": "Go"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "iodide-project/pyodide",
+    "url": "https://github.com/iodide-project/pyodide",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "buzzfeed/sso",
+    "url": "https://github.com/buzzfeed/sso",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JohnSundell/Splash",
+    "url": "https://github.com/JohnSundell/Splash",
+    "lang": "Swift"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jianstm/Schedule",
+    "url": "https://github.com/jianstm/Schedule",
+    "lang": "Swift"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ra1028/DifferenceKit",
+    "url": "https://github.com/ra1028/DifferenceKit",
+    "lang": "Swift"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "agens-no/swiff",
+    "url": "https://github.com/agens-no/swiff",
+    "lang": "Swift"
+  },
+  {
+    "title": "GPUOpen-LibrariesAndSDKs/V-EZ",
+    "url": "https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ",
+    "lang": "C"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "lang": "Python"
+  }
+]

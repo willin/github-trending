@@ -1,0 +1,121 @@
+[
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "GoogleChromeLabs/size-plugin",
+    "url": "https://github.com/GoogleChromeLabs/size-plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "diogocezar/dctb-utfpr",
+    "url": "https://github.com/diogocezar/dctb-utfpr"
+  },
+  {
+    "title": "arduino/arduino-cli",
+    "url": "https://github.com/arduino/arduino-cli",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "fogleman/Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "lang": "C"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "InterviewMap/CS-Interview-Knowledge-Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map"
+  },
+  {
+    "title": "afshinea/stanford-cs-229-machine-learning",
+    "url": "https://github.com/afshinea/stanford-cs-229-machine-learning"
+  },
+  {
+    "title": "nteract/papermill",
+    "url": "https://github.com/nteract/papermill",
+    "lang": "Python"
+  },
+  {
+    "title": "SystemsApproach/book",
+    "url": "https://github.com/SystemsApproach/book",
+    "lang": "CSS"
+  },
+  {
+    "title": "mafintosh/turbo-json-parse",
+    "url": "https://github.com/mafintosh/turbo-json-parse",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vmxdev/tkvdb",
+    "url": "https://github.com/vmxdev/tkvdb",
+    "lang": "C"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "Physiix/topsi-project-manager",
+    "url": "https://github.com/Physiix/topsi-project-manager",
+    "lang": "Vue"
+  },
+  {
+    "title": "JohnSundell/Splash",
+    "url": "https://github.com/JohnSundell/Splash",
+    "lang": "Swift"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "iodide-project/pyodide",
+    "url": "https://github.com/iodide-project/pyodide",
+    "lang": "Python"
+  },
+  {
+    "title": "Jannchie/Historical-ranking-data-visualization-based-on-d3.js",
+    "url": "https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/book-computer-networks",
+    "url": "https://github.com/ruanyf/book-computer-networks"
+  }
+]

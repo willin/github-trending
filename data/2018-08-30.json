@@ -1,0 +1,124 @@
+[
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aergoio/litetree",
+    "url": "https://github.com/aergoio/litetree",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/MvRx",
+    "url": "https://github.com/airbnb/MvRx",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Venerons/CivJS",
+    "url": "https://github.com/Venerons/CivJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python"
+  },
+  {
+    "title": "davecheney/gophercon2018-performance-tuning-workshop",
+    "url": "https://github.com/davecheney/gophercon2018-performance-tuning-workshop",
+    "lang": "Go"
+  },
+  {
+    "title": "reach/reach-ui",
+    "url": "https://github.com/reach/reach-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jnz/q3vm",
+    "url": "https://github.com/jnz/q3vm",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "pomber/code-surfer",
+    "url": "https://github.com/pomber/code-surfer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lerna/lerna",
+    "url": "https://github.com/lerna/lerna",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "lang": "Java"
+  },
+  {
+    "title": "darklife/darkriscv",
+    "url": "https://github.com/darklife/darkriscv",
+    "lang": "Verilog"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/BizCharts",
+    "url": "https://github.com/alibaba/BizCharts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SandboxEscaper/randomrepo",
+    "url": "https://github.com/SandboxEscaper/randomrepo"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "lang": "Java"
+  }
+]

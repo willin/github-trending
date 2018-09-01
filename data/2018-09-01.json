@@ -1,0 +1,124 @@
+[
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "lang": "Java"
+  },
+  {
+    "title": "lukeed/pwa",
+    "url": "https://github.com/lukeed/pwa",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dschep/proven",
+    "url": "https://github.com/dschep/proven",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "React-Proto/react-proto",
+    "url": "https://github.com/React-Proto/react-proto",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "lang": "Go"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "lang": "Go"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleChromeLabs/progressive-tooling",
+    "url": "https://github.com/GoogleChromeLabs/progressive-tooling",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eduard-permyakov/permafrost-engine",
+    "url": "https://github.com/eduard-permyakov/permafrost-engine",
+    "lang": "C"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/Java-Guide",
+    "url": "https://github.com/Snailclimb/Java-Guide",
+    "lang": "Java"
+  }
+]

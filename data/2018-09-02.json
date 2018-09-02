@@ -1,0 +1,124 @@
+[
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "lukeed/pwa",
+    "url": "https://github.com/lukeed/pwa",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/tink",
+    "url": "https://github.com/google/tink",
+    "lang": "Java"
+  },
+  {
+    "title": "React-Proto/react-proto",
+    "url": "https://github.com/React-Proto/react-proto",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "shzlw/zeu",
+    "url": "https://github.com/shzlw/zeu",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/test-your-sysadmin-skills",
+    "url": "https://github.com/trimstray/test-your-sysadmin-skills"
+  },
+  {
+    "title": "google/dopamine",
+    "url": "https://github.com/google/dopamine",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices"
+  },
+  {
+    "title": "Rich-Harris/shimport",
+    "url": "https://github.com/Rich-Harris/shimport",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/f2",
+    "url": "https://github.com/antvis/f2",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eduard-permyakov/permafrost-engine",
+    "url": "https://github.com/eduard-permyakov/permafrost-engine",
+    "lang": "C"
+  },
+  {
+    "title": "wexond/wexond",
+    "url": "https://github.com/wexond/wexond",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "callstack/linaria",
+    "url": "https://github.com/callstack/linaria",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedaviddias/Front-End-Performance-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Performance-Checklist"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "loremwalker/WebSiteUseful",
+    "url": "https://github.com/loremwalker/WebSiteUseful",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MachineLearning100/100-Days-Of-ML-Code",
+    "url": "https://github.com/MachineLearning100/100-Days-Of-ML-Code",
+    "lang": "JupyterNotebook"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "lang": "C++"
+  },
+  {
+    "title": "dibgerge/ml-coursera-python-assignments",
+    "url": "https://github.com/dibgerge/ml-coursera-python-assignments",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code"
+  },
+  {
+    "title": "apachecn/awesome-leetcode",
+    "url": "https://github.com/apachecn/awesome-leetcode",
+    "lang": "Python"
+  },
+  {
+    "title": "dennybritz/reinforcement-learning",
+    "url": "https://github.com/dennybritz/reinforcement-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "HuberTRoy/leetCode",
+    "url": "https://github.com/HuberTRoy/leetCode",
+    "lang": "Python"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vapid/vapid",
+    "url": "https://github.com/vapid/vapid",
+    "lang": "CSS"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-Momentjs",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc"
+  },
+  {
+    "title": "GoogleChromeLabs/idlize",
+    "url": "https://github.com/GoogleChromeLabs/idlize",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "NVIDIA/vid2vid",
+    "url": "https://github.com/NVIDIA/vid2vid",
+    "lang": "Python"
+  },
+  {
+    "title": "powerbankofficial/powerbank-PBK-ERC20",
+    "url": "https://github.com/powerbankofficial/powerbank-PBK-ERC20"
+  },
+  {
+    "title": "phoboslab/underrun",
+    "url": "https://github.com/phoboslab/underrun",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "lang": "Java"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/reactxp",
+    "url": "https://github.com/Microsoft/reactxp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tank0317/unit-test-demo",
+    "url": "https://github.com/tank0317/unit-test-demo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kitlang/kit",
+    "url": "https://github.com/kitlang/kit",
+    "lang": "Haskell"
+  },
+  {
+    "title": "transitive-bullshit/create-react-library",
+    "url": "https://github.com/transitive-bullshit/create-react-library",
+    "lang": "JavaScript"
+  }
+]

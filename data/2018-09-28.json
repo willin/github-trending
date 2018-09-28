@@ -1,0 +1,126 @@
+[
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/MMKV",
+    "url": "https://github.com/Tencent/MMKV",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "lang": "Python"
+  },
+  {
+    "title": "pulumi/kubespy",
+    "url": "https://github.com/pulumi/kubespy",
+    "lang": "Go"
+  },
+  {
+    "title": "auchenberg/volkswagen",
+    "url": "https://github.com/auchenberg/volkswagen",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skiplang/skip",
+    "url": "https://github.com/skiplang/skip",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "apifytech/apify-js",
+    "url": "https://github.com/apifytech/apify-js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aeroflotsrc/webapp",
+    "url": "https://github.com/aeroflotsrc/webapp"
+  },
+  {
+    "title": "tailwindcss/tailwindcss",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "lang": "CSS"
+  },
+  {
+    "title": "ibuildthecloud/k3s",
+    "url": "https://github.com/ibuildthecloud/k3s",
+    "lang": "Go"
+  },
+  {
+    "title": "crossoverJie/JCSprout",
+    "url": "https://github.com/crossoverJie/JCSprout",
+    "lang": "Java"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "kids-code-games/variables-war",
+    "url": "https://github.com/kids-code-games/variables-war",
+    "lang": "HTML"
+  },
+  {
+    "title": "albu/albumentations",
+    "url": "https://github.com/albu/albumentations",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dntzhang/westore",
+    "url": "https://github.com/dntzhang/westore",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "lang": "HTML"
+  }
+]

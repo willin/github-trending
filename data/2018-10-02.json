@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "lang": "Assembly"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "lang": "HTML"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "lang": "CSS"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "lang": "C"
+  },
+  {
+    "title": "spiral/roadrunner",
+    "url": "https://github.com/spiral/roadrunner",
+    "lang": "Go"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "nayafia/microgrants",
+    "url": "https://github.com/nayafia/microgrants"
+  },
+  {
+    "title": "solid/node-solid-server",
+    "url": "https://github.com/solid/node-solid-server",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "lang": "HTML"
+  },
+  {
+    "title": "ampproject/worker-dom",
+    "url": "https://github.com/ampproject/worker-dom",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Bogdanp/molten",
+    "url": "https://github.com/Bogdanp/molten",
+    "lang": "Python"
+  },
+  {
+    "title": "chrislusf/seaweedfs",
+    "url": "https://github.com/chrislusf/seaweedfs",
+    "lang": "Go"
+  },
+  {
+    "title": "hdm/mac-ages",
+    "url": "https://github.com/hdm/mac-ages",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "micromdm/micromdm",
+    "url": "https://github.com/micromdm/micromdm",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FlightBlaze/Newtoo",
+    "url": "https://github.com/FlightBlaze/Newtoo",
+    "lang": "C++"
+  },
+  {
+    "title": "nodkz/lvovich",
+    "url": "https://github.com/nodkz/lvovich",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "lang": "JavaScript"
+  }
+]

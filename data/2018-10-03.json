@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "lang": "Assembly"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "lang": "Go"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "lang": "Go"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "lang": "HTML"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "lang": "C"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "spiral/roadrunner",
+    "url": "https://github.com/spiral/roadrunner",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hdm/mac-ages",
+    "url": "https://github.com/hdm/mac-ages",
+    "lang": "Ruby"
+  },
+  {
+    "title": "maierfelix/node-vulkan",
+    "url": "https://github.com/maierfelix/node-vulkan",
+    "lang": "C++"
+  },
+  {
+    "title": "lingonsaft/hacktoberfest",
+    "url": "https://github.com/lingonsaft/hacktoberfest",
+    "lang": "HTML"
+  },
+  {
+    "title": "OpenGenus/cosmos",
+    "url": "https://github.com/OpenGenus/cosmos",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "mjavascript/mastering-modular-javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "lang": "HTML"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "akveo/nebular",
+    "url": "https://github.com/akveo/nebular",
+    "lang": "TypeScript"
+  }
+]

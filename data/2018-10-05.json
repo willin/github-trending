@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "lang": "Assembly"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "lang": "Go"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "lang": "Go"
+  },
+  {
+    "title": "iov-one/weave",
+    "url": "https://github.com/iov-one/weave",
+    "lang": "Go"
+  },
+  {
+    "title": "basecamp/trix",
+    "url": "https://github.com/basecamp/trix",
+    "lang": "CoffeeScript"
+  },
+  {
+    "title": "solid/solid",
+    "url": "https://github.com/solid/solid",
+    "lang": "HTML"
+  },
+  {
+    "title": "nikitavoloboev/my-mac-os",
+    "url": "https://github.com/nikitavoloboev/my-mac-os",
+    "lang": "CSS"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cfenollosa/os-tutorial",
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "lang": "C"
+  },
+  {
+    "title": "chiphuyen/sotawhat",
+    "url": "https://github.com/chiphuyen/sotawhat",
+    "lang": "Python"
+  },
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rhardih/ekill",
+    "url": "https://github.com/rhardih/ekill",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rianhunter/dbxfs",
+    "url": "https://github.com/rianhunter/dbxfs",
+    "lang": "Python"
+  },
+  {
+    "title": "kylestetz/slang",
+    "url": "https://github.com/kylestetz/slang",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/libreact",
+    "url": "https://github.com/streamich/libreact",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rails/actiontext",
+    "url": "https://github.com/rails/actiontext",
+    "lang": "Ruby"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "PDP-10/its",
+    "url": "https://github.com/PDP-10/its",
+    "lang": "Assembly"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Jigsaw-Code/Intra",
+    "url": "https://github.com/Jigsaw-Code/Intra",
+    "lang": "Java"
+  }
+]

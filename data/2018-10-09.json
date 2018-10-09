@@ -1,0 +1,123 @@
+[
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Syllo/nvtop",
+    "url": "https://github.com/Syllo/nvtop",
+    "lang": "C"
+  },
+  {
+    "title": "jlaine/aiortc",
+    "url": "https://github.com/jlaine/aiortc",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "lang": "Assembly"
+  },
+  {
+    "title": "Mojang/brigadier",
+    "url": "https://github.com/Mojang/brigadier",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "lang": "Java"
+  },
+  {
+    "title": "iovisor/bpftrace",
+    "url": "https://github.com/iovisor/bpftrace",
+    "lang": "C++"
+  },
+  {
+    "title": "heyscrumpy/tiptap",
+    "url": "https://github.com/heyscrumpy/tiptap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "lang": "Go"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "lang": "Java"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet"
+  },
+  {
+    "title": "b3log/symphony",
+    "url": "https://github.com/b3log/symphony",
+    "lang": "Java"
+  },
+  {
+    "title": "Mojang/DataFixerUpper",
+    "url": "https://github.com/Mojang/DataFixerUpper",
+    "lang": "Java"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "mit-pdos/biscuit",
+    "url": "https://github.com/mit-pdos/biscuit",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/infer",
+    "url": "https://github.com/dotnet/infer",
+    "lang": "C#"
+  },
+  {
+    "title": "Microsoft/vscode",
+    "url": "https://github.com/Microsoft/vscode",
+    "lang": "TypeScript"
+  }
+]

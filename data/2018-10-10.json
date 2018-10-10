@@ -1,0 +1,122 @@
+[
+  {
+    "title": "viatsko/awesome-vscode",
+    "url": "https://github.com/viatsko/awesome-vscode",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mahmoud/boltons",
+    "url": "https://github.com/mahmoud/boltons",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "facert/awesome-spider",
+    "url": "https://github.com/facert/awesome-spider"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SFLAQiu/web-develop",
+    "url": "https://github.com/SFLAQiu/web-develop"
+  },
+  {
+    "title": "Syllo/nvtop",
+    "url": "https://github.com/Syllo/nvtop",
+    "lang": "C"
+  },
+  {
+    "title": "mit-pdos/biscuit",
+    "url": "https://github.com/mit-pdos/biscuit",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/MS-DOS",
+    "url": "https://github.com/Microsoft/MS-DOS",
+    "lang": "Assembly"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "heyscrumpy/tiptap",
+    "url": "https://github.com/heyscrumpy/tiptap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "lang": "Java"
+  },
+  {
+    "title": "Mojang/brigadier",
+    "url": "https://github.com/Mojang/brigadier",
+    "lang": "Java"
+  },
+  {
+    "title": "hausec/ADAPE-Script",
+    "url": "https://github.com/hausec/ADAPE-Script",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "enochtangg/quick-SQL-cheatsheet",
+    "url": "https://github.com/enochtangg/quick-SQL-cheatsheet"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hacktoberfest-2018/Hello-world",
+    "url": "https://github.com/Hacktoberfest-2018/Hello-world",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "iovisor/bpftrace",
+    "url": "https://github.com/iovisor/bpftrace",
+    "lang": "C++"
+  },
+  {
+    "title": "MontFerret/ferret",
+    "url": "https://github.com/MontFerret/ferret",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "lang": "Java"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "LUX-Core/lux",
+    "url": "https://github.com/LUX-Core/lux",
+    "lang": "C++"
+  },
+  {
+    "title": "santinic/pampy",
+    "url": "https://github.com/santinic/pampy",
+    "lang": "Python"
+  },
+  {
+    "title": "enquirer/enquirer",
+    "url": "https://github.com/enquirer/enquirer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "akveo/eva-icons",
+    "url": "https://github.com/akveo/eva-icons",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sokra/rawact",
+    "url": "https://github.com/sokra/rawact",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/spinningup",
+    "url": "https://github.com/openai/spinningup",
+    "lang": "Python"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "TeX"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NickPiscitelli/Glider.js",
+    "url": "https://github.com/NickPiscitelli/Glider.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "lang": "Python"
+  },
+  {
+    "title": "tbodt/ish",
+    "url": "https://github.com/tbodt/ish",
+    "lang": "C"
+  },
+  {
+    "title": "picturepan2/spectre",
+    "url": "https://github.com/picturepan2/spectre",
+    "lang": "CSS"
+  },
+  {
+    "title": "yandexdataschool/nlp_course",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thecasualcoder/tztail",
+    "url": "https://github.com/thecasualcoder/tztail",
+    "lang": "Rust"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mholt/archiver",
+    "url": "https://github.com/mholt/archiver",
+    "lang": "Go"
+  },
+  {
+    "title": "GoogleChromeLabs/carlo",
+    "url": "https://github.com/GoogleChromeLabs/carlo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KevEdwards/CrazeeRiderBBC",
+    "url": "https://github.com/KevEdwards/CrazeeRiderBBC",
+    "lang": "Makefile"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s0md3v/XSStrike",
+    "url": "https://github.com/s0md3v/XSStrike",
+    "lang": "Python"
+  },
+  {
+    "title": "Septillion/KFMARK",
+    "url": "https://github.com/Septillion/KFMARK"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  }
+]

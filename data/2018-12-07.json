@@ -1,0 +1,124 @@
+[
+  {
+    "title": "MicrosoftEdge/MSEdge",
+    "url": "https://github.com/MicrosoftEdge/MSEdge"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "Microsoft/Ethr",
+    "url": "https://github.com/Microsoft/Ethr",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "SplashCodes/JAViewer",
+    "url": "https://github.com/SplashCodes/JAViewer",
+    "lang": "Java"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "lang": "CSS"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "lang": "Python"
+  },
+  {
+    "title": "leisurelicht/wtfpython-cn",
+    "url": "https://github.com/leisurelicht/wtfpython-cn",
+    "lang": "Python"
+  },
+  {
+    "title": "zeit/ncc",
+    "url": "https://github.com/zeit/ncc",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "beyondcode/laravel-websockets",
+    "url": "https://github.com/beyondcode/laravel-websockets",
+    "lang": "PHP"
+  },
+  {
+    "title": "CreativeIT/material-angular-dashboard",
+    "url": "https://github.com/CreativeIT/material-angular-dashboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "GoogleChrome/puppeteer",
+    "url": "https://github.com/GoogleChrome/puppeteer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "C++"
+  },
+  {
+    "title": "streamich/awesome-styleguides",
+    "url": "https://github.com/streamich/awesome-styleguides"
+  },
+  {
+    "title": "dotnet/wpf",
+    "url": "https://github.com/dotnet/wpf",
+    "lang": "C#"
+  },
+  {
+    "title": "alixaxel/chrome-aws-lambda",
+    "url": "https://github.com/alixaxel/chrome-aws-lambda",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/compose-on-kubernetes",
+    "url": "https://github.com/docker/compose-on-kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "vladocar/screenshoteer",
+    "url": "https://github.com/vladocar/screenshoteer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/ranking",
+    "url": "https://github.com/tensorflow/ranking",
+    "lang": "Python"
+  },
+  {
+    "title": "atlas-engineer/next",
+    "url": "https://github.com/atlas-engineer/next",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cssanimation/css-animation-101",
+    "url": "https://github.com/cssanimation/css-animation-101",
+    "lang": "CSS"
+  },
+  {
+    "title": "rstudio/gt",
+    "url": "https://github.com/rstudio/gt",
+    "lang": "R"
+  }
+]

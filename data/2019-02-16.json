@@ -1,0 +1,122 @@
+[
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "lang": "C#"
+  },
+  {
+    "title": "ssloy/tinyraycaster",
+    "url": "https://github.com/ssloy/tinyraycaster",
+    "lang": "C++"
+  },
+  {
+    "title": "sveinbjornt/Sloth",
+    "url": "https://github.com/sveinbjornt/Sloth",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "lang": "Python"
+  },
+  {
+    "title": "eranyanay/1m-go-websockets",
+    "url": "https://github.com/eranyanay/1m-go-websockets",
+    "lang": "Go"
+  },
+  {
+    "title": "autonomy/talos",
+    "url": "https://github.com/autonomy/talos",
+    "lang": "Go"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools"
+  },
+  {
+    "title": "EBazarov/nsfw_data_source_urls",
+    "url": "https://github.com/EBazarov/nsfw_data_source_urls"
+  },
+  {
+    "title": "uber/ludwig",
+    "url": "https://github.com/uber/ludwig",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "lang": "Dart"
+  },
+  {
+    "title": "pomber/git-history",
+    "url": "https://github.com/pomber/git-history",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "trimstray/nginx-quick-reference",
+    "url": "https://github.com/trimstray/nginx-quick-reference"
+  },
+  {
+    "title": "RasaHQ/rasa_core",
+    "url": "https://github.com/RasaHQ/rasa_core",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "lang": "Java"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "instantpage/instant.page",
+    "url": "https://github.com/instantpage/instant.page",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "filecoin-project/go-filecoin",
+    "url": "https://github.com/filecoin-project/go-filecoin",
+    "lang": "Go"
+  },
+  {
+    "title": "peripheryapp/periphery",
+    "url": "https://github.com/peripheryapp/periphery",
+    "lang": "Swift"
+  }
+]

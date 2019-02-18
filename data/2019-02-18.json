@@ -1,0 +1,121 @@
+[
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "taki0112/Tensorflow-Cookbook",
+    "url": "https://github.com/taki0112/Tensorflow-Cookbook",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools"
+  },
+  {
+    "title": "dakshshah96/awesome-startup-credits",
+    "url": "https://github.com/dakshshah96/awesome-startup-credits"
+  },
+  {
+    "title": "jdneo/vscode-leetcode",
+    "url": "https://github.com/jdneo/vscode-leetcode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/flutter-go",
+    "url": "https://github.com/alibaba/flutter-go",
+    "lang": "Dart"
+  },
+  {
+    "title": "NVlabs/stylegan",
+    "url": "https://github.com/NVlabs/stylegan",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "lang": "C#"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "lang": "Java"
+  },
+  {
+    "title": "nas5w/100-days-of-code-frontend",
+    "url": "https://github.com/nas5w/100-days-of-code-frontend"
+  },
+  {
+    "title": "dgraph-io/dgraph",
+    "url": "https://github.com/dgraph-io/dgraph",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "lang": "Shell"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  },
+  {
+    "title": "apachecn/awesome-algorithm",
+    "url": "https://github.com/apachecn/awesome-algorithm",
+    "lang": "Python"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pedrommcarrasco/Brooklyn",
+    "url": "https://github.com/pedrommcarrasco/Brooklyn",
+    "lang": "Swift"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "mbinary/USTC-CS-Courses-Resource",
+    "url": "https://github.com/mbinary/USTC-CS-Courses-Resource"
+  },
+  {
+    "title": "trimstray/htrace.sh",
+    "url": "https://github.com/trimstray/htrace.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kenwoodjw/python_interview_question",
+    "url": "https://github.com/kenwoodjw/python_interview_question"
+  },
+  {
+    "title": "pikapkg/web",
+    "url": "https://github.com/pikapkg/web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "inters/vita",
+    "url": "https://github.com/inters/vita",
+    "lang": "C"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitsadmin/wesng",
+    "url": "https://github.com/bitsadmin/wesng",
+    "lang": "Python"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "tidwall/tile38",
+    "url": "https://github.com/tidwall/tile38",
+    "lang": "Go"
+  },
+  {
+    "title": "zjhuang22/maskscoring_rcnn",
+    "url": "https://github.com/zjhuang22/maskscoring_rcnn",
+    "lang": "Python"
+  },
+  {
+    "title": "BayesWitnesses/m2cgen",
+    "url": "https://github.com/BayesWitnesses/m2cgen",
+    "lang": "Python"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools"
+  },
+  {
+    "title": "cloudflare/wirefilter",
+    "url": "https://github.com/cloudflare/wirefilter",
+    "lang": "Rust"
+  },
+  {
+    "title": "emilbaehr/automatic-app-landing-page",
+    "url": "https://github.com/emilbaehr/automatic-app-landing-page",
+    "lang": "HTML"
+  },
+  {
+    "title": "remoteinterview/zero",
+    "url": "https://github.com/remoteinterview/zero",
+    "lang": "Python"
+  },
+  {
+    "title": "SmirkCao/Lihang",
+    "url": "https://github.com/SmirkCao/Lihang",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/neural-mmo",
+    "url": "https://github.com/openai/neural-mmo",
+    "lang": "Python"
+  },
+  {
+    "title": "joelparkerhenderson/queueing_theory",
+    "url": "https://github.com/joelparkerhenderson/queueing_theory"
+  },
+  {
+    "title": "drcmda/react-three-fiber",
+    "url": "https://github.com/drcmda/react-three-fiber",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alipay/sofa-jraft",
+    "url": "https://github.com/alipay/sofa-jraft",
+    "lang": "Java"
+  }
+]

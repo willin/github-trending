@@ -1,0 +1,122 @@
+[
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/fish-redux",
+    "url": "https://github.com/alibaba/fish-redux",
+    "lang": "Dart"
+  },
+  {
+    "title": "uber/kraken",
+    "url": "https://github.com/uber/kraken",
+    "lang": "Go"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kenwoodjw/python_interview_question",
+    "url": "https://github.com/kenwoodjw/python_interview_question"
+  },
+  {
+    "title": "BayesWitnesses/m2cgen",
+    "url": "https://github.com/BayesWitnesses/m2cgen",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/htrace.sh",
+    "url": "https://github.com/trimstray/htrace.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "openai/neural-mmo",
+    "url": "https://github.com/openai/neural-mmo",
+    "lang": "Python"
+  },
+  {
+    "title": "USTC-Resource/USTC-Course",
+    "url": "https://github.com/USTC-Resource/USTC-Course",
+    "lang": "Python"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tidwall/tile38",
+    "url": "https://github.com/tidwall/tile38",
+    "lang": "Go"
+  },
+  {
+    "title": "zjhuang22/maskscoring_rcnn",
+    "url": "https://github.com/zjhuang22/maskscoring_rcnn",
+    "lang": "Python"
+  },
+  {
+    "title": "pikapkg/web",
+    "url": "https://github.com/pikapkg/web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "koekeishiya/chunkwm",
+    "url": "https://github.com/koekeishiya/chunkwm",
+    "lang": "C++"
+  },
+  {
+    "title": "uber/ludwig",
+    "url": "https://github.com/uber/ludwig",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "SmirkCao/Lihang",
+    "url": "https://github.com/SmirkCao/Lihang",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  }
+]

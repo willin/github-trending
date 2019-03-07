@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Microsoft/calculator",
+    "url": "https://github.com/Microsoft/calculator",
+    "lang": "C++"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "title": "codercom/code-server",
+    "url": "https://github.com/codercom/code-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CriseLYJ/awesome-python-login-model",
+    "url": "https://github.com/CriseLYJ/awesome-python-login-model",
+    "lang": "Python"
+  },
+  {
+    "title": "Micropoor/Micro8",
+    "url": "https://github.com/Micropoor/Micro8"
+  },
+  {
+    "title": "ccyyycy/ycy",
+    "url": "https://github.com/ccyyycy/ycy"
+  },
+  {
+    "title": "alibaba/fish-redux",
+    "url": "https://github.com/alibaba/fish-redux",
+    "lang": "Dart"
+  },
+  {
+    "title": "hamukazu/lets-get-arrested",
+    "url": "https://github.com/hamukazu/lets-get-arrested",
+    "lang": "HTML"
+  },
+  {
+    "title": "uber/kraken",
+    "url": "https://github.com/uber/kraken",
+    "lang": "Go"
+  },
+  {
+    "title": "Microsoft/frontend-bootcamp",
+    "url": "https://github.com/Microsoft/frontend-bootcamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LisaDziuba/Awesome-Design-Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "kenwoodjw/python_interview_question",
+    "url": "https://github.com/kenwoodjw/python_interview_question"
+  },
+  {
+    "title": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "USTC-Resource/USTC-Course",
+    "url": "https://github.com/USTC-Resource/USTC-Course",
+    "lang": "Python"
+  },
+  {
+    "title": "trimstray/htrace.sh",
+    "url": "https://github.com/trimstray/htrace.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "vadimdemedes/ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BayesWitnesses/m2cgen",
+    "url": "https://github.com/BayesWitnesses/m2cgen",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "rancher/k3s",
+    "url": "https://github.com/rancher/k3s",
+    "lang": "Go"
+  },
+  {
+    "title": "jask-oss/reaviz",
+    "url": "https://github.com/jask-oss/reaviz",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  }
+]

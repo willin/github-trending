@@ -1,0 +1,124 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "videoflow/videoflow",
+    "url": "https://github.com/videoflow/videoflow",
+    "lang": "Python"
+  },
+  {
+    "title": "imfunniee/gitfolio",
+    "url": "https://github.com/imfunniee/gitfolio",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudkj/scar",
+    "url": "https://github.com/cloudkj/scar",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "amejiarosario/dsa.js",
+    "url": "https://github.com/amejiarosario/dsa.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afshinea/stanford-cs-221-artificial-intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence"
+  },
+  {
+    "title": "XiaoMi/Gaea",
+    "url": "https://github.com/XiaoMi/Gaea",
+    "lang": "Go"
+  },
+  {
+    "title": "jogendra/LoadingShimmer",
+    "url": "https://github.com/jogendra/LoadingShimmer",
+    "lang": "Swift"
+  },
+  {
+    "title": "pixijs/pixi.js",
+    "url": "https://github.com/pixijs/pixi.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws"
+  },
+  {
+    "title": "STVIR/pysot",
+    "url": "https://github.com/STVIR/pysot",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "groue/GRDB.swift",
+    "url": "https://github.com/groue/GRDB.swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  }
+]

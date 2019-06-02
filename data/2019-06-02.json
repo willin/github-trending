@@ -1,0 +1,125 @@
+[
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell"
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thomasahle/sunfish",
+    "url": "https://github.com/thomasahle/sunfish",
+    "lang": "Python"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java"
+  },
+  {
+    "title": "vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "url": "https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "koalaman/shellcheck",
+    "url": "https://github.com/koalaman/shellcheck",
+    "lang": "Haskell"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0xd4d/dnSpy",
+    "url": "https://github.com/0xd4d/dnSpy",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "FormidableLabs/urql",
+    "url": "https://github.com/FormidableLabs/urql",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "atlas-engineer/next",
+    "url": "https://github.com/atlas-engineer/next",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "lang": "Go"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+    "url": "https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell"
+  },
+  {
+    "title": "sfyc23/EverydayWechat",
+    "url": "https://github.com/sfyc23/EverydayWechat",
+    "lang": "Python"
+  },
+  {
+    "title": "quantumblacklabs/kedro",
+    "url": "https://github.com/quantumblacklabs/kedro",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "CarGuo/GSYFlutterBook",
+    "url": "https://github.com/CarGuo/GSYFlutterBook"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/tensorwatch",
+    "url": "https://github.com/microsoft/tensorwatch",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "robbyrussell/oh-my-zsh",
+    "url": "https://github.com/robbyrussell/oh-my-zsh",
+    "lang": "Shell"
+  },
+  {
+    "title": "ProjectBorealis/PBCharacterMovement",
+    "url": "https://github.com/ProjectBorealis/PBCharacterMovement",
+    "lang": "C++"
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/Q2RTX",
+    "url": "https://github.com/NVIDIA/Q2RTX",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nanochess/Invaders",
+    "url": "https://github.com/nanochess/Invaders",
+    "lang": "Assembly"
+  }
+]

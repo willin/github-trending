@@ -2,16 +2,16 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const path = require('path');
 const { writeFileSync } = require('fs');
-const { formatDate } = require('@dwing/common');
+const { formatDate } = require('@xibang/node-common');
 
 axios.get('https://github.com/trending').then(({ data }) => {
   const $ = cheerio.load(data);
   const arr = [];
-  $('.repo-list li').each((i, elm) => {
+  $('.Box .Box-row').each((i, elm) => {
     const lang = $(elm).find('[itemprop="programmingLanguage"]');
     const item = {
-      title: $(elm).find('h3 a').text().replace(/\s/g, ''),
-      url: `https://github.com${$(elm).find('h3 a').attr('href')}`
+      title: $(elm).find('h1 a').text().replace(/\s/g, ''),
+      url: `https://github.com${$(elm).find('h1 a').attr('href')}`
     };
     if (lang.length !== 0) {
       item.lang = lang.text().replace(/\s/g, '');

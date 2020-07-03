@@ -1,7 +1,17 @@
 [
   {
-    "title": "NervJS/taro",
-    "url": "https://github.com/NervJS/taro",
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#"
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
     "lang": "JavaScript"
   },
   {
@@ -10,86 +20,8 @@
     "lang": "Python"
   },
   {
-    "title": "tinode/chat",
-    "url": "https://github.com/tinode/chat",
-    "lang": "Go"
-  },
-  {
-    "title": "bradtraversy/vanillawebprojects",
-    "url": "https://github.com/bradtraversy/vanillawebprojects",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "WeiYe-Jing/datax-web",
-    "url": "https://github.com/WeiYe-Jing/datax-web",
-    "lang": "Java"
-  },
-  {
-    "title": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "lang": "Shell"
-  },
-  {
-    "title": "jpmorganchase/python-training",
-    "url": "https://github.com/jpmorganchase/python-training",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "elastic/detection-rules",
-    "url": "https://github.com/elastic/detection-rules",
-    "lang": "Python"
-  },
-  {
-    "title": "hoanhan101/ultimate-go",
-    "url": "https://github.com/hoanhan101/ultimate-go",
-    "lang": "Go"
-  },
-  {
-    "title": "poloclub/cnn-explainer",
-    "url": "https://github.com/poloclub/cnn-explainer",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "react-hook-form/react-hook-form",
-    "url": "https://github.com/react-hook-form/react-hook-form",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "alibaba/DataX",
-    "url": "https://github.com/alibaba/DataX",
-    "lang": "Java"
-  },
-  {
-    "title": "vlang/v",
-    "url": "https://github.com/vlang/v",
-    "lang": "V"
-  },
-  {
-    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"
-  },
-  {
-    "title": "NARKOZ/hacker-scripts",
-    "url": "https://github.com/NARKOZ/hacker-scripts",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "snipsnapdev/snipsnap",
-    "url": "https://github.com/snipsnapdev/snipsnap"
-  },
-  {
-    "title": "coodict/python3-in-one-pic",
-    "url": "https://github.com/coodict/python3-in-one-pic",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "PrestaShop/PrestaShop",
-    "url": "https://github.com/PrestaShop/PrestaShop",
-    "lang": "PHP"
-  },
-  {
-    "title": "trungk18/jira-clone-angular",
-    "url": "https://github.com/trungk18/jira-clone-angular",
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
     "lang": "TypeScript"
   },
   {
@@ -98,27 +30,96 @@
     "lang": "Python"
   },
   {
-    "title": "johannesjo/super-productivity",
-    "url": "https://github.com/johannesjo/super-productivity",
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
     "lang": "TypeScript"
   },
   {
-    "title": "microsoft/BotBuilder-Samples",
-    "url": "https://github.com/microsoft/BotBuilder-Samples",
-    "lang": "C#"
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "felangel/cubit",
+    "url": "https://github.com/felangel/cubit",
+    "lang": "Dart"
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships"
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BetaSu/just-react",
+    "url": "https://github.com/BetaSu/just-react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DataStax-Academy/cassandra-workshop-series",
+    "url": "https://github.com/DataStax-Academy/cassandra-workshop-series",
+    "lang": "Python"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "lang": "Go"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kotartemiy/pygooglenews",
+    "url": "https://github.com/kotartemiy/pygooglenews",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "lang": "TypeScript"
   },
   {
     "title": "mui-org/material-ui",
     "url": "https://github.com/mui-org/material-ui",
     "lang": "JavaScript"
-  },
-  {
-    "title": "loveunk/Deep-learning-books",
-    "url": "https://github.com/loveunk/Deep-learning-books"
-  },
-  {
-    "title": "unoplatform/uno",
-    "url": "https://github.com/unoplatform/uno",
-    "lang": "C#"
   }
 ]

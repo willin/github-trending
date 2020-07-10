@@ -1,0 +1,126 @@
+[
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "lang": "Java"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "gskinnerTeam/flokk",
+    "url": "https://github.com/gskinnerTeam/flokk",
+    "lang": "Dart"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "deep-learning-with-pytorch/dlwpt-code",
+    "url": "https://github.com/deep-learning-with-pytorch/dlwpt-code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "lang": "Java"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "google/tsunami-security-scanner-plugins",
+    "url": "https://github.com/google/tsunami-security-scanner-plugins",
+    "lang": "Java"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/torchsde",
+    "url": "https://github.com/google-research/torchsde",
+    "lang": "Python"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "jbesomi/texthero",
+    "url": "https://github.com/jbesomi/texthero",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "FiYHer/How-to-create-a-csgo-cheating-program",
+    "url": "https://github.com/FiYHer/How-to-create-a-csgo-cheating-program",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions"
+  },
+  {
+    "title": "aws/copilot-cli",
+    "url": "https://github.com/aws/copilot-cli",
+    "lang": "Go"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "lang": "Shell"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "lang": "Java"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "lang": "Python"
+  },
+  {
+    "title": "fbdesignpro/sweetviz",
+    "url": "https://github.com/fbdesignpro/sweetviz",
+    "lang": "Python"
+  }
+]

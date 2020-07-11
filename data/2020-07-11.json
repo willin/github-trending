@@ -1,0 +1,126 @@
+[
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "lang": "Java"
+  },
+  {
+    "title": "google/tsunami-security-scanner-plugins",
+    "url": "https://github.com/google/tsunami-security-scanner-plugins",
+    "lang": "Java"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "google-research/torchsde",
+    "url": "https://github.com/google-research/torchsde",
+    "lang": "Python"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "Dimillian/RedditOS",
+    "url": "https://github.com/Dimillian/RedditOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "lang": "Go"
+  },
+  {
+    "title": "bem/yandex-ui",
+    "url": "https://github.com/bem/yandex-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "maudzung/Complex-YOLOv4-Pytorch",
+    "url": "https://github.com/maudzung/Complex-YOLOv4-Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "marcotcr/checklist",
+    "url": "https://github.com/marcotcr/checklist",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iterative/cml",
+    "url": "https://github.com/iterative/cml",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "qishibo/AnotherRedisDesktopManager",
+    "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "lang": "Go"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "lang": "Java"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#"
+  }
+]

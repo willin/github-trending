@@ -1,0 +1,121 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "C++"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "lang": "Rust"
+  },
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "lang": "CSS"
+  },
+  {
+    "title": "apache/incubator-brpc",
+    "url": "https://github.com/apache/incubator-brpc",
+    "lang": "C++"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience"
+  },
+  {
+    "title": "calebstewart/pwncat",
+    "url": "https://github.com/calebstewart/pwncat",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/QuantumKatas",
+    "url": "https://github.com/microsoft/QuantumKatas",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "francisrstokes/super-expressive",
+    "url": "https://github.com/francisrstokes/super-expressive",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "openid/AppAuth-Android",
+    "url": "https://github.com/openid/AppAuth-Android",
+    "lang": "Java"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "lang": "Python"
+  },
+  {
+    "title": "abhisheknaiidu/awesome-github-profile-readme",
+    "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  }
+]

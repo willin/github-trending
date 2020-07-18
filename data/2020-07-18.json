@@ -1,0 +1,120 @@
+[
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fireeye/capa",
+    "url": "https://github.com/fireeye/capa",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "C++"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience"
+  },
+  {
+    "title": "francisrstokes/super-expressive",
+    "url": "https://github.com/francisrstokes/super-expressive",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
+  },
+  {
+    "title": "sleirsgoevy/ps4jb",
+    "url": "https://github.com/sleirsgoevy/ps4jb",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Kong/kong",
+    "url": "https://github.com/Kong/kong",
+    "lang": "Lua"
+  },
+  {
+    "title": "Harveysn0w/CTF_Hacker-Tools",
+    "url": "https://github.com/Harveysn0w/CTF_Hacker-Tools"
+  },
+  {
+    "title": "Vladislav610/QA_bible",
+    "url": "https://github.com/Vladislav610/QA_bible"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "lang": "Python"
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "lang": "C++"
+  }
+]

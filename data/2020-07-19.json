@@ -1,0 +1,122 @@
+[
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3"
+  },
+  {
+    "title": "microsoft/ProcMon-for-Linux",
+    "url": "https://github.com/microsoft/ProcMon-for-Linux",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "lang": "C++"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/ailab",
+    "url": "https://github.com/microsoft/ailab",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "lang": "Dart"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "KalleHallden/reddit_automations",
+    "url": "https://github.com/KalleHallden/reddit_automations",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "jellysquid3/sodium-fabric",
+    "url": "https://github.com/jellysquid3/sodium-fabric",
+    "lang": "Java"
+  }
+]

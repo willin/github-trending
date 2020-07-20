@@ -1,0 +1,121 @@
+[
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby"
+  },
+  {
+    "title": "vuejs/docs-next",
+    "url": "https://github.com/vuejs/docs-next",
+    "lang": "Vue"
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "lang": "Dart"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "lang": "C#"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "microsoft/ailab",
+    "url": "https://github.com/microsoft/ailab",
+    "lang": "C#"
+  },
+  {
+    "title": "OvidijusParsiunas/myvision",
+    "url": "https://github.com/OvidijusParsiunas/myvision",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python"
+  },
+  {
+    "title": "elyra-ai/elyra",
+    "url": "https://github.com/elyra-ai/elyra",
+    "lang": "Python"
+  },
+  {
+    "title": "cylonid/NativeAlphaForAndroid",
+    "url": "https://github.com/cylonid/NativeAlphaForAndroid",
+    "lang": "Java"
+  },
+  {
+    "title": "minimaxir/gpt-3-experiments",
+    "url": "https://github.com/minimaxir/gpt-3-experiments",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "USCreditCardGuide/airlines-to-china-covid-19",
+    "url": "https://github.com/USCreditCardGuide/airlines-to-china-covid-19"
+  },
+  {
+    "title": "KalleHallden/reddit_automations",
+    "url": "https://github.com/KalleHallden/reddit_automations",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript"
+  }
+]

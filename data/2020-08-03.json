@@ -1,0 +1,123 @@
+[
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "lang": "Go"
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "lang": "Shell"
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "timgrossmann/InstaPy",
+    "url": "https://github.com/timgrossmann/InstaPy",
+    "lang": "Python"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "antoniosarosi/home-cloud",
+    "url": "https://github.com/antoniosarosi/home-cloud",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JAVClub/core",
+    "url": "https://github.com/JAVClub/core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cds-snc/covid-alert-app",
+    "url": "https://github.com/cds-snc/covid-alert-app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "lang": "C++"
+  }
+]

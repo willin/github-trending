@@ -1,0 +1,122 @@
+[
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "lang": "Go"
+  },
+  {
+    "title": "nodejs/nodejs.dev",
+    "url": "https://github.com/nodejs/nodejs.dev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "KwaiAppTeam/KOOM",
+    "url": "https://github.com/KwaiAppTeam/KOOM",
+    "lang": "Java"
+  },
+  {
+    "title": "ksensehq/eventnative",
+    "url": "https://github.com/ksensehq/eventnative",
+    "lang": "Go"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "lang": "Java"
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "lang": "Java"
+  },
+  {
+    "title": "halfmoonui/halfmoon",
+    "url": "https://github.com/halfmoonui/halfmoon",
+    "lang": "CSS"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "unsplash/datasets",
+    "url": "https://github.com/unsplash/datasets",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "lang": "C#"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "title": "rossumur/espflix",
+    "url": "https://github.com/rossumur/espflix",
+    "lang": "C"
+  },
+  {
+    "title": "GeoSn0w/OpenJailbreak",
+    "url": "https://github.com/GeoSn0w/OpenJailbreak",
+    "lang": "C"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iwestlin/gdshare",
+    "url": "https://github.com/iwestlin/gdshare"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science"
+  },
+  {
+    "title": "Snailclimb/awesome-java",
+    "url": "https://github.com/Snailclimb/awesome-java"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "lang": "Go"
+  },
+  {
+    "title": "executablebooks/jupyter-book",
+    "url": "https://github.com/executablebooks/jupyter-book",
+    "lang": "Python"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust"
+  },
+  {
+    "title": "papercups-io/papercups",
+    "url": "https://github.com/papercups-io/papercups",
+    "lang": "Elixir"
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "lang": "C++"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "lang": "Java"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "looly/hutool",
+    "url": "https://github.com/looly/hutool",
+    "lang": "Java"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "rewardone/OSCPRepo",
+    "url": "https://github.com/rewardone/OSCPRepo",
+    "lang": "C"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "wangzhiwubigdata/God-Of-BigData",
+    "url": "https://github.com/wangzhiwubigdata/God-Of-BigData"
+  },
+  {
+    "title": "Mr-xn/Penetration_Testing_POC",
+    "url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "halfmoonui/halfmoon",
+    "url": "https://github.com/halfmoonui/halfmoon",
+    "lang": "CSS"
+  },
+  {
+    "title": "alexeymezenin/laravel-best-practices",
+    "url": "https://github.com/alexeymezenin/laravel-best-practices"
+  },
+  {
+    "title": "rossumur/espflix",
+    "url": "https://github.com/rossumur/espflix",
+    "lang": "C"
+  },
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "cvg/Hierarchical-Localization",
+    "url": "https://github.com/cvg/Hierarchical-Localization",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript"
+  }
+]

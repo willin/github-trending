@@ -1,0 +1,122 @@
+[
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "Palashio/libra",
+    "url": "https://github.com/Palashio/libra",
+    "lang": "Python"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "h1st-ai/h1st",
+    "url": "https://github.com/h1st-ai/h1st",
+    "lang": "Python"
+  },
+  {
+    "title": "tgorgdotcom/locast2plex",
+    "url": "https://github.com/tgorgdotcom/locast2plex",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-cv",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "mike4192/spotMicro",
+    "url": "https://github.com/mike4192/spotMicro",
+    "lang": "HTML"
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fullcalendar/fullcalendar",
+    "url": "https://github.com/fullcalendar/fullcalendar",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "IIC2233/contenidos",
+    "url": "https://github.com/IIC2233/contenidos",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "lang": "Java"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "C++"
+  },
+  {
+    "title": "arkadiyt/bounty-targets-data",
+    "url": "https://github.com/arkadiyt/bounty-targets-data"
+  },
+  {
+    "title": "can1357/NoVmp",
+    "url": "https://github.com/can1357/NoVmp",
+    "lang": "C++"
+  },
+  {
+    "title": "rocketseat-education/bootcamp-gostack-desafios",
+    "url": "https://github.com/rocketseat-education/bootcamp-gostack-desafios"
+  },
+  {
+    "title": "PAIR-code/lit",
+    "url": "https://github.com/PAIR-code/lit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rebeyond/Behinder",
+    "url": "https://github.com/rebeyond/Behinder"
+  },
+  {
+    "title": "minvws/nl-covid19-notification-app-android",
+    "url": "https://github.com/minvws/nl-covid19-notification-app-android",
+    "lang": "Kotlin"
+  }
+]

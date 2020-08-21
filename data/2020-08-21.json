@@ -1,0 +1,124 @@
+[
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "aws/aws-controllers-k8s",
+    "url": "https://github.com/aws/aws-controllers-k8s",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "guardicore/labs_campaigns",
+    "url": "https://github.com/guardicore/labs_campaigns",
+    "lang": "Java"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "airbnb/ts-migrate",
+    "url": "https://github.com/airbnb/ts-migrate",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Palashio/libra",
+    "url": "https://github.com/Palashio/libra",
+    "lang": "Python"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "magento/magento2",
+    "url": "https://github.com/magento/magento2",
+    "lang": "PHP"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kubernetes/autoscaler",
+    "url": "https://github.com/kubernetes/autoscaler",
+    "lang": "Go"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "lang": "Python"
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "lang": "Python"
+  },
+  {
+    "title": "rtivital/omatsuri",
+    "url": "https://github.com/rtivital/omatsuri",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abhimishra91/insight",
+    "url": "https://github.com/abhimishra91/insight",
+    "lang": "Python"
+  },
+  {
+    "title": "hyperledger/fabric",
+    "url": "https://github.com/hyperledger/fabric",
+    "lang": "Go"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "p-ranav/awesome-hpp",
+    "url": "https://github.com/p-ranav/awesome-hpp"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "lang": "Python"
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "lang": "Vue"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++"
+  }
+]

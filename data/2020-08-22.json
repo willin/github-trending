@@ -1,0 +1,121 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "lang": "Go"
+  },
+  {
+    "title": "aws-amplify/amplify-flutter",
+    "url": "https://github.com/aws-amplify/amplify-flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "TkzcM/baiduwp",
+    "url": "https://github.com/TkzcM/baiduwp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "6gk/fet.sh",
+    "url": "https://github.com/6gk/fet.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "dasautoooo/Parma",
+    "url": "https://github.com/dasautoooo/Parma",
+    "lang": "Swift"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Shell"
+  },
+  {
+    "title": "jstime/jstime",
+    "url": "https://github.com/jstime/jstime",
+    "lang": "Rust"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "lang": "Makefile"
+  },
+  {
+    "title": "new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database",
+    "url": "https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "lang": "Java"
+  },
+  {
+    "title": "react-native-community/react-native-video",
+    "url": "https://github.com/react-native-community/react-native-video",
+    "lang": "Java"
+  }
+]

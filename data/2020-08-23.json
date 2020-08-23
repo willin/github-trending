@@ -1,0 +1,122 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "benawad/lireddit",
+    "url": "https://github.com/benawad/lireddit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "lang": "Rust"
+  },
+  {
+    "title": "Feynman687/Interviews",
+    "url": "https://github.com/Feynman687/Interviews"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "lang": "Java"
+  },
+  {
+    "title": "felipefialho/awesome-made-by-brazilians",
+    "url": "https://github.com/felipefialho/awesome-made-by-brazilians"
+  },
+  {
+    "title": "AlternativeFFFF/Alt-F4",
+    "url": "https://github.com/AlternativeFFFF/Alt-F4",
+    "lang": "CSS"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "lang": "Go"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "knownsec/ksubdomain",
+    "url": "https://github.com/knownsec/ksubdomain",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "lang": "Python"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "lang": "Makefile"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "lang": "Rust"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust"
+  },
+  {
+    "title": "maratonadev-br/desafio-3-2020",
+    "url": "https://github.com/maratonadev-br/desafio-3-2020"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "lang": "C"
+  },
+  {
+    "title": "pingcap/talent-plan",
+    "url": "https://github.com/pingcap/talent-plan",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++"
+  },
+  {
+    "title": "eguatech/egua",
+    "url": "https://github.com/eguatech/egua",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "huangrt01/CS-Notes",
+    "url": "https://github.com/huangrt01/CS-Notes",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "lang": "Python"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "lang": "Go"
+  },
+  {
+    "title": "xiaolai/everyones-guide-for-starting-up-on-wechat-network",
+    "url": "https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "lang": "PHP"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "dimforge/rapier",
+    "url": "https://github.com/dimforge/rapier",
+    "lang": "Rust"
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "lang": "Java"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "lang": "Python"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go"
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "lang": "Rust"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "lang": "Go"
+  }
+]

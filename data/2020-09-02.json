@@ -1,0 +1,122 @@
+[
+  {
+    "title": "htop-dev/htop",
+    "url": "https://github.com/htop-dev/htop",
+    "lang": "C"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "lang": "Solidity"
+  },
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "lang": "Rust"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pypa/setuptools",
+    "url": "https://github.com/pypa/setuptools",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "lang": "C#"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch"
+  },
+  {
+    "title": "cleardusk/3DDFA_V2",
+    "url": "https://github.com/cleardusk/3DDFA_V2",
+    "lang": "Python"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "lang": "HTML"
+  },
+  {
+    "title": "shubheksha/companies-sponsoring-visas",
+    "url": "https://github.com/shubheksha/companies-sponsoring-visas"
+  },
+  {
+    "title": "h2pl/Java-Tutorial",
+    "url": "https://github.com/h2pl/Java-Tutorial",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "THLfi/koronavilkku-android",
+    "url": "https://github.com/THLfi/koronavilkku-android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "lang": "Java"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "OSGeo/gdal",
+    "url": "https://github.com/OSGeo/gdal",
+    "lang": "C++"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "lang": "Ruby"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "maratonadev-br/desafio-6-2020",
+    "url": "https://github.com/maratonadev-br/desafio-6-2020",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "justmarkham/scikit-learn-tips",
+    "url": "https://github.com/justmarkham/scikit-learn-tips",
+    "lang": "JupyterNotebook"
+  }
+]

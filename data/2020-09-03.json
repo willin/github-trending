@@ -1,0 +1,124 @@
+[
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "lang": "Rust"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "lang": "Solidity"
+  },
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "htop-dev/htop",
+    "url": "https://github.com/htop-dev/htop",
+    "lang": "C"
+  },
+  {
+    "title": "laravel/fortify",
+    "url": "https://github.com/laravel/fortify",
+    "lang": "PHP"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "lang": "HTML"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "lang": "HTML"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tal-tech/go-zero",
+    "url": "https://github.com/tal-tech/go-zero",
+    "lang": "Go"
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "modulz/stitches",
+    "url": "https://github.com/modulz/stitches",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WeBankFinTech/fes.js",
+    "url": "https://github.com/WeBankFinTech/fes.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h2pl/Java-Tutorial",
+    "url": "https://github.com/h2pl/Java-Tutorial",
+    "lang": "Java"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "lang": "Java"
+  },
+  {
+    "title": "tradytics/surpriver",
+    "url": "https://github.com/tradytics/surpriver",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  }
+]

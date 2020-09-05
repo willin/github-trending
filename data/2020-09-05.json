@@ -1,0 +1,122 @@
+[
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "lang": "Python"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go"
+  },
+  {
+    "title": "tal-tech/go-zero",
+    "url": "https://github.com/tal-tech/go-zero",
+    "lang": "Go"
+  },
+  {
+    "title": "DataDog/scipio",
+    "url": "https://github.com/DataDog/scipio",
+    "lang": "Rust"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "lang": "C++"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "lang": "HTML"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions"
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "lang": "Python"
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "lang": "Vue"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/xls",
+    "url": "https://github.com/google/xls",
+    "lang": "C++"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "lang": "Java"
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "lang": "HTML"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  }
+]

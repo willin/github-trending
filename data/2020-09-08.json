@@ -1,0 +1,121 @@
+[
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "lang": "Java"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "lang": "C#"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "lang": "Python"
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "lang": "Python"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mmozeiko/aes-finder",
+    "url": "https://github.com/mmozeiko/aes-finder",
+    "lang": "C++"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "lang": "Shell"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning"
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  },
+  {
+    "title": "r3nhat/GRAT2",
+    "url": "https://github.com/r3nhat/GRAT2",
+    "lang": "C#"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "lang": "Python"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "lang": "Go"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "lang": "Java"
+  },
+  {
+    "title": "kbrsh/moon",
+    "url": "https://github.com/kbrsh/moon",
+    "lang": "JavaScript"
+  }
+]

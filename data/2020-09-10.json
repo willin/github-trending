@@ -1,0 +1,123 @@
+[
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yfbeta/yfbeta.finance",
+    "url": "https://github.com/yfbeta/yfbeta.finance",
+    "lang": "Solidity"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "lang": "Java"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "lang": "Python"
+  },
+  {
+    "title": "hahnlee/hwp.js",
+    "url": "https://github.com/hahnlee/hwp.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "lang": "Java"
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "lang": "Go"
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "lang": "Rust"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "lang": "PHP"
+  }
+]

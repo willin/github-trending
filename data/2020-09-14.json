@@ -1,0 +1,120 @@
+[
+  {
+    "title": "google/makani",
+    "url": "https://github.com/google/makani",
+    "lang": "C++"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "lang": "Rust"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "MysteryVaibhav/leetcode_company_wise_questions",
+    "url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "lang": "Python"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "prasadgujar/low-level-design-primer",
+    "url": "https://github.com/prasadgujar/low-level-design-primer"
+  },
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "peng-zhihui/DeepVision",
+    "url": "https://github.com/peng-zhihui/DeepVision",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "lang": "C++"
+  },
+  {
+    "title": "fastai/fastmac",
+    "url": "https://github.com/fastai/fastmac",
+    "lang": "Shell"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "lang": "Go"
+  },
+  {
+    "title": "Szaki/XiaomiADBFastbootTools",
+    "url": "https://github.com/Szaki/XiaomiADBFastbootTools",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs"
+  },
+  {
+    "title": "yeahwu/kinto",
+    "url": "https://github.com/yeahwu/kinto",
+    "lang": "Shell"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "lang": "Shell"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "lang": "C++"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#"
+  }
+]

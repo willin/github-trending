@@ -1,0 +1,119 @@
+[
+  {
+    "title": "PythonFreeCourse/Notebooks",
+    "url": "https://github.com/PythonFreeCourse/Notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "lang": "Rust"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "lang": "Java"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "deepklarity/jupyter-text2code",
+    "url": "https://github.com/deepklarity/jupyter-text2code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "devsuperior/sds1",
+    "url": "https://github.com/devsuperior/sds1",
+    "lang": "CSS"
+  },
+  {
+    "title": "zhzyker/exphub",
+    "url": "https://github.com/zhzyker/exphub",
+    "lang": "Python"
+  },
+  {
+    "title": "prasadgujar/low-level-design-primer",
+    "url": "https://github.com/prasadgujar/low-level-design-primer"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "lang": "Ruby"
+  },
+  {
+    "title": "gordicaleksa/pytorch-gans",
+    "url": "https://github.com/gordicaleksa/pytorch-gans",
+    "lang": "Python"
+  },
+  {
+    "title": "jhipster/generator-jhipster",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "MysteryVaibhav/leetcode_company_wise_questions",
+    "url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions"
+  },
+  {
+    "title": "allisonhorst/stats-illustrations",
+    "url": "https://github.com/allisonhorst/stats-illustrations"
+  },
+  {
+    "title": "peng-zhihui/DeepVision",
+    "url": "https://github.com/peng-zhihui/DeepVision",
+    "lang": "Java"
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#"
+  }
+]

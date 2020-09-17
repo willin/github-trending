@@ -1,0 +1,125 @@
+[
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz"
+  },
+  {
+    "title": "oracle/tribuo",
+    "url": "https://github.com/oracle/tribuo",
+    "lang": "Java"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "lang": "Python"
+  },
+  {
+    "title": "Sangarshanan/jazzit",
+    "url": "https://github.com/Sangarshanan/jazzit",
+    "lang": "Python"
+  },
+  {
+    "title": "mastercomfig/team-comtress-2",
+    "url": "https://github.com/mastercomfig/team-comtress-2",
+    "lang": "C++"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "lang": "Go"
+  },
+  {
+    "title": "cockroachdb/pebble",
+    "url": "https://github.com/cockroachdb/pebble",
+    "lang": "Go"
+  },
+  {
+    "title": "dirkjanm/CVE-2020-1472",
+    "url": "https://github.com/dirkjanm/CVE-2020-1472",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "iearn-finance/yearn-protocol",
+    "url": "https://github.com/iearn-finance/yearn-protocol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "JiahuiYu/generative_inpainting",
+    "url": "https://github.com/JiahuiYu/generative_inpainting",
+    "lang": "Python"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "lang": "Swift"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "lang": "Go"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "lang": "Go"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "lang": "Swift"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  }
+]

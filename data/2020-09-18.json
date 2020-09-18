@@ -1,0 +1,125 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "lang": "Go"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "lang": "C#"
+  },
+  {
+    "title": "spawnfest/bakeware",
+    "url": "https://github.com/spawnfest/bakeware",
+    "lang": "C"
+  },
+  {
+    "title": "epfml/ML_course",
+    "url": "https://github.com/epfml/ML_course",
+    "lang": "TeX"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "lang": "Rust"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "lang": "Swift"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "material-shell/material-shell",
+    "url": "https://github.com/material-shell/material-shell",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++"
+  },
+  {
+    "title": "alinebastos/vagas-junior-estagio",
+    "url": "https://github.com/alinebastos/vagas-junior-estagio"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "lang": "C"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "lang": "Vue"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_pytorch_in_20_days",
+    "url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
+    "lang": "Python"
+  },
+  {
+    "title": "sdushantha/tmpmail",
+    "url": "https://github.com/sdushantha/tmpmail",
+    "lang": "Shell"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "lang": "Python"
+  }
+]

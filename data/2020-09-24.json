@@ -1,0 +1,127 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go"
+  },
+  {
+    "title": "gnebbia/kb",
+    "url": "https://github.com/gnebbia/kb",
+    "lang": "Python"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "lang": "Swift"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "lang": "C++"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "lang": "Rust"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "lang": "Python"
+  },
+  {
+    "title": "snakers4/silero-models",
+    "url": "https://github.com/snakers4/silero-models",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "proxysu/windows",
+    "url": "https://github.com/proxysu/windows",
+    "lang": "C#"
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML"
+  },
+  {
+    "title": "material-shell/material-shell",
+    "url": "https://github.com/material-shell/material-shell",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "lang": "C++"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "lang": "Swift"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++"
+  }
+]

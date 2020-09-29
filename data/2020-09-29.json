@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "lang": "Go"
+  },
+  {
+    "title": "codemix/ts-sql",
+    "url": "https://github.com/codemix/ts-sql",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "blushft/go-diagrams",
+    "url": "https://github.com/blushft/go-diagrams",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "lang": "Go"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby"
+  },
+  {
+    "title": "lxk0301/scripts",
+    "url": "https://github.com/lxk0301/scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alinebastos/vagas-junior-estagio",
+    "url": "https://github.com/alinebastos/vagas-junior-estagio"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "lang": "C++"
+  },
+  {
+    "title": "kov4l3nko/MEDUZA",
+    "url": "https://github.com/kov4l3nko/MEDUZA",
+    "lang": "Python"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "lang": "HCL"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python"
+  }
+]

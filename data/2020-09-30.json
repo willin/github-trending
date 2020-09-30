@@ -1,0 +1,126 @@
+[
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "lang": "Go"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "lang": "HCL"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "anandpawara/Real_Time_Image_Animation",
+    "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+    "lang": "Python"
+  },
+  {
+    "title": "brinesoftwares/Flutter-AI-Rubik-cube-Solver",
+    "url": "https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elsaland/elsa",
+    "url": "https://github.com/elsaland/elsa",
+    "lang": "Go"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "lang": "Swift"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "lang": "Ruby"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby"
+  },
+  {
+    "title": "kubernetes-sigs/kubebuilder",
+    "url": "https://github.com/kubernetes-sigs/kubebuilder",
+    "lang": "Go"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "lang": "Python"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "gcc-mirror/gcc",
+    "url": "https://github.com/gcc-mirror/gcc",
+    "lang": "C"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "lang": "C++"
+  },
+  {
+    "title": "puma/puma",
+    "url": "https://github.com/puma/puma",
+    "lang": "Ruby"
+  },
+  {
+    "title": "bellard/quickjs",
+    "url": "https://github.com/bellard/quickjs",
+    "lang": "C"
+  }
+]

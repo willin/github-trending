@@ -1,0 +1,119 @@
+[
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "lang": "Python"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "ShaderLab"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops"
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "lang": "HTML"
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers"
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly"
+  },
+  {
+    "title": "advanced-threat-research/CVE-2020-16898",
+    "url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "lang": "Lua"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "lang": "HTML"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "lang": "Python"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  },
+  {
+    "title": "huanzi-qch/base-admin",
+    "url": "https://github.com/huanzi-qch/base-admin",
+    "lang": "Java"
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "lang": "Go"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "lang": "Python"
+  },
+  {
+    "title": "januschung/math-worksheet-generator",
+    "url": "https://github.com/januschung/math-worksheet-generator",
+    "lang": "Python"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "lang": "Java"
+  },
+  {
+    "title": "guilhermecapitao/nlw3-discovery-happy",
+    "url": "https://github.com/guilhermecapitao/nlw3-discovery-happy",
+    "lang": "Handlebars"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "lang": "Go"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "romkatv/powerlevel10k",
+    "url": "https://github.com/romkatv/powerlevel10k",
+    "lang": "Shell"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/waypoint",
+    "url": "https://github.com/hashicorp/waypoint",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/waypoint-examples",
+    "url": "https://github.com/hashicorp/waypoint-examples",
+    "lang": "PHP"
+  },
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "lang": "Go"
+  },
+  {
+    "title": "rocketseat-education/nlw-03-omnistack",
+    "url": "https://github.com/rocketseat-education/nlw-03-omnistack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly"
+  },
+  {
+    "title": "juntang-zhuang/Adabelief-Optimizer",
+    "url": "https://github.com/juntang-zhuang/Adabelief-Optimizer",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "lang": "Python"
+  },
+  {
+    "title": "checkly/headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudflare-hiring/cloudflare-2020-general-engineering-assignment",
+    "url": "https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment"
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "lang": "Java"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "lang": "Python"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "lang": "PHP"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS"
+  }
+]

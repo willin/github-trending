@@ -1,0 +1,122 @@
+[
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/tempo",
+    "url": "https://github.com/grafana/tempo",
+    "lang": "Go"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "C++"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "lang": "Shell"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "lang": "Java"
+  },
+  {
+    "title": "fzaninotto/Faker",
+    "url": "https://github.com/fzaninotto/Faker",
+    "lang": "PHP"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kkdai/youtube",
+    "url": "https://github.com/kkdai/youtube",
+    "lang": "Go"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "confluentinc/demo-scene",
+    "url": "https://github.com/confluentinc/demo-scene",
+    "lang": "Shell"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "dastergon/awesome-chaos-engineering",
+    "url": "https://github.com/dastergon/awesome-chaos-engineering"
+  },
+  {
+    "title": "creativetimofficial/tailwind-starter-kit",
+    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "lang": "CSS"
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "lang": "Python"
+  },
+  {
+    "title": "SAP-samples/abap-platform-rap-opensap",
+    "url": "https://github.com/SAP-samples/abap-platform-rap-opensap"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#"
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "distribyted/distribyted",
+    "url": "https://github.com/distribyted/distribyted",
+    "lang": "Go"
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "lang": "Python"
+  },
+  {
+    "title": "scastillo/not-youtube-dl",
+    "url": "https://github.com/scastillo/not-youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++"
+  }
+]

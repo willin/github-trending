@@ -1,0 +1,125 @@
+[
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "lang": "C#"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "lang": "Ruby"
+  },
+  {
+    "title": "laravel/breeze",
+    "url": "https://github.com/laravel/breeze",
+    "lang": "PHP"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "lang": "C#"
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "lang": "Python"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#"
+  },
+  {
+    "title": "Litteeen/AmongLock",
+    "url": "https://github.com/Litteeen/AmongLock",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python"
+  },
+  {
+    "title": "snyk/snyk",
+    "url": "https://github.com/snyk/snyk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "elunez/eladmin",
+    "url": "https://github.com/elunez/eladmin",
+    "lang": "Java"
+  },
+  {
+    "title": "micro/micro",
+    "url": "https://github.com/micro/micro",
+    "lang": "Go"
+  },
+  {
+    "title": "golang/oauth2",
+    "url": "https://github.com/golang/oauth2",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  }
+]

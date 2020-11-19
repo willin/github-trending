@@ -1,0 +1,124 @@
+[
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust"
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "lang": "Swift"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "braisdom/ObjectiveSql",
+    "url": "https://github.com/braisdom/ObjectiveSql",
+    "lang": "Java"
+  },
+  {
+    "title": "pmndrs/valtio",
+    "url": "https://github.com/pmndrs/valtio",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "beautifulinteractions/beautiful-react-diagrams",
+    "url": "https://github.com/beautifulinteractions/beautiful-react-diagrams",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TsinghuaAI/CPM-Generate",
+    "url": "https://github.com/TsinghuaAI/CPM-Generate",
+    "lang": "Python"
+  },
+  {
+    "title": "y1ndan/genshin-impact-helper",
+    "url": "https://github.com/y1ndan/genshin-impact-helper",
+    "lang": "Python"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BrasilAPI/BrasilAPI",
+    "url": "https://github.com/BrasilAPI/BrasilAPI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "lang": "TeX"
+  },
+  {
+    "title": "WongKinYiu/ScaledYOLOv4",
+    "url": "https://github.com/WongKinYiu/ScaledYOLOv4"
+  },
+  {
+    "title": "kakoni/awesome-healthcare",
+    "url": "https://github.com/kakoni/awesome-healthcare"
+  },
+  {
+    "title": "PatWalters/resources",
+    "url": "https://github.com/PatWalters/resources"
+  },
+  {
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JetBrains/skija",
+    "url": "https://github.com/JetBrains/skija",
+    "lang": "Java"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "lang": "JavaScript"
+  }
+]

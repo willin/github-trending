@@ -1,0 +1,121 @@
+[
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "lang": "Go"
+  },
+  {
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apple/tensorflow_macos",
+    "url": "https://github.com/apple/tensorflow_macos",
+    "lang": "Shell"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "lang": "Vue"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime"
+  },
+  {
+    "title": "oam-dev/kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "lang": "Go"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "Hari-Nagarajan/nvidia-bot",
+    "url": "https://github.com/Hari-Nagarajan/nvidia-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "lang": "TeX"
+  },
+  {
+    "title": "cncf/sig-security",
+    "url": "https://github.com/cncf/sig-security"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++"
+  },
+  {
+    "title": "y1ndan/genshin-impact-helper",
+    "url": "https://github.com/y1ndan/genshin-impact-helper",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-Core-50-Courses",
+    "url": "https://github.com/jackfrued/Python-Core-50-Courses"
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "lang": "Swift"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "lang": "C++"
+  },
+  {
+    "title": "chaos-mesh/chaos-mesh",
+    "url": "https://github.com/chaos-mesh/chaos-mesh",
+    "lang": "Go"
+  },
+  {
+    "title": "walidshaari/Certified-Kubernetes-Security-Specialist",
+    "url": "https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist"
+  }
+]

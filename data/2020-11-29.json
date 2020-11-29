@@ -1,0 +1,121 @@
+[
+  {
+    "title": "loadimpact/k6",
+    "url": "https://github.com/loadimpact/k6",
+    "lang": "Go"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DustinBrett/x",
+    "url": "https://github.com/DustinBrett/x",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "lang": "C++"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaorouji/openwrt-passwall",
+    "url": "https://github.com/xiaorouji/openwrt-passwall",
+    "lang": "HTML"
+  },
+  {
+    "title": "redcode-labs/Neurax",
+    "url": "https://github.com/redcode-labs/Neurax",
+    "lang": "Go"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C"
+  },
+  {
+    "title": "ben-rogerson/twin.macro",
+    "url": "https://github.com/ben-rogerson/twin.macro",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NiuTrans/ABigSurvey",
+    "url": "https://github.com/NiuTrans/ABigSurvey"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  }
+]

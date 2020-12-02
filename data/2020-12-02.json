@@ -1,0 +1,123 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "lang": "Vue"
+  },
+  {
+    "title": "RayTracing/raytracing.github.io",
+    "url": "https://github.com/RayTracing/raytracing.github.io",
+    "lang": "HTML"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "lang": "Python"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "lang": "C"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ourownstory/neural_prophet",
+    "url": "https://github.com/ourownstory/neural_prophet",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "lunatic-lang/lunatic",
+    "url": "https://github.com/lunatic-lang/lunatic",
+    "lang": "Rust"
+  },
+  {
+    "title": "yandex-research/navigan",
+    "url": "https://github.com/yandex-research/navigan",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "lang": "Java"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "lang": "Python"
+  },
+  {
+    "title": "kallydev/privacy",
+    "url": "https://github.com/kallydev/privacy"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "ethereum/eth2.0-specs",
+    "url": "https://github.com/ethereum/eth2.0-specs",
+    "lang": "Python"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prysmaticlabs/prysm",
+    "url": "https://github.com/prysmaticlabs/prysm",
+    "lang": "Go"
+  },
+  {
+    "title": "ihebski/A-Red-Teamer-diaries",
+    "url": "https://github.com/ihebski/A-Red-Teamer-diaries"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "lang": "PHP"
+  }
+]

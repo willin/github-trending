@@ -1,0 +1,124 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "lang": "Python"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "aws-samples/aws-proton-sample-templates",
+    "url": "https://github.com/aws-samples/aws-proton-sample-templates"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "lang": "Go"
+  },
+  {
+    "title": "micronaut-projects/micronaut-core",
+    "url": "https://github.com/micronaut-projects/micronaut-core",
+    "lang": "Java"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "preactjs/wmr",
+    "url": "https://github.com/preactjs/wmr",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java"
+  },
+  {
+    "title": "techtanic/Udemy-Course-Grabber",
+    "url": "https://github.com/techtanic/Udemy-Course-Grabber",
+    "lang": "Python"
+  },
+  {
+    "title": "Free-IPTV/Countries",
+    "url": "https://github.com/Free-IPTV/Countries"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "lang": "Go"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KhaosT/ACVM",
+    "url": "https://github.com/KhaosT/ACVM",
+    "lang": "C"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "lang": "JavaScript"
+  }
+]

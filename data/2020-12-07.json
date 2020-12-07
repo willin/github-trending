@@ -1,0 +1,124 @@
+[
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++"
+  },
+  {
+    "title": "nickmccullum/algorithmic-trading-python",
+    "url": "https://github.com/nickmccullum/algorithmic-trading-python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "lang": "Rust"
+  },
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "lang": "PHP"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "rclone/rclone",
+    "url": "https://github.com/rclone/rclone",
+    "lang": "Go"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "SebLague/Digital-Logic-Sim",
+    "url": "https://github.com/SebLague/Digital-Logic-Sim",
+    "lang": "C#"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "AkihiroSuda/nerdctl",
+    "url": "https://github.com/AkihiroSuda/nerdctl",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/restler-fuzzer",
+    "url": "https://github.com/microsoft/restler-fuzzer",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "lang": "C++"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "GuitarML/GuitarLSTM",
+    "url": "https://github.com/GuitarML/GuitarLSTM",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rabbitstack/fibratus",
+    "url": "https://github.com/rabbitstack/fibratus",
+    "lang": "Go"
+  }
+]

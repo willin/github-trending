@@ -1,0 +1,126 @@
+[
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "lang": "Java"
+  },
+  {
+    "title": "magma/magma",
+    "url": "https://github.com/magma/magma",
+    "lang": "Go"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "onnx/onnx-tensorrt",
+    "url": "https://github.com/onnx/onnx-tensorrt",
+    "lang": "C++"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "lang": "Python"
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "lang": "Haskell"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "tfutils/tfenv",
+    "url": "https://github.com/tfutils/tfenv",
+    "lang": "Shell"
+  },
+  {
+    "title": "go-yaml/yaml",
+    "url": "https://github.com/go-yaml/yaml",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "lang": "C++"
+  },
+  {
+    "title": "cloudera/hue",
+    "url": "https://github.com/cloudera/hue",
+    "lang": "Python"
+  },
+  {
+    "title": "weaveworks/kured",
+    "url": "https://github.com/weaveworks/kured",
+    "lang": "Go"
+  },
+  {
+    "title": "vmware-tanzu/velero",
+    "url": "https://github.com/vmware-tanzu/velero",
+    "lang": "Go"
+  },
+  {
+    "title": "amzn/selling-partner-api-docs",
+    "url": "https://github.com/amzn/selling-partner-api-docs"
+  },
+  {
+    "title": "jenssegers/laravel-mongodb",
+    "url": "https://github.com/jenssegers/laravel-mongodb",
+    "lang": "PHP"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++"
+  },
+  {
+    "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+    "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+    "lang": "HCL"
+  },
+  {
+    "title": "AFLplusplus/AFLplusplus",
+    "url": "https://github.com/AFLplusplus/AFLplusplus",
+    "lang": "C"
+  },
+  {
+    "title": "flot/flot",
+    "url": "https://github.com/flot/flot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go"
+  },
+  {
+    "title": "benmosher/eslint-plugin-import",
+    "url": "https://github.com/benmosher/eslint-plugin-import",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudwu/skynet",
+    "url": "https://github.com/cloudwu/skynet",
+    "lang": "C"
+  },
+  {
+    "title": "carrierwaveuploader/carrierwave",
+    "url": "https://github.com/carrierwaveuploader/carrierwave",
+    "lang": "Ruby"
+  },
+  {
+    "title": "react-native-mapbox-gl/maps",
+    "url": "https://github.com/react-native-mapbox-gl/maps",
+    "lang": "JavaScript"
+  }
+]

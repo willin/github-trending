@@ -1,0 +1,124 @@
+[
+  {
+    "title": "linkedin/school-of-sre",
+    "url": "https://github.com/linkedin/school-of-sre",
+    "lang": "HTML"
+  },
+  {
+    "title": "javascript-tutorial/en.javascript.info",
+    "url": "https://github.com/javascript-tutorial/en.javascript.info",
+    "lang": "HTML"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "lang": "C++"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "lang": "Go"
+  },
+  {
+    "title": "oskarsve/ms-teams-rce",
+    "url": "https://github.com/oskarsve/ms-teams-rce"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go"
+  },
+  {
+    "title": "DivineEngine/Profiles",
+    "url": "https://github.com/DivineEngine/Profiles"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "laravel/sail",
+    "url": "https://github.com/laravel/sail",
+    "lang": "Shell"
+  },
+  {
+    "title": "sonic-pi-net/sonic-pi",
+    "url": "https://github.com/sonic-pi-net/sonic-pi",
+    "lang": "Ruby"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++"
+  },
+  {
+    "title": "go-git/go-git",
+    "url": "https://github.com/go-git/go-git",
+    "lang": "Go"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "atc1441/ATC_MiThermometer",
+    "url": "https://github.com/atc1441/ATC_MiThermometer",
+    "lang": "C"
+  },
+  {
+    "title": "prometheus-operator/prometheus-operator",
+    "url": "https://github.com/prometheus-operator/prometheus-operator",
+    "lang": "Go"
+  }
+]

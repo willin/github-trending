@@ -1,0 +1,124 @@
+[
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "lang": "C++"
+  },
+  {
+    "title": "RedDrip7/SunBurst_DGA_Decode",
+    "url": "https://github.com/RedDrip7/SunBurst_DGA_Decode",
+    "lang": "Python"
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "lang": "Python"
+  },
+  {
+    "title": "vercel/virtual-event-starter-kit",
+    "url": "https://github.com/vercel/virtual-event-starter-kit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "lang": "Java"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "lang": "Go"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "lang": "C++"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "lang": "C"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "lang": "Go"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "lang": "Go"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "lang": "Python"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "lang": "Shell"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "lang": "Python"
+  }
+]

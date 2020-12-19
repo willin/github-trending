@@ -1,0 +1,123 @@
+[
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "lang": "Python"
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "lang": "Java"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "lang": "Clojure"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "video-dev/hls.js",
+    "url": "https://github.com/video-dev/hls.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "lang": "Python"
+  },
+  {
+    "title": "missing-semester-cn/missing-semester-cn.github.io",
+    "url": "https://github.com/missing-semester-cn/missing-semester-cn.github.io",
+    "lang": "CSS"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "rancher/harvester",
+    "url": "https://github.com/rancher/harvester",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "tjackenpacken/taskbar-groups",
+    "url": "https://github.com/tjackenpacken/taskbar-groups",
+    "lang": "C#"
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "lang": "C"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns"
+  },
+  {
+    "title": "cdoco/common-regex",
+    "url": "https://github.com/cdoco/common-regex"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  }
+]

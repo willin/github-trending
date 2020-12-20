@@ -1,0 +1,126 @@
+[
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "lang": "C++"
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Cognitive-Samples-IntelligentKiosk",
+    "url": "https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk",
+    "lang": "C#"
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "lang": "Python"
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "lang": "C#"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  },
+  {
+    "title": "nwtgck/piping-server",
+    "url": "https://github.com/nwtgck/piping-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "lang": "C"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "lang": "Shell"
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "lang": "Shell"
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "lang": "Java"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "lang": "JavaScript"
+  }
+]

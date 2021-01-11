@@ -1,0 +1,122 @@
+[
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "lang": "Go"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "lang": "C++"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mydexchain/mydexchain",
+    "url": "https://github.com/mydexchain/mydexchain"
+  },
+  {
+    "title": "leereilly/games",
+    "url": "https://github.com/leereilly/games"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zealotCE/AmericaOpposeAmerica",
+    "url": "https://github.com/zealotCE/AmericaOpposeAmerica"
+  },
+  {
+    "title": "MacroAnalyst/Linear_Algebra_With_Python",
+    "url": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "SharonBrizinov/s3viewer",
+    "url": "https://github.com/SharonBrizinov/s3viewer",
+    "lang": "Python"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook"
+  }
+]

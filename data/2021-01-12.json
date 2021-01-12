@@ -1,0 +1,118 @@
+[
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java"
+  },
+  {
+    "title": "Rust-GCC/gccrs",
+    "url": "https://github.com/Rust-GCC/gccrs"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "MacroAnalyst/Linear_Algebra_With_Python",
+    "url": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "lang": "Go"
+  },
+  {
+    "title": "ayuer/shanghai_house_knowledge",
+    "url": "https://github.com/ayuer/shanghai_house_knowledge"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "rystsov/awesome-distributed-transactions",
+    "url": "https://github.com/rystsov/awesome-distributed-transactions"
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "lang": "Go"
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SharonBrizinov/s3viewer",
+    "url": "https://github.com/SharonBrizinov/s3viewer",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/ChineseDiachronicCorpus",
+    "url": "https://github.com/liuhuanyong/ChineseDiachronicCorpus"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "signals-dev/Orion",
+    "url": "https://github.com/signals-dev/Orion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  }
+]

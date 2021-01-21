@@ -1,0 +1,125 @@
+[
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fireeye/Mandiant-Azure-AD-Investigator",
+    "url": "https://github.com/fireeye/Mandiant-Azure-AD-Investigator",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "softchris/react-book",
+    "url": "https://github.com/softchris/react-book",
+    "lang": "HTML"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fontworks-fonts/Train",
+    "url": "https://github.com/fontworks-fonts/Train",
+    "lang": "Python"
+  },
+  {
+    "title": "google/tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "lang": "Python"
+  },
+  {
+    "title": "Chen-Cai-OSU/awesome-equivariant-network",
+    "url": "https://github.com/Chen-Cai-OSU/awesome-equivariant-network"
+  },
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "lang": "Python"
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "lang": "C#"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "lang": "HTML"
+  },
+  {
+    "title": "azat-io/you-dont-know-js-ru",
+    "url": "https://github.com/azat-io/you-dont-know-js-ru"
+  },
+  {
+    "title": "gruntwork-io/terratest",
+    "url": "https://github.com/gruntwork-io/terratest",
+    "lang": "Go"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "shylocks/Loon",
+    "url": "https://github.com/shylocks/Loon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Viralmaniar/BigBountyRecon",
+    "url": "https://github.com/Viralmaniar/BigBountyRecon",
+    "lang": "C#"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "JavaScript"
+  }
+]

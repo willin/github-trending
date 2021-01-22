@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rxhanson/Rectangle",
+    "url": "https://github.com/rxhanson/Rectangle",
+    "lang": "Swift"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++"
+  },
+  {
+    "title": "softchris/react-book",
+    "url": "https://github.com/softchris/react-book",
+    "lang": "HTML"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "lang": "C#"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "CRED-CLUB/synth-ios",
+    "url": "https://github.com/CRED-CLUB/synth-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "RodrigoMenegat/autopsia-do-tratecov",
+    "url": "https://github.com/RodrigoMenegat/autopsia-do-tratecov",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "six2dez/reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "lang": "Shell"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python"
+  },
+  {
+    "title": "oleg-agapov/data-engineering-book",
+    "url": "https://github.com/oleg-agapov/data-engineering-book"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "svenstaro/miniserve",
+    "url": "https://github.com/svenstaro/miniserve",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "stackrox/Kubernetes_Security_Specialist_Study_Guide",
+    "url": "https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide",
+    "lang": "HCL"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "lang": "Go"
+  },
+  {
+    "title": "fireeye/Mandiant-Azure-AD-Investigator",
+    "url": "https://github.com/fireeye/Mandiant-Azure-AD-Investigator",
+    "lang": "PowerShell"
+  }
+]

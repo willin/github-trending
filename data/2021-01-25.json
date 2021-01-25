@@ -1,0 +1,126 @@
+[
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "wesdoyle/design-patterns-explained-with-food",
+    "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
+    "lang": "C#"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C"
+  },
+  {
+    "title": "raspberrypi/pico-sdk",
+    "url": "https://github.com/raspberrypi/pico-sdk",
+    "lang": "C"
+  },
+  {
+    "title": "peng-zhihui/HoloCubic",
+    "url": "https://github.com/peng-zhihui/HoloCubic",
+    "lang": "C"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "six2dez/reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "lang": "Shell"
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "lang": "Swift"
+  },
+  {
+    "title": "bwasti/mebm",
+    "url": "https://github.com/bwasti/mebm",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap"
+  },
+  {
+    "title": "nicksawhney/bernie-sits",
+    "url": "https://github.com/nicksawhney/bernie-sits",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python"
+  },
+  {
+    "title": "revolist/revogrid",
+    "url": "https://github.com/revolist/revogrid",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "lang": "Go"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "lang": "Lua"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  }
+]

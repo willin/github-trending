@@ -1,0 +1,121 @@
+[
+  {
+    "title": "twitter/TwitterTextEditor",
+    "url": "https://github.com/twitter/TwitterTextEditor",
+    "lang": "Swift"
+  },
+  {
+    "title": "alura-challenges/aluraquiz-base",
+    "url": "https://github.com/alura-challenges/aluraquiz-base",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "ErickWendel/jsexpert02-skeleton-ew",
+    "url": "https://github.com/ErickWendel/jsexpert02-skeleton-ew",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AdamGold/Dryvo",
+    "url": "https://github.com/AdamGold/Dryvo",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "lang": "Vue"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "oblador/hush",
+    "url": "https://github.com/oblador/hush",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "lang": "Go"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "lang": "C"
+  },
+  {
+    "title": "MTK-bypass/bypass_utility",
+    "url": "https://github.com/MTK-bypass/bypass_utility",
+    "lang": "Python"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8"
+  },
+  {
+    "title": "mjebrahimi/Awesome-Microservices-NetCore",
+    "url": "https://github.com/mjebrahimi/Awesome-Microservices-NetCore"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "lunnlew/AutoSignMachine",
+    "url": "https://github.com/lunnlew/AutoSignMachine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C"
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  }
+]

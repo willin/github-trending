@@ -1,0 +1,125 @@
+[
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "progrium/macdriver",
+    "url": "https://github.com/progrium/macdriver",
+    "lang": "Go"
+  },
+  {
+    "title": "signalapp/Signal-TLS-Proxy",
+    "url": "https://github.com/signalapp/Signal-TLS-Proxy",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Netflix/dgs-framework",
+    "url": "https://github.com/Netflix/dgs-framework",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "lang": "Clojure"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "lang": "Rust"
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C"
+  },
+  {
+    "title": "pkhungurn/talking-head-anime-demo",
+    "url": "https://github.com/pkhungurn/talking-head-anime-demo",
+    "lang": "Python"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bestony/neshouse",
+    "url": "https://github.com/bestony/neshouse",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SuperManito/JD-FreeFuck",
+    "url": "https://github.com/SuperManito/JD-FreeFuck",
+    "lang": "Shell"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "lang": "Ruby"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "lang": "Go"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "lang": "JavaScript"
+  }
+]

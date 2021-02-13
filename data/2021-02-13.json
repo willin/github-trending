@@ -1,0 +1,124 @@
+[
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "lang": "C"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "system76/launch",
+    "url": "https://github.com/system76/launch",
+    "lang": "Shell"
+  },
+  {
+    "title": "benbjohnson/litestream",
+    "url": "https://github.com/benbjohnson/litestream",
+    "lang": "Go"
+  },
+  {
+    "title": "mbround18/valheim-docker",
+    "url": "https://github.com/mbround18/valheim-docker",
+    "lang": "Rust"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "lang": "Python"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "lang": "Swift"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "lang": "HTML"
+  },
+  {
+    "title": "reactend/reactend-express",
+    "url": "https://github.com/reactend/reactend-express",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "abhishekkrthakur/colabcode",
+    "url": "https://github.com/abhishekkrthakur/colabcode",
+    "lang": "Python"
+  },
+  {
+    "title": "florisboard/florisboard",
+    "url": "https://github.com/florisboard/florisboard",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "goreleaser/goreleaser",
+    "url": "https://github.com/goreleaser/goreleaser",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra"
+  }
+]

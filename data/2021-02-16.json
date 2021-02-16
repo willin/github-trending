@@ -1,0 +1,124 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "lang": "C++"
+  },
+  {
+    "title": "rand-net/khan-dl",
+    "url": "https://github.com/rand-net/khan-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "kubernetes/website",
+    "url": "https://github.com/kubernetes/website",
+    "lang": "HTML"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "lang": "Python"
+  },
+  {
+    "title": "deepfence/SecretScanner",
+    "url": "https://github.com/deepfence/SecretScanner",
+    "lang": "Go"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "aaronwangy/Data-Science-Cheatsheet",
+    "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
+    "lang": "TeX"
+  },
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ant-design/ant-design-pro",
+    "url": "https://github.com/ant-design/ant-design-pro",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "skerkour/bloom",
+    "url": "https://github.com/skerkour/bloom",
+    "lang": "Rust"
+  },
+  {
+    "title": "kenwheeler/slick",
+    "url": "https://github.com/kenwheeler/slick",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  }
+]

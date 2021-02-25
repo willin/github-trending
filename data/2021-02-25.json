@@ -1,0 +1,124 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go"
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "mtytel/vital",
+    "url": "https://github.com/mtytel/vital",
+    "lang": "C++"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "bawangxx/xz_voice",
+    "url": "https://github.com/bawangxx/xz_voice",
+    "lang": "Vue"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pystardust/ytfzf",
+    "url": "https://github.com/pystardust/ytfzf",
+    "lang": "Shell"
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "Haskell"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "lang": "Clojure"
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "lang": "Assembly"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "lang": "C++"
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "therealsreehari/Learn-Data-Science-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Data-Science-For-Free"
+  }
+]

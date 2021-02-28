@@ -1,0 +1,123 @@
+[
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "lang": "C"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "lang": "VBA"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepjyoti30/ytmdl-web-v2",
+    "url": "https://github.com/deepjyoti30/ytmdl-web-v2",
+    "lang": "Vue"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "lang": "Python"
+  },
+  {
+    "title": "sammchardy/python-binance",
+    "url": "https://github.com/sammchardy/python-binance",
+    "lang": "Python"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoinbook/bitcoinbook",
+    "url": "https://github.com/bitcoinbook/bitcoinbook",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nuxt/vite",
+    "url": "https://github.com/nuxt/vite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "engindemirog/NetCoreBackend",
+    "url": "https://github.com/engindemirog/NetCoreBackend",
+    "lang": "C#"
+  },
+  {
+    "title": "chriswalz/bit",
+    "url": "https://github.com/chriswalz/bit",
+    "lang": "Go"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "dypsilon/frontend-dev-bookmarks",
+    "url": "https://github.com/dypsilon/frontend-dev-bookmarks"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "trailofbits/graphtage",
+    "url": "https://github.com/trailofbits/graphtage",
+    "lang": "Python"
+  },
+  {
+    "title": "github/codeql",
+    "url": "https://github.com/github/codeql",
+    "lang": "CodeQL"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nextauthjs/next-auth",
+    "url": "https://github.com/nextauthjs/next-auth",
+    "lang": "JavaScript"
+  }
+]

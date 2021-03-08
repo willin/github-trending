@@ -1,0 +1,123 @@
+[
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "lang": "Go"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "lang": "Rust"
+  },
+  {
+    "title": "getzola/zola",
+    "url": "https://github.com/getzola/zola",
+    "lang": "Rust"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "lang": "C++"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/CSS-Exchange",
+    "url": "https://github.com/microsoft/CSS-Exchange",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "lang": "Python"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers"
+  },
+  {
+    "title": "threat9/routersploit",
+    "url": "https://github.com/threat9/routersploit",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "lang": "C"
+  },
+  {
+    "title": "brillout/awesome-react-components",
+    "url": "https://github.com/brillout/awesome-react-components"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "nodegui/react-nodegui",
+    "url": "https://github.com/nodegui/react-nodegui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "diasurgical/devilutionX",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "lang": "Python"
+  },
+  {
+    "title": "abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
+    "url": "https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
+    "lang": "Dart"
+  },
+  {
+    "title": "monero-project/monero",
+    "url": "https://github.com/monero-project/monero",
+    "lang": "C++"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook"
+  }
+]

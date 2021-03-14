@@ -1,0 +1,124 @@
+[
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mobilecoinfoundation/mobilecoin",
+    "url": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "lang": "Rust"
+  },
+  {
+    "title": "spring-projects-experimental/spring-native",
+    "url": "https://github.com/spring-projects-experimental/spring-native",
+    "lang": "Java"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "lang": "Python"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "lang": "C++"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "lang": "C#"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "lang": "Go"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "lang": "PHP"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "lang": "Clojure"
+  },
+  {
+    "title": "google/security-research-pocs",
+    "url": "https://github.com/google/security-research-pocs",
+    "lang": "C++"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "sickcodes/osx-serial-generator",
+    "url": "https://github.com/sickcodes/osx-serial-generator",
+    "lang": "Shell"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "lucidrains/deep-daze",
+    "url": "https://github.com/lucidrains/deep-daze",
+    "lang": "Python"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "srcrs/UnicomTask",
+    "url": "https://github.com/srcrs/UnicomTask",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning"
+  }
+]

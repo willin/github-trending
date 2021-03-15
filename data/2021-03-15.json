@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "lang": "C#"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "lang": "Python"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bettercap/bettercap",
+    "url": "https://github.com/bettercap/bettercap",
+    "lang": "Go"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "lloesche/valheim-server-docker",
+    "url": "https://github.com/lloesche/valheim-server-docker",
+    "lang": "Shell"
+  },
+  {
+    "title": "siduck76/neovim-dots",
+    "url": "https://github.com/siduck76/neovim-dots",
+    "lang": "Lua"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "mentebinaria/retoolkit",
+    "url": "https://github.com/mentebinaria/retoolkit",
+    "lang": "InnoSetup"
+  },
+  {
+    "title": "lucidrains/deep-daze",
+    "url": "https://github.com/lucidrains/deep-daze",
+    "lang": "Python"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "harskish/ganspace",
+    "url": "https://github.com/harskish/ganspace",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/security-research-pocs",
+    "url": "https://github.com/google/security-research-pocs",
+    "lang": "C++"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "lang": "C++"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python"
+  },
+  {
+    "title": "goabstract/Awesome-Design-Tools",
+    "url": "https://github.com/goabstract/Awesome-Design-Tools",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "lang": "Go"
+  }
+]

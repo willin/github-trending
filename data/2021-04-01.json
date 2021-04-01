@@ -1,0 +1,122 @@
+[
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "tonarino/innernet",
+    "url": "https://github.com/tonarino/innernet",
+    "lang": "Rust"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources"
+  },
+  {
+    "title": "Lifka/hacking-resources",
+    "url": "https://github.com/Lifka/hacking-resources"
+  },
+  {
+    "title": "facebookresearch/madgrad",
+    "url": "https://github.com/facebookresearch/madgrad",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "trungk18/angular-spotify",
+    "url": "https://github.com/trungk18/angular-spotify",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273",
+    "url": "https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "lang": "Python"
+  },
+  {
+    "title": "olmps/memo",
+    "url": "https://github.com/olmps/memo",
+    "lang": "Dart"
+  },
+  {
+    "title": "dromara/sa-token",
+    "url": "https://github.com/dromara/sa-token",
+    "lang": "Java"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "lang": "PHP"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses"
+  },
+  {
+    "title": "siduck76/neovim-dots",
+    "url": "https://github.com/siduck76/neovim-dots",
+    "lang": "Lua"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "lang": "C#"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "lang": "Rust"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "lang": "C"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  }
+]

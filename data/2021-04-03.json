@@ -1,0 +1,123 @@
+[
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "lang": "C++"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "KevinOConnor/klipper",
+    "url": "https://github.com/KevinOConnor/klipper",
+    "lang": "C++"
+  },
+  {
+    "title": "pinterest/querybook",
+    "url": "https://github.com/pinterest/querybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "AcalaNetwork/Acala",
+    "url": "https://github.com/AcalaNetwork/Acala",
+    "lang": "Rust"
+  },
+  {
+    "title": "nicehash/NiceHashQuickMiner",
+    "url": "https://github.com/nicehash/NiceHashQuickMiner",
+    "lang": "HTML"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "lang": "C#"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "orpatashnik/StyleCLIP",
+    "url": "https://github.com/orpatashnik/StyleCLIP",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "john-smilga/node-express-course",
+    "url": "https://github.com/john-smilga/node-express-course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RiotVanguard/Vanguard",
+    "url": "https://github.com/RiotVanguard/Vanguard",
+    "lang": "C"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "lang": "Python"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "lang": "C"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jvns/dnspeep",
+    "url": "https://github.com/jvns/dnspeep",
+    "lang": "Rust"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/madgrad",
+    "url": "https://github.com/facebookresearch/madgrad",
+    "lang": "Python"
+  },
+  {
+    "title": "GUI/covid-vaccine-spotter",
+    "url": "https://github.com/GUI/covid-vaccine-spotter",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf"
+  }
+]

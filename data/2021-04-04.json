@@ -1,0 +1,123 @@
+[
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "lang": "C++"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "climech/grit",
+    "url": "https://github.com/climech/grit",
+    "lang": "Go"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "orpatashnik/StyleCLIP",
+    "url": "https://github.com/orpatashnik/StyleCLIP",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto"
+  },
+  {
+    "title": "BetterDiscord/Installer",
+    "url": "https://github.com/BetterDiscord/Installer",
+    "lang": "Svelte"
+  },
+  {
+    "title": "john-smilga/node-express-course",
+    "url": "https://github.com/john-smilga/node-express-course",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nicehash/NiceHashQuickMiner",
+    "url": "https://github.com/nicehash/NiceHashQuickMiner",
+    "lang": "HTML"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "lang": "C#"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "lang": "C"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "KevinOConnor/klipper",
+    "url": "https://github.com/KevinOConnor/klipper",
+    "lang": "C++"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "esp8266/Arduino",
+    "url": "https://github.com/esp8266/Arduino",
+    "lang": "C++"
+  },
+  {
+    "title": "jvns/dnspeep",
+    "url": "https://github.com/jvns/dnspeep",
+    "lang": "Rust"
+  }
+]

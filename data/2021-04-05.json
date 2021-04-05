@@ -1,0 +1,121 @@
+[
+  {
+    "title": "davepl/Primes",
+    "url": "https://github.com/davepl/Primes",
+    "lang": "C++"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "climech/grit",
+    "url": "https://github.com/climech/grit",
+    "lang": "Go"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "hagopj13/node-express-boilerplate",
+    "url": "https://github.com/hagopj13/node-express-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "lang": "C++"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto"
+  },
+  {
+    "title": "charmbracelet/lipgloss",
+    "url": "https://github.com/charmbracelet/lipgloss",
+    "lang": "Go"
+  },
+  {
+    "title": "Hameds/GoogleBackup",
+    "url": "https://github.com/Hameds/GoogleBackup"
+  },
+  {
+    "title": "BetterDiscord/Installer",
+    "url": "https://github.com/BetterDiscord/Installer",
+    "lang": "Svelte"
+  },
+  {
+    "title": "shashank88/system_design",
+    "url": "https://github.com/shashank88/system_design"
+  },
+  {
+    "title": "Open4Es/Open4Es-Shader-Android",
+    "url": "https://github.com/Open4Es/Open4Es-Shader-Android",
+    "lang": "GLSL"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "lang": "Python"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "lang": "Python"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hagopj13/node-express-boilerplate",
+    "url": "https://github.com/hagopj13/node-express-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "dotnet/csharpstandard",
+    "url": "https://github.com/dotnet/csharpstandard",
+    "lang": "C#"
+  },
+  {
+    "title": "codeedu/imersao-fsfc2",
+    "url": "https://github.com/codeedu/imersao-fsfc2",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "maddevsio/aws-eks-base",
+    "url": "https://github.com/maddevsio/aws-eks-base",
+    "lang": "HCL"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dypsilon/frontend-dev-bookmarks",
+    "url": "https://github.com/dypsilon/frontend-dev-bookmarks"
+  },
+  {
+    "title": "chefyuan/algorithm-base",
+    "url": "https://github.com/chefyuan/algorithm-base",
+    "lang": "Java"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "charmbracelet/lipgloss",
+    "url": "https://github.com/charmbracelet/lipgloss",
+    "lang": "Go"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "lang": "Vue"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "Open-Smartwatch/open-smartwatch-os",
+    "url": "https://github.com/Open-Smartwatch/open-smartwatch-os",
+    "lang": "C"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python"
+  }
+]

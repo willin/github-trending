@@ -1,0 +1,126 @@
+[
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "Unity-Technologies/com.unity.multiplayer.samples.coop",
+    "url": "https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop",
+    "lang": "C#"
+  },
+  {
+    "title": "Dr-Noob/cpufetch",
+    "url": "https://github.com/Dr-Noob/cpufetch",
+    "lang": "C"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "josevalim/nested-data-structure-traversal",
+    "url": "https://github.com/josevalim/nested-data-structure-traversal",
+    "lang": "Elixir"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java"
+  },
+  {
+    "title": "input-output-hk/plutus",
+    "url": "https://github.com/input-output-hk/plutus",
+    "lang": "HTML"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "google/lyra",
+    "url": "https://github.com/google/lyra",
+    "lang": "C++"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "zhangdaiscott/JimuReport",
+    "url": "https://github.com/zhangdaiscott/JimuReport",
+    "lang": "Java"
+  },
+  {
+    "title": "wuzhi03/MyActions",
+    "url": "https://github.com/wuzhi03/MyActions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "lang": "Shell"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "lang": "Go"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "lang": "C++"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianbergmann/phpunit",
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "lang": "PHP"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust"
+  }
+]

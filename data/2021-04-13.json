@@ -1,0 +1,120 @@
+[
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "lang": "Shell"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "lang": "C++"
+  },
+  {
+    "title": "Layout-Parser/layout-parser",
+    "url": "https://github.com/Layout-Parser/layout-parser",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "lang": "Python"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books"
+  },
+  {
+    "title": "easychen/one-person-businesses-methodology",
+    "url": "https://github.com/easychen/one-person-businesses-methodology"
+  },
+  {
+    "title": "PeiQi0/PeiQi-WIKI-POC",
+    "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
+    "lang": "HTML"
+  },
+  {
+    "title": "lindelof/awesome-web-effect",
+    "url": "https://github.com/lindelof/awesome-web-effect"
+  },
+  {
+    "title": "DualCoder/vgpu_unlock",
+    "url": "https://github.com/DualCoder/vgpu_unlock",
+    "lang": "C"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "lang": "C"
+  },
+  {
+    "title": "nordicgiant2/awesome-landing-page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  {
+    "title": "microsoft/CyberBattleSim",
+    "url": "https://github.com/microsoft/CyberBattleSim",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart"
+  },
+  {
+    "title": "josevalim/nested-data-structure-traversal",
+    "url": "https://github.com/josevalim/nested-data-structure-traversal",
+    "lang": "Clojure"
+  }
+]

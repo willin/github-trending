@@ -1,0 +1,124 @@
+[
+  {
+    "title": "elixir-nx/livebook",
+    "url": "https://github.com/elixir-nx/livebook",
+    "lang": "Elixir"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "lang": "Rust"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "r4j0x00/exploits",
+    "url": "https://github.com/r4j0x00/exploits",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "title": "EvgSkv/logica",
+    "url": "https://github.com/EvgSkv/logica",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "lang": "Lua"
+  },
+  {
+    "title": "easychen/one-person-businesses-methodology",
+    "url": "https://github.com/easychen/one-person-businesses-methodology"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "lang": "Python"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "mozilla/TTS",
+    "url": "https://github.com/mozilla/TTS",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "lang": "C++"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "lang": "Shell"
+  },
+  {
+    "title": "ChartsCSS/charts.css",
+    "url": "https://github.com/ChartsCSS/charts.css",
+    "lang": "HTML"
+  },
+  {
+    "title": "umputun/reproxy",
+    "url": "https://github.com/umputun/reproxy",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "lang": "C++"
+  },
+  {
+    "title": "pixeltris/TwitchAdSolutions",
+    "url": "https://github.com/pixeltris/TwitchAdSolutions",
+    "lang": "JavaScript"
+  }
+]

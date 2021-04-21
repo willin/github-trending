@@ -1,0 +1,125 @@
+[
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "lang": "C++"
+  },
+  {
+    "title": "flaneur2020/pua-lang",
+    "url": "https://github.com/flaneur2020/pua-lang",
+    "lang": "Rust"
+  },
+  {
+    "title": "wbkd/react-flow",
+    "url": "https://github.com/wbkd/react-flow",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "chefyuan/algorithm-base",
+    "url": "https://github.com/chefyuan/algorithm-base",
+    "lang": "Java"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm"
+  },
+  {
+    "title": "storj/storj",
+    "url": "https://github.com/storj/storj",
+    "lang": "Go"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "lang": "C++"
+  },
+  {
+    "title": "jdah/tetris-os",
+    "url": "https://github.com/jdah/tetris-os",
+    "lang": "C"
+  },
+  {
+    "title": "safemoonprotocol/Safemoon.sol",
+    "url": "https://github.com/safemoonprotocol/Safemoon.sol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "981011512/--",
+    "url": "https://github.com/981011512/--",
+    "lang": "Java"
+  },
+  {
+    "title": "tevador/RandomX",
+    "url": "https://github.com/tevador/RandomX",
+    "lang": "C++"
+  },
+  {
+    "title": "amate/UmaUmaCruise",
+    "url": "https://github.com/amate/UmaUmaCruise",
+    "lang": "C++"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "git-tips/tips",
+    "url": "https://github.com/git-tips/tips",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "karlhadwen/instagram",
+    "url": "https://github.com/karlhadwen/instagram",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "argoproj/argo-workflows",
+    "url": "https://github.com/argoproj/argo-workflows",
+    "lang": "Go"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  }
+]

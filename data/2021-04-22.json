@@ -1,0 +1,123 @@
+[
+  {
+    "title": "jdah/tetris-os",
+    "url": "https://github.com/jdah/tetris-os",
+    "lang": "C"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "lang": "C++"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "lang": "C"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vitling/acid-banger",
+    "url": "https://github.com/vitling/acid-banger",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "chefyuan/algorithm-base",
+    "url": "https://github.com/chefyuan/algorithm-base",
+    "lang": "Java"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zellij-org/zellij",
+    "url": "https://github.com/zellij-org/zellij",
+    "lang": "Rust"
+  },
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "lang": "C++"
+  },
+  {
+    "title": "safemoonprotocol/Safemoon.sol",
+    "url": "https://github.com/safemoonprotocol/Safemoon.sol",
+    "lang": "Solidity"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "lang": "Python"
+  },
+  {
+    "title": "gh0stkey/Binary-Learning",
+    "url": "https://github.com/gh0stkey/Binary-Learning"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master"
+  },
+  {
+    "title": "CleverProgrammers/cp-disney-plus-clone",
+    "url": "https://github.com/CleverProgrammers/cp-disney-plus-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AvaloniaUI/Avalonia",
+    "url": "https://github.com/AvaloniaUI/Avalonia",
+    "lang": "C#"
+  },
+  {
+    "title": "981011512/--",
+    "url": "https://github.com/981011512/--",
+    "lang": "Java"
+  },
+  {
+    "title": "RaminNietzsche/jobguy",
+    "url": "https://github.com/RaminNietzsche/jobguy"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content-dl",
+    "url": "https://github.com/NeuromatchAcademy/course-content-dl"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "storj/storj",
+    "url": "https://github.com/storj/storj",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  }
+]

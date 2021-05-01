@@ -1,0 +1,126 @@
+[
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kotlin/kmm-production-sample",
+    "url": "https://github.com/Kotlin/kmm-production-sample",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "lang": "Makefile"
+  },
+  {
+    "title": "raydium-io/raydium-ui",
+    "url": "https://github.com/raydium-io/raydium-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python"
+  },
+  {
+    "title": "wisz2021/jd_docker",
+    "url": "https://github.com/wisz2021/jd_docker",
+    "lang": "Shell"
+  },
+  {
+    "title": "passerby-b/JDDJ",
+    "url": "https://github.com/passerby-b/JDDJ",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TritonHo/slides",
+    "url": "https://github.com/TritonHo/slides",
+    "lang": "Go"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "lang": "Java"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "lang": "Shell"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "lang": "C++"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "lang": "Python"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "lang": "PHP"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "lang": "Python"
+  },
+  {
+    "title": "yuk1ty/learning-systems-programming-in-rust",
+    "url": "https://github.com/yuk1ty/learning-systems-programming-in-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "lang": "Go"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "lang": "Python"
+  }
+]

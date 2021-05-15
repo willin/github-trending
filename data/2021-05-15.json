@@ -1,0 +1,123 @@
+[
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "lang": "Go"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "lang": "C++"
+  },
+  {
+    "title": "ExpressLRS/ExpressLRS",
+    "url": "https://github.com/ExpressLRS/ExpressLRS",
+    "lang": "C++"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "positive-security/send-my",
+    "url": "https://github.com/positive-security/send-my",
+    "lang": "C"
+  },
+  {
+    "title": "makenotion/notion-sdk-js",
+    "url": "https://github.com/makenotion/notion-sdk-js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AllThingsSmitty/css-protips",
+    "url": "https://github.com/AllThingsSmitty/css-protips"
+  },
+  {
+    "title": "awslabs/aws-saas-boost",
+    "url": "https://github.com/awslabs/aws-saas-boost",
+    "lang": "Java"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "lang": "C++"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "intel-isl/PhotorealismEnhancement",
+    "url": "https://github.com/intel-isl/PhotorealismEnhancement",
+    "lang": "HTML"
+  },
+  {
+    "title": "darylhjd/mangadesk",
+    "url": "https://github.com/darylhjd/mangadesk",
+    "lang": "Go"
+  },
+  {
+    "title": "monk-coder/dust",
+    "url": "https://github.com/monk-coder/dust",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "lang": "Java"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "lang": "Python"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning"
+  },
+  {
+    "title": "dromara/sa-token",
+    "url": "https://github.com/dromara/sa-token",
+    "lang": "Java"
+  },
+  {
+    "title": "swar/Swar-Chia-Plot-Manager",
+    "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "lang": "Python"
+  },
+  {
+    "title": "JanVanRyswyck/awesome-talks",
+    "url": "https://github.com/JanVanRyswyck/awesome-talks"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "lang": "C++"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/thrift",
+    "url": "https://github.com/apache/thrift",
+    "lang": "C++"
+  }
+]

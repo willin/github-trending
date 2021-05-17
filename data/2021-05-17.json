@@ -1,0 +1,123 @@
+[
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "lang": "Go"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "lang": "Python"
+  },
+  {
+    "title": "input-output-hk/plutus",
+    "url": "https://github.com/input-output-hk/plutus",
+    "lang": "HTML"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "swar/Swar-Chia-Plot-Manager",
+    "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "lang": "Python"
+  },
+  {
+    "title": "schlae/graphics-gremlin",
+    "url": "https://github.com/schlae/graphics-gremlin",
+    "lang": "Verilog"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "ExpressLRS/ExpressLRS",
+    "url": "https://github.com/ExpressLRS/ExpressLRS",
+    "lang": "C++"
+  },
+  {
+    "title": "JanVanRyswyck/awesome-talks",
+    "url": "https://github.com/JanVanRyswyck/awesome-talks"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "lang": "C++"
+  },
+  {
+    "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
+    "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh"
+  },
+  {
+    "title": "lockedbyte/CVE-Exploits",
+    "url": "https://github.com/lockedbyte/CVE-Exploits",
+    "lang": "C"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "lang": "C++"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "lucky/bad_actor_poc",
+    "url": "https://github.com/lucky/bad_actor_poc",
+    "lang": "Rust"
+  },
+  {
+    "title": "solana-labs/solana-season",
+    "url": "https://github.com/solana-labs/solana-season"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "lang": "Python"
+  },
+  {
+    "title": "AkihiroSuda/lima",
+    "url": "https://github.com/AkihiroSuda/lima",
+    "lang": "Go"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "lang": "C++"
+  },
+  {
+    "title": "freqtrade/freqtrade-strategies",
+    "url": "https://github.com/freqtrade/freqtrade-strategies",
+    "lang": "Python"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "lang": "JavaScript"
+  }
+]

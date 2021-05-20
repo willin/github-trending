@@ -1,0 +1,125 @@
+[
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "chip-red-pill/uCodeDisasm",
+    "url": "https://github.com/chip-red-pill/uCodeDisasm",
+    "lang": "Python"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "lang": "C++"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "rbignon/doctoshotgun",
+    "url": "https://github.com/rbignon/doctoshotgun",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "yuval-alaluf/restyle-encoder",
+    "url": "https://github.com/yuval-alaluf/restyle-encoder",
+    "lang": "Python"
+  },
+  {
+    "title": "reaqtive/reaqtor",
+    "url": "https://github.com/reaqtive/reaqtor",
+    "lang": "C#"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
+    "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh"
+  },
+  {
+    "title": "flutter/photobooth",
+    "url": "https://github.com/flutter/photobooth",
+    "lang": "Dart"
+  },
+  {
+    "title": "ErickWendel/semana-javascript-expert04",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert04",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/pool-reference",
+    "url": "https://github.com/Chia-Network/pool-reference",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-sigs/kind",
+    "url": "https://github.com/kubernetes-sigs/kind",
+    "lang": "Go"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture"
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "lang": "Go"
+  },
+  {
+    "title": "xia-chu/ZLMediaKit",
+    "url": "https://github.com/xia-chu/ZLMediaKit",
+    "lang": "C++"
+  }
+]

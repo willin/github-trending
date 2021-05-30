@@ -1,0 +1,121 @@
+[
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "lang": "C++"
+  },
+  {
+    "title": "dundee/gdu",
+    "url": "https://github.com/dundee/gdu",
+    "lang": "Go"
+  },
+  {
+    "title": "TaKO8Ki/awesome-alternatives-in-rust",
+    "url": "https://github.com/TaKO8Ki/awesome-alternatives-in-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "lang": "C#"
+  },
+  {
+    "title": "AngeloCore/discord-buttons",
+    "url": "https://github.com/AngeloCore/discord-buttons",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CodingGay/BlackDex",
+    "url": "https://github.com/CodingGay/BlackDex",
+    "lang": "Java"
+  },
+  {
+    "title": "SpacehuhnTech/esp8266_deauther",
+    "url": "https://github.com/SpacehuhnTech/esp8266_deauther",
+    "lang": "C"
+  },
+  {
+    "title": "team7katas/sysopsquad",
+    "url": "https://github.com/team7katas/sysopsquad"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "bee-san/pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "lang": "Python"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses"
+  }
+]

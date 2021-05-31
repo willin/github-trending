@@ -1,0 +1,120 @@
+[
+  {
+    "title": "alibaba/PolarDB-for-PostgreSQL",
+    "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
+    "lang": "C"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "CodingGay/BlackDex",
+    "url": "https://github.com/CodingGay/BlackDex",
+    "lang": "Java"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "neuralmagic/sparseml",
+    "url": "https://github.com/neuralmagic/sparseml",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "StarInitial/xpcheck",
+    "url": "https://github.com/StarInitial/xpcheck",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "beiliangshizi/China_House",
+    "url": "https://github.com/beiliangshizi/China_House"
+  },
+  {
+    "title": "deepmind/android_env",
+    "url": "https://github.com/deepmind/android_env",
+    "lang": "Python"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "Vue"
+  },
+  {
+    "title": "sorenisanerd/gotty",
+    "url": "https://github.com/sorenisanerd/gotty",
+    "lang": "Go"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vxunderground/WinAPI-Tricks",
+    "url": "https://github.com/vxunderground/WinAPI-Tricks",
+    "lang": "C"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jtpio/jupyterlite",
+    "url": "https://github.com/jtpio/jupyterlite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "lang": "JavaScript"
+  }
+]

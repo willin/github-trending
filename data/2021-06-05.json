@@ -1,0 +1,125 @@
+[
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "lang": "C#"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "lang": "C"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "lang": "Python"
+  },
+  {
+    "title": "black7375/Firefox-UI-Fix",
+    "url": "https://github.com/black7375/Firefox-UI-Fix",
+    "lang": "CSS"
+  },
+  {
+    "title": "zooPanda/zoo",
+    "url": "https://github.com/zooPanda/zoo"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kzl/decision-transformer",
+    "url": "https://github.com/kzl/decision-transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "fabionoth/awesome-cyber-security",
+    "url": "https://github.com/fabionoth/awesome-cyber-security"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "lang": "Shell"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark"
+  },
+  {
+    "title": "yqchilde/JDMemberCloseAccount",
+    "url": "https://github.com/yqchilde/JDMemberCloseAccount",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "plotly/plotly.js",
+    "url": "https://github.com/plotly/plotly.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "lang": "Go"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "lang": "TypeScript"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "lang": "Python"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "lang": "C"
+  },
+  {
+    "title": "KranX/Perimeter",
+    "url": "https://github.com/KranX/Perimeter",
+    "lang": "C++"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "ParthJadhav/Tkinter-Designer",
+    "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+    "lang": "Python"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "lang": "Go"
+  },
+  {
+    "title": "academind/react-complete-guide-code",
+    "url": "https://github.com/academind/react-complete-guide-code"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "lang": "Shell"
+  },
+  {
+    "title": "geerlingguy/mac-dev-playbook",
+    "url": "https://github.com/geerlingguy/mac-dev-playbook",
+    "lang": "Shell"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "lang": "HTML"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "atlas-engineer/nyxt",
+    "url": "https://github.com/atlas-engineer/nyxt",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  }
+]

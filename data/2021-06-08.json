@@ -1,0 +1,121 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "escape2020/school2021",
+    "url": "https://github.com/escape2020/school2021",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TuSimple/naive-ui",
+    "url": "https://github.com/TuSimple/naive-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mattnotmax/cyberchef-recipes",
+    "url": "https://github.com/mattnotmax/cyberchef-recipes"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C"
+  },
+  {
+    "title": "Charmve/computer-vision-in-action",
+    "url": "https://github.com/Charmve/computer-vision-in-action",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "lang": "Python"
+  },
+  {
+    "title": "peng-zhihui/XUAN-Bike",
+    "url": "https://github.com/peng-zhihui/XUAN-Bike"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "ekzhang/rustpad",
+    "url": "https://github.com/ekzhang/rustpad",
+    "lang": "Rust"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions"
+  },
+  {
+    "title": "KibaeKim/SectorTradingAlgorithm",
+    "url": "https://github.com/KibaeKim/SectorTradingAlgorithm",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedronauck/docz",
+    "url": "https://github.com/pedronauck/docz",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hasherezade/transacted_hollowing",
+    "url": "https://github.com/hasherezade/transacted_hollowing",
+    "lang": "C"
+  },
+  {
+    "title": "ParthJadhav/Tkinter-Designer",
+    "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+    "lang": "Python"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "lang": "Go"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "lang": "Python"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  }
+]

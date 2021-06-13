@@ -1,0 +1,121 @@
+[
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "lang": "Shell"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "Haskell"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "udacity/nd064_course_1",
+    "url": "https://github.com/udacity/nd064_course_1",
+    "lang": "Python"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "lang": "HTML"
+  },
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "lang": "C"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zzanehip/The-OldOS-Project",
+    "url": "https://github.com/zzanehip/The-OldOS-Project",
+    "lang": "Swift"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "lang": "Python"
+  },
+  {
+    "title": "maziarraissi/Applied-Deep-Learning",
+    "url": "https://github.com/maziarraissi/Applied-Deep-Learning"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "chrxh/alien",
+    "url": "https://github.com/chrxh/alien",
+    "lang": "C++"
+  },
+  {
+    "title": "the-hyp0cr1t3/DSA-Training-2021",
+    "url": "https://github.com/the-hyp0cr1t3/DSA-Training-2021"
+  },
+  {
+    "title": "wuzhi04/MyActions",
+    "url": "https://github.com/wuzhi04/MyActions",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangtingxiao/QuantumultX",
+    "url": "https://github.com/yangtingxiao/QuantumultX"
+  },
+  {
+    "title": "MuriungiPatrick/Bootstrap-5-portfolio-template",
+    "url": "https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "lang": "EmacsLisp"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "lang": "Rust"
+  }
+]

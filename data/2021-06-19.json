@@ -1,0 +1,124 @@
+[
+  {
+    "title": "facebookresearch/AugLy",
+    "url": "https://github.com/facebookresearch/AugLy",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "lang": "Python"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "lang": "Go"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "lang": "Python"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "harvester/harvester",
+    "url": "https://github.com/harvester/harvester",
+    "lang": "Go"
+  },
+  {
+    "title": "organicmaps/organicmaps",
+    "url": "https://github.com/organicmaps/organicmaps",
+    "lang": "C++"
+  },
+  {
+    "title": "longhorn/longhorn",
+    "url": "https://github.com/longhorn/longhorn",
+    "lang": "Shell"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "lang": "Go"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "kwai/DouZero",
+    "url": "https://github.com/kwai/DouZero",
+    "lang": "Python"
+  },
+  {
+    "title": "cariboulabs/cariboulite",
+    "url": "https://github.com/cariboulabs/cariboulite",
+    "lang": "C"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "lang": "Java"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly"
+  },
+  {
+    "title": "bats3c/DarkLoadLibrary",
+    "url": "https://github.com/bats3c/DarkLoadLibrary",
+    "lang": "C"
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "lang": "Python"
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "lang": "Go"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go"
+  },
+  {
+    "title": "benthecoder/yt-channels-DS-AI-ML-CS",
+    "url": "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "lang": "JupyterNotebook"
+  }
+]

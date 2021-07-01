@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Shopify/dawn",
+    "url": "https://github.com/Shopify/dawn",
+    "lang": "Liquid"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-apps/pi-platform-docs",
+    "url": "https://github.com/pi-apps/pi-platform-docs"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "stong/CVE-2020-15368",
+    "url": "https://github.com/stong/CVE-2020-15368",
+    "lang": "C++"
+  },
+  {
+    "title": "mgechev/google-interview-preparation-problems",
+    "url": "https://github.com/mgechev/google-interview-preparation-problems",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ffffffff0x/Digital-Privacy",
+    "url": "https://github.com/ffffffff0x/Digital-Privacy"
+  },
+  {
+    "title": "TrevorAttema/OTGMessenger",
+    "url": "https://github.com/TrevorAttema/OTGMessenger",
+    "lang": "C"
+  },
+  {
+    "title": "irsl/gcp-dhcp-takeover-code-exec",
+    "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+    "lang": "Go"
+  },
+  {
+    "title": "dexidp/dex",
+    "url": "https://github.com/dexidp/dex",
+    "lang": "Go"
+  },
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "lang": "C++"
+  },
+  {
+    "title": "csseky/cskaoyan",
+    "url": "https://github.com/csseky/cskaoyan"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "lang": "Java"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "ORCA666/Cobalt-Wipe",
+    "url": "https://github.com/ORCA666/Cobalt-Wipe",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "lang": "C++"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "lang": "Java"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "lang": "C++"
+  }
+]

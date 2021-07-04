@@ -1,0 +1,125 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vuejs/petite-vue",
+    "url": "https://github.com/vuejs/petite-vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "lang": "Lua"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python"
+  },
+  {
+    "title": "sudofox/rtteg",
+    "url": "https://github.com/sudofox/rtteg",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossf/scorecard",
+    "url": "https://github.com/ossf/scorecard",
+    "lang": "Go"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "mirumee/saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-treesitter/nvim-treesitter",
+    "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+    "lang": "Scheme"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "lang": "Haskell"
+  },
+  {
+    "title": "PlummersSoftwareLLC/Primes",
+    "url": "https://github.com/PlummersSoftwareLLC/Primes",
+    "lang": "C"
+  },
+  {
+    "title": "0voice/campus_recruitmen_questions",
+    "url": "https://github.com/0voice/campus_recruitmen_questions"
+  },
+  {
+    "title": "MLReef/mlreef",
+    "url": "https://github.com/MLReef/mlreef",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "wtsxDev/reverse-engineering",
+    "url": "https://github.com/wtsxDev/reverse-engineering"
+  },
+  {
+    "title": "calebstewart/CVE-2021-1675",
+    "url": "https://github.com/calebstewart/CVE-2021-1675",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "lang": "Python"
+  },
+  {
+    "title": "hrsh7th/nvim-compe",
+    "url": "https://github.com/hrsh7th/nvim-compe",
+    "lang": "Lua"
+  },
+  {
+    "title": "input-output-hk/plutus",
+    "url": "https://github.com/input-output-hk/plutus",
+    "lang": "HTML"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shopizer-ecommerce/shopizer",
+    "url": "https://github.com/shopizer-ecommerce/shopizer",
+    "lang": "Java"
+  }
+]

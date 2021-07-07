@@ -1,0 +1,121 @@
+[
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "lang": "C"
+  },
+  {
+    "title": "audacity/audacity",
+    "url": "https://github.com/audacity/audacity",
+    "lang": "C"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "tuplex/tuplex",
+    "url": "https://github.com/tuplex/tuplex",
+    "lang": "C++"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "codeedu/imersao-fullcycle-3",
+    "url": "https://github.com/codeedu/imersao-fullcycle-3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "ChrisTitusTech/win10script",
+    "url": "https://github.com/ChrisTitusTech/win10script",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "SmartKeyerror/Psyduck",
+    "url": "https://github.com/SmartKeyerror/Psyduck",
+    "lang": "Go"
+  },
+  {
+    "title": "dutchcoders/transfer.sh",
+    "url": "https://github.com/dutchcoders/transfer.sh",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/Taitank",
+    "url": "https://github.com/Tencent/Taitank",
+    "lang": "C++"
+  },
+  {
+    "title": "shashank88/system_design",
+    "url": "https://github.com/shashank88/system_design"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "lang": "CSS"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/exploit_mitigations",
+    "url": "https://github.com/nccgroup/exploit_mitigations"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog"
+  },
+  {
+    "title": "PlummersSoftwareLLC/Primes",
+    "url": "https://github.com/PlummersSoftwareLLC/Primes",
+    "lang": "C"
+  },
+  {
+    "title": "OpenXiangShan/XiangShan",
+    "url": "https://github.com/OpenXiangShan/XiangShan",
+    "lang": "Scala"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++"
+  }
+]

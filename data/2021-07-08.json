@@ -1,0 +1,125 @@
+[
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "lang": "C++"
+  },
+  {
+    "title": "kean/Pulse",
+    "url": "https://github.com/kean/Pulse",
+    "lang": "Swift"
+  },
+  {
+    "title": "SmartKeyerror/Psyduck",
+    "url": "https://github.com/SmartKeyerror/Psyduck",
+    "lang": "Go"
+  },
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "lang": "C"
+  },
+  {
+    "title": "Sneeds-Feed-and-Seed/sneedacity",
+    "url": "https://github.com/Sneeds-Feed-and-Seed/sneedacity",
+    "lang": "C"
+  },
+  {
+    "title": "byt3bl33d3r/ItWasAllADream",
+    "url": "https://github.com/byt3bl33d3r/ItWasAllADream",
+    "lang": "Python"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "lang": "Java"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++"
+  },
+  {
+    "title": "codeedu/imersao-fullcycle-3",
+    "url": "https://github.com/codeedu/imersao-fullcycle-3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "edk2-porting/edk2-sdm845",
+    "url": "https://github.com/edk2-porting/edk2-sdm845",
+    "lang": "ASL"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "lang": "Python"
+  },
+  {
+    "title": "ankurchavda/SparkLearning",
+    "url": "https://github.com/ankurchavda/SparkLearning"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/campus_recruitmen_questions",
+    "url": "https://github.com/0voice/campus_recruitmen_questions"
+  },
+  {
+    "title": "mirumee/saleor",
+    "url": "https://github.com/mirumee/saleor",
+    "lang": "Python"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "lang": "C"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "Tsukasa007/my_script",
+    "url": "https://github.com/Tsukasa007/my_script",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "lang": "CSS"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "spring-projects/spring-graphql",
+    "url": "https://github.com/spring-projects/spring-graphql",
+    "lang": "Java"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zero205/JD_tencent_scf",
+    "url": "https://github.com/zero205/JD_tencent_scf",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript"
+  }
+]

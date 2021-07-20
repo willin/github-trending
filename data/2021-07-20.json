@@ -1,0 +1,123 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust"
+  },
+  {
+    "title": "yedf/dtm",
+    "url": "https://github.com/yedf/dtm",
+    "lang": "Go"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "lang": "Go"
+  },
+  {
+    "title": "livekit/livekit-server",
+    "url": "https://github.com/livekit/livekit-server",
+    "lang": "Go"
+  },
+  {
+    "title": "zhenghaoz/gorse",
+    "url": "https://github.com/zhenghaoz/gorse",
+    "lang": "Go"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "yanirs/established-remote",
+    "url": "https://github.com/yanirs/established-remote"
+  },
+  {
+    "title": "avinassh/fast-sqlite3-inserts",
+    "url": "https://github.com/avinassh/fast-sqlite3-inserts",
+    "lang": "Rust"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "lang": "Rust"
+  },
+  {
+    "title": "emadshanab/Acomplete-guide-to-dir-brute-force-admin-panel-and-API-endpoints",
+    "url": "https://github.com/emadshanab/Acomplete-guide-to-dir-brute-force-admin-panel-and-API-endpoints"
+  },
+  {
+    "title": "FASTSHIFT/X-TRACK",
+    "url": "https://github.com/FASTSHIFT/X-TRACK",
+    "lang": "C"
+  },
+  {
+    "title": "OWASP/wstg",
+    "url": "https://github.com/OWASP/wstg",
+    "lang": "Shell"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go"
+  }
+]

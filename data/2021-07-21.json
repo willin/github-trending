@@ -1,0 +1,122 @@
+[
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/CBL-Mariner",
+    "url": "https://github.com/microsoft/CBL-Mariner",
+    "lang": "Go"
+  },
+  {
+    "title": "zhenghaoz/gorse",
+    "url": "https://github.com/zhenghaoz/gorse",
+    "lang": "Go"
+  },
+  {
+    "title": "AmnestyTech/investigations",
+    "url": "https://github.com/AmnestyTech/investigations",
+    "lang": "Python"
+  },
+  {
+    "title": "blueedgetechno/windows11",
+    "url": "https://github.com/blueedgetechno/windows11",
+    "lang": "CSS"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "CryptoBlades/cryptoblades",
+    "url": "https://github.com/CryptoBlades/cryptoblades",
+    "lang": "Vue"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "lang": "Python"
+  },
+  {
+    "title": "tal-tech/go-zero",
+    "url": "https://github.com/tal-tech/go-zero",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "kawalcovid19/wargabantuwarga.com",
+    "url": "https://github.com/kawalcovid19/wargabantuwarga.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path"
+  },
+  {
+    "title": "taylorotwell/next-example-frontend",
+    "url": "https://github.com/taylorotwell/next-example-frontend",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "taylorotwell/next-example-backend",
+    "url": "https://github.com/taylorotwell/next-example-backend",
+    "lang": "PHP"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops"
+  },
+  {
+    "title": "Xmader/musescore-downloader",
+    "url": "https://github.com/Xmader/musescore-downloader",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yedf/dtm",
+    "url": "https://github.com/yedf/dtm",
+    "lang": "Go"
+  },
+  {
+    "title": "lxgw/LxgwWenKai",
+    "url": "https://github.com/lxgw/LxgwWenKai"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "oslabs-beta/SvelteStorm",
+    "url": "https://github.com/oslabs-beta/SvelteStorm",
+    "lang": "Svelte"
+  },
+  {
+    "title": "envoyproxy/envoy",
+    "url": "https://github.com/envoyproxy/envoy",
+    "lang": "C++"
+  }
+]

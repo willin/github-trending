@@ -1,0 +1,123 @@
+[
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "lang": "Python"
+  },
+  {
+    "title": "Hiroshiba/voicevox",
+    "url": "https://github.com/Hiroshiba/voicevox",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "lang": "TeX"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/droidlet",
+    "url": "https://github.com/facebookresearch/droidlet",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++"
+  },
+  {
+    "title": "org-roam/org-roam-ui",
+    "url": "https://github.com/org-roam/org-roam-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apollographql/apollo-client",
+    "url": "https://github.com/apollographql/apollo-client",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/jvm",
+    "url": "https://github.com/doocs/jvm",
+    "lang": "Java"
+  },
+  {
+    "title": "ed3ath/cbtracker",
+    "url": "https://github.com/ed3ath/cbtracker",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tib3rius/AutoRecon",
+    "url": "https://github.com/Tib3rius/AutoRecon",
+    "lang": "Python"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books"
+  },
+  {
+    "title": "prometheus/alertmanager",
+    "url": "https://github.com/prometheus/alertmanager",
+    "lang": "Go"
+  },
+  {
+    "title": "bytebase/bytebase",
+    "url": "https://github.com/bytebase/bytebase",
+    "lang": "Vue"
+  },
+  {
+    "title": "AlexandreRouma/SDRPlusPlus",
+    "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "lang": "Vue"
+  }
+]

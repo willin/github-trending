@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "lang": "C#"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "lang": "Python"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "lang": "Lua"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "GhostPack/Rubeus",
+    "url": "https://github.com/GhostPack/Rubeus",
+    "lang": "C#"
+  },
+  {
+    "title": "datafuselabs/datafuse",
+    "url": "https://github.com/datafuselabs/datafuse",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "alyssaxuu/mapus",
+    "url": "https://github.com/alyssaxuu/mapus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap"
+  },
+  {
+    "title": "Apress/Ray-Tracing-Gems-II",
+    "url": "https://github.com/Apress/Ray-Tracing-Gems-II",
+    "lang": "C++"
+  },
+  {
+    "title": "chuzhixin/vue-admin-beautiful-pro",
+    "url": "https://github.com/chuzhixin/vue-admin-beautiful-pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "lang": "TeX"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "lang": "Java"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Security-Onion-Solutions/securityonion",
+    "url": "https://github.com/Security-Onion-Solutions/securityonion",
+    "lang": "Shell"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "lang": "C#"
+  },
+  {
+    "title": "typescript-eslint/typescript-eslint",
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++"
+  }
+]

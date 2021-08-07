@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/pinot",
+    "url": "https://github.com/apache/pinot",
+    "lang": "Java"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "datafuselabs/datafuse",
+    "url": "https://github.com/datafuselabs/datafuse",
+    "lang": "Rust"
+  },
+  {
+    "title": "RPCS3/rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "lang": "C++"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "badtuxx/DescomplicandoDocker",
+    "url": "https://github.com/badtuxx/DescomplicandoDocker"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "lang": "Shell"
+  },
+  {
+    "title": "kubernetes/kompose",
+    "url": "https://github.com/kubernetes/kompose",
+    "lang": "Go"
+  },
+  {
+    "title": "0voice/linux_kernel_wiki",
+    "url": "https://github.com/0voice/linux_kernel_wiki"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "alyssaxuu/mapus",
+    "url": "https://github.com/alyssaxuu/mapus",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "lang": "Go"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "lang": "C"
+  },
+  {
+    "title": "testjavascript/nodejs-integration-tests-best-practices",
+    "url": "https://github.com/testjavascript/nodejs-integration-tests-best-practices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "lang": "Clojure"
+  },
+  {
+    "title": "Blinue/Magpie",
+    "url": "https://github.com/Blinue/Magpie",
+    "lang": "HLSL"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "lang": "Java"
+  },
+  {
+    "title": "mrousavy/react-native-vision-camera",
+    "url": "https://github.com/mrousavy/react-native-vision-camera",
+    "lang": "Swift"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "lang": "Java"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "lang": "Python"
+  },
+  {
+    "title": "zero205/JD_tencent_scf",
+    "url": "https://github.com/zero205/JD_tencent_scf",
+    "lang": "JavaScript"
+  }
+]

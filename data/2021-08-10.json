@@ -1,0 +1,122 @@
+[
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "lang": "Java"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "trufflesuite/truffle",
+    "url": "https://github.com/trufflesuite/truffle",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh"
+  },
+  {
+    "title": "codebasics/py",
+    "url": "https://github.com/codebasics/py",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "hora-search/hora",
+    "url": "https://github.com/hora-search/hora",
+    "lang": "Rust"
+  },
+  {
+    "title": "RPCS3/rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "lang": "C++"
+  },
+  {
+    "title": "sharkdp/fd",
+    "url": "https://github.com/sharkdp/fd",
+    "lang": "Rust"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "lang": "Python"
+  },
+  {
+    "title": "brettwooldridge/HikariCP",
+    "url": "https://github.com/brettwooldridge/HikariCP",
+    "lang": "Java"
+  },
+  {
+    "title": "sdushantha/snaprecovery",
+    "url": "https://github.com/sdushantha/snaprecovery",
+    "lang": "Shell"
+  },
+  {
+    "title": "PeterWang512/GANSketching",
+    "url": "https://github.com/PeterWang512/GANSketching",
+    "lang": "Python"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C"
+  },
+  {
+    "title": "fholger/openvr_fsr",
+    "url": "https://github.com/fholger/openvr_fsr",
+    "lang": "C++"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "lang": "Python"
+  },
+  {
+    "title": "uzh-rpg/rpg_timelens",
+    "url": "https://github.com/uzh-rpg/rpg_timelens",
+    "lang": "Python"
+  },
+  {
+    "title": "badtuxx/DescomplicandoDocker",
+    "url": "https://github.com/badtuxx/DescomplicandoDocker"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "lang": "Go"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "conwnet/github1s",
+    "url": "https://github.com/conwnet/github1s",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "DamianEdwards/MinimalApiPlayground",
+    "url": "https://github.com/DamianEdwards/MinimalApiPlayground",
+    "lang": "C#"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "lang": "Go"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "zxbu/webdav-aliyundriver",
+    "url": "https://github.com/zxbu/webdav-aliyundriver",
+    "lang": "Java"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "opencomputeproject/Time-Appliance-Project",
+    "url": "https://github.com/opencomputeproject/Time-Appliance-Project",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python"
+  },
+  {
+    "title": "SSHeRun/CS-Xmind-Note",
+    "url": "https://github.com/SSHeRun/CS-Xmind-Note"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ForbiddenProgrammer/conti-pentester-guide-leak",
+    "url": "https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fuzhengwei/small-spring",
+    "url": "https://github.com/fuzhengwei/small-spring",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/Git-Credential-Manager-Core",
+    "url": "https://github.com/microsoft/Git-Credential-Manager-Core",
+    "lang": "C#"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "lang": "Python"
+  },
+  {
+    "title": "GossiTheDog/SystemNightmare",
+    "url": "https://github.com/GossiTheDog/SystemNightmare",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chaitjo/awesome-efficient-gnn",
+    "url": "https://github.com/chaitjo/awesome-efficient-gnn"
+  }
+]

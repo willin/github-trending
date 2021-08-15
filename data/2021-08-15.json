@@ -1,0 +1,122 @@
+[
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "lang": "Go"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "zxbu/webdav-aliyundriver",
+    "url": "https://github.com/zxbu/webdav-aliyundriver",
+    "lang": "Java"
+  },
+  {
+    "title": "ThePrimeagen/refactoring.nvim",
+    "url": "https://github.com/ThePrimeagen/refactoring.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "fuzhengwei/small-spring",
+    "url": "https://github.com/fuzhengwei/small-spring",
+    "lang": "Java"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "mgulener/turkiye-regex-kaliplari",
+    "url": "https://github.com/mgulener/turkiye-regex-kaliplari",
+    "lang": "HTML"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "builtbybel/ThisIsWin11",
+    "url": "https://github.com/builtbybel/ThisIsWin11",
+    "lang": "C#"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "mooseIre/update_miui_ota",
+    "url": "https://github.com/mooseIre/update_miui_ota"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleGAN",
+    "url": "https://github.com/PaddlePaddle/PaddleGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiimgreen/github-cheat-sheet",
+    "url": "https://github.com/tiimgreen/github-cheat-sheet"
+  }
+]

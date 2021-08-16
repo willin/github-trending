@@ -1,0 +1,127 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "lang": "Lua"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "lang": "Perl"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "OpenRCT2/OpenRCT2",
+    "url": "https://github.com/OpenRCT2/OpenRCT2",
+    "lang": "C++"
+  },
+  {
+    "title": "FabricMC/fabric-example-mod",
+    "url": "https://github.com/FabricMC/fabric-example-mod",
+    "lang": "Java"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "lang": "Python"
+  },
+  {
+    "title": "e-maxx-eng/e-maxx-eng",
+    "url": "https://github.com/e-maxx-eng/e-maxx-eng",
+    "lang": "C++"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MhankBarBar/whatsapp-bot",
+    "url": "https://github.com/MhankBarBar/whatsapp-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "Morganamilo/paru",
+    "url": "https://github.com/Morganamilo/paru",
+    "lang": "Rust"
+  },
+  {
+    "title": "jfmaes/LazySign",
+    "url": "https://github.com/jfmaes/LazySign",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "lang": "C#"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "lang": "Rust"
+  },
+  {
+    "title": "pancakeswap/pancake-frontend",
+    "url": "https://github.com/pancakeswap/pancake-frontend",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "webtorrent/webtorrent",
+    "url": "https://github.com/webtorrent/webtorrent",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Chatterino/chatterino2",
+    "url": "https://github.com/Chatterino/chatterino2",
+    "lang": "C++"
+  }
+]

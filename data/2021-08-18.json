@@ -1,0 +1,123 @@
+[
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "lang": "Lua"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "ms-jpq/coq_nvim",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips"
+  },
+  {
+    "title": "0voice/Introduction-to-Golang",
+    "url": "https://github.com/0voice/Introduction-to-Golang"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "frkngksl/Huan",
+    "url": "https://github.com/frkngksl/Huan",
+    "lang": "C"
+  },
+  {
+    "title": "Dairongpeng/algorithm-note",
+    "url": "https://github.com/Dairongpeng/algorithm-note",
+    "lang": "Java"
+  },
+  {
+    "title": "ktecv2000/ProxyShell",
+    "url": "https://github.com/ktecv2000/ProxyShell",
+    "lang": "Python"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner"
+  },
+  {
+    "title": "endless-sky/endless-sky",
+    "url": "https://github.com/endless-sky/endless-sky",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "a13xp0p0v/linux-kernel-defence-map",
+    "url": "https://github.com/a13xp0p0v/linux-kernel-defence-map"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "lang": "Python"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "lang": "C++"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "lang": "Perl"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "lang": "Java"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "GoogleContainerTools/jib",
+    "url": "https://github.com/GoogleContainerTools/jib",
+    "lang": "Java"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "lang": "JupyterNotebook"
+  }
+]

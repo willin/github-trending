@@ -1,0 +1,123 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "hrsh7th/nvim-cmp",
+    "url": "https://github.com/hrsh7th/nvim-cmp",
+    "lang": "Lua"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "lang": "TeX"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "poem-web/poem",
+    "url": "https://github.com/poem-web/poem",
+    "lang": "Rust"
+  },
+  {
+    "title": "eastlakeside/awesome-productivity-cn",
+    "url": "https://github.com/eastlakeside/awesome-productivity-cn"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS"
+  },
+  {
+    "title": "filebrowser/filebrowser",
+    "url": "https://github.com/filebrowser/filebrowser",
+    "lang": "Go"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "optiv/Registry-Recon",
+    "url": "https://github.com/optiv/Registry-Recon"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "isl-org/Open3D",
+    "url": "https://github.com/isl-org/Open3D",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "lang": "C#"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "lang": "Rust"
+  }
+]

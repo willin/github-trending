@@ -1,0 +1,125 @@
+[
+  {
+    "title": "marceloprates/prettymaps",
+    "url": "https://github.com/marceloprates/prettymaps",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "lang": "Python"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "lang": "Rust"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "lang": "TeX"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "lang": "Go"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "varbhat/exatorrent",
+    "url": "https://github.com/varbhat/exatorrent",
+    "lang": "Go"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "filebrowser/filebrowser",
+    "url": "https://github.com/filebrowser/filebrowser",
+    "lang": "Go"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "hrsh7th/nvim-cmp",
+    "url": "https://github.com/hrsh7th/nvim-cmp",
+    "lang": "Lua"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "eastlakeside/awesome-productivity-cn",
+    "url": "https://github.com/eastlakeside/awesome-productivity-cn"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "lang": "Vue"
+  },
+  {
+    "title": "benyaminahmed/nft-image-generator",
+    "url": "https://github.com/benyaminahmed/nft-image-generator",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JingyunLiang/SwinIR",
+    "url": "https://github.com/JingyunLiang/SwinIR",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript"
+  }
+]

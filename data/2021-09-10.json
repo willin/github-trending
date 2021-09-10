@@ -1,0 +1,124 @@
+[
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "lang": "Go"
+  },
+  {
+    "title": "exiled-apes/candy-machine-mint",
+    "url": "https://github.com/exiled-apes/candy-machine-mint",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "spotify/pedalboard",
+    "url": "https://github.com/spotify/pedalboard",
+    "lang": "C++"
+  },
+  {
+    "title": "polarismesh/polaris",
+    "url": "https://github.com/polarismesh/polaris",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "OWASP/Top10",
+    "url": "https://github.com/OWASP/Top10",
+    "lang": "HTML"
+  },
+  {
+    "title": "spiceai/spiceai",
+    "url": "https://github.com/spiceai/spiceai",
+    "lang": "Go"
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "lang": "Shell"
+  },
+  {
+    "title": "geemion/Khepri",
+    "url": "https://github.com/geemion/Khepri",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/incubator-doris",
+    "url": "https://github.com/apache/incubator-doris",
+    "lang": "Java"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "lang": "HTML"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "ABZ-Aaron/CheatSheets",
+    "url": "https://github.com/ABZ-Aaron/CheatSheets"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "url": "https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spikecodes/libreddit",
+    "url": "https://github.com/spikecodes/libreddit",
+    "lang": "Rust"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "lang": "C"
+  }
+]

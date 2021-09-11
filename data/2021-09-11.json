@@ -1,0 +1,123 @@
+[
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ChoiceCoin/ChoiceCoin.github.io",
+    "url": "https://github.com/ChoiceCoin/ChoiceCoin.github.io",
+    "lang": "HTML"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "lang": "Go"
+  },
+  {
+    "title": "ffffffff0x/Digital-Privacy",
+    "url": "https://github.com/ffffffff0x/Digital-Privacy"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "lang": "HTML"
+  },
+  {
+    "title": "apache/incubator-doris",
+    "url": "https://github.com/apache/incubator-doris",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "lang": "C#"
+  },
+  {
+    "title": "diegolnasc/kubernetes-best-practices",
+    "url": "https://github.com/diegolnasc/kubernetes-best-practices"
+  },
+  {
+    "title": "spotify/pedalboard",
+    "url": "https://github.com/spotify/pedalboard",
+    "lang": "C++"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OWASP/Top10",
+    "url": "https://github.com/OWASP/Top10",
+    "lang": "HTML"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "ReactiveX/RxJava",
+    "url": "https://github.com/ReactiveX/RxJava",
+    "lang": "Java"
+  },
+  {
+    "title": "Jack-Cherish/quantitative",
+    "url": "https://github.com/Jack-Cherish/quantitative",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "lang": "Python"
+  },
+  {
+    "title": "abseil/abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "lang": "C++"
+  }
+]

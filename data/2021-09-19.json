@@ -1,0 +1,121 @@
+[
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "lang": "C++"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java"
+  },
+  {
+    "title": "orico/www.mlcompendium.com",
+    "url": "https://github.com/orico/www.mlcompendium.com"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "lang": "Python"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "laoshenkaopu/kkndme_tianya",
+    "url": "https://github.com/laoshenkaopu/kkndme_tianya"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "klezVirus/CVE-2021-40444",
+    "url": "https://github.com/klezVirus/CVE-2021-40444",
+    "lang": "HTML"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "lang": "Java"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  }
+]

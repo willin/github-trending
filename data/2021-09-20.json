@@ -1,0 +1,122 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "krayin/laravel-crm",
+    "url": "https://github.com/krayin/laravel-crm",
+    "lang": "PHP"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "lang": "Go"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "lang": "C#"
+  },
+  {
+    "title": "IrisShaders/Iris",
+    "url": "https://github.com/IrisShaders/Iris",
+    "lang": "Java"
+  },
+  {
+    "title": "GoTurkiye/training",
+    "url": "https://github.com/GoTurkiye/training",
+    "lang": "Go"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "joehillen/sysz",
+    "url": "https://github.com/joehillen/sysz",
+    "lang": "Shell"
+  },
+  {
+    "title": "jorisschellekens/borb",
+    "url": "https://github.com/jorisschellekens/borb",
+    "lang": "Python"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "lang": "C"
+  },
+  {
+    "title": "DataWithDanny/sql-masterclass",
+    "url": "https://github.com/DataWithDanny/sql-masterclass"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "microsoft/PythonProgrammingPuzzles",
+    "url": "https://github.com/microsoft/PythonProgrammingPuzzles",
+    "lang": "Python"
+  },
+  {
+    "title": "geerlingguy/internet-pi",
+    "url": "https://github.com/geerlingguy/internet-pi",
+    "lang": "Jinja"
+  },
+  {
+    "title": "mamun-sec/dfirt",
+    "url": "https://github.com/mamun-sec/dfirt",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns"
+  }
+]

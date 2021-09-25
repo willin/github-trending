@@ -1,0 +1,123 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "will/slacktyping",
+    "url": "https://github.com/will/slacktyping",
+    "lang": "Ruby"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/secguide",
+    "url": "https://github.com/Tencent/secguide"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "Vue"
+  },
+  {
+    "title": "gmpetrov/ultimate-saas-ts",
+    "url": "https://github.com/gmpetrov/ultimate-saas-ts",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "salesforce/Merlion",
+    "url": "https://github.com/salesforce/Merlion",
+    "lang": "Python"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "lang": "Shell"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "lang": "Python"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "lang": "Python"
+  }
+]

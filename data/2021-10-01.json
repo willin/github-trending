@@ -1,0 +1,122 @@
+[
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "lang": "Python"
+  },
+  {
+    "title": "containers/youki",
+    "url": "https://github.com/containers/youki",
+    "lang": "Rust"
+  },
+  {
+    "title": "mgeeky/ShellcodeFluctuation",
+    "url": "https://github.com/mgeeky/ShellcodeFluctuation",
+    "lang": "C++"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "lang": "Go"
+  },
+  {
+    "title": "jonataslaw/getx",
+    "url": "https://github.com/jonataslaw/getx",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "mithi/react-philosophies",
+    "url": "https://github.com/mithi/react-philosophies"
+  },
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "lang": "Go"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "lang": "Go"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "lang": "Go"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "lang": "Python"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "lang": "Python"
+  },
+  {
+    "title": "eclipse/mosquitto",
+    "url": "https://github.com/eclipse/mosquitto",
+    "lang": "C"
+  },
+  {
+    "title": "swagger-api/swagger-ui",
+    "url": "https://github.com/swagger-api/swagger-ui",
+    "lang": "JavaScript"
+  }
+]

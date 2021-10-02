@@ -1,0 +1,124 @@
+[
+  {
+    "title": "authzed/spicedb",
+    "url": "https://github.com/authzed/spicedb",
+    "lang": "Go"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tharsis/evmos",
+    "url": "https://github.com/tharsis/evmos",
+    "lang": "Go"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "lang": "Go"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "lang": "TeX"
+  },
+  {
+    "title": "ovotech/gitoops",
+    "url": "https://github.com/ovotech/gitoops",
+    "lang": "Go"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twowaits/make-pull-request",
+    "url": "https://github.com/twowaits/make-pull-request",
+    "lang": "HTML"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinitshahdeo/Hacktoberfest2021",
+    "url": "https://github.com/vinitshahdeo/Hacktoberfest2021"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  }
+]

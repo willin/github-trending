@@ -1,0 +1,124 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "googleprojectzero/weggli",
+    "url": "https://github.com/googleprojectzero/weggli",
+    "lang": "Rust"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Slurmio/school-dev-k8s",
+    "url": "https://github.com/Slurmio/school-dev-k8s",
+    "lang": "Mustache"
+  },
+  {
+    "title": "authzed/spicedb",
+    "url": "https://github.com/authzed/spicedb",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "trickster0/OffensiveRust",
+    "url": "https://github.com/trickster0/OffensiveRust",
+    "lang": "Rust"
+  },
+  {
+    "title": "twowaits/make-pull-request",
+    "url": "https://github.com/twowaits/make-pull-request",
+    "lang": "HTML"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vinitshahdeo/Hacktoberfest2021",
+    "url": "https://github.com/vinitshahdeo/Hacktoberfest2021"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "lang": "Markdown"
+  },
+  {
+    "title": "tharsis/ethermint",
+    "url": "https://github.com/tharsis/ethermint",
+    "lang": "Go"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  }
+]

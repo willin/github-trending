@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Slurmio/school-dev-k8s",
+    "url": "https://github.com/Slurmio/school-dev-k8s",
+    "lang": "Mustache"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "peregrine-lang/Peregrine",
+    "url": "https://github.com/peregrine-lang/Peregrine",
+    "lang": "V"
+  },
+  {
+    "title": "kentcdodds/kentcdodds.com",
+    "url": "https://github.com/kentcdodds/kentcdodds.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vmware-tanzu/community-edition",
+    "url": "https://github.com/vmware-tanzu/community-edition",
+    "lang": "Shell"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "lang": "Go"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "JoeWDavies/geoblender",
+    "url": "https://github.com/JoeWDavies/geoblender"
+  },
+  {
+    "title": "opencodeiiita/Collaborative-Web",
+    "url": "https://github.com/opencodeiiita/Collaborative-Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "lang": "C#"
+  },
+  {
+    "title": "oatpp/oatpp",
+    "url": "https://github.com/oatpp/oatpp",
+    "lang": "C++"
+  },
+  {
+    "title": "Harsha200105/DesktopAssistant",
+    "url": "https://github.com/Harsha200105/DesktopAssistant",
+    "lang": "Python"
+  },
+  {
+    "title": "abhpd/hacktoberfest2021",
+    "url": "https://github.com/abhpd/hacktoberfest2021",
+    "lang": "Java"
+  },
+  {
+    "title": "novaspirit/pi-hosted",
+    "url": "https://github.com/novaspirit/pi-hosted",
+    "lang": "Shell"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "lang": "C++"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "lang": "C#"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "lang": "Python"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  }
+]

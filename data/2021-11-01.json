@@ -1,0 +1,126 @@
+[
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WorkerLivesMatter/WorkingTime",
+    "url": "https://github.com/WorkerLivesMatter/WorkingTime"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "lang": "C++"
+  },
+  {
+    "title": "EtherDream/http-server-online",
+    "url": "https://github.com/EtherDream/http-server-online",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KhaosT/MacVM",
+    "url": "https://github.com/KhaosT/MacVM",
+    "lang": "Swift"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "lang": "Go"
+  },
+  {
+    "title": "BNYMellon/spring-kata",
+    "url": "https://github.com/BNYMellon/spring-kata",
+    "lang": "Java"
+  },
+  {
+    "title": "notifirehq/notifire",
+    "url": "https://github.com/notifirehq/notifire",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kameldieb/raytracing_demo",
+    "url": "https://github.com/Kameldieb/raytracing_demo",
+    "lang": "C++"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "0x192/universal-android-debloater",
+    "url": "https://github.com/0x192/universal-android-debloater",
+    "lang": "Rust"
+  },
+  {
+    "title": "esp8266/Arduino",
+    "url": "https://github.com/esp8266/Arduino",
+    "lang": "C++"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "lang": "C++"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  }
+]

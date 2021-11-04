@@ -1,0 +1,123 @@
+[
+  {
+    "title": "foxsen/archbase",
+    "url": "https://github.com/foxsen/archbase",
+    "lang": "TeX"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "sberbank-ai/ru-dalle",
+    "url": "https://github.com/sberbank-ai/ru-dalle",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MangoDB-io/MangoDB",
+    "url": "https://github.com/MangoDB-io/MangoDB",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure-Samples/container-apps-store-api-microservice",
+    "url": "https://github.com/Azure-Samples/container-apps-store-api-microservice",
+    "lang": "Shell"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "lang": "Python"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "sgoulas/pdpProject",
+    "url": "https://github.com/sgoulas/pdpProject",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "lang": "Rust"
+  },
+  {
+    "title": "motor-admin/motor-admin",
+    "url": "https://github.com/motor-admin/motor-admin",
+    "lang": "Ruby"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "lang": "Go"
+  },
+  {
+    "title": "Shopify/toxiproxy",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "lang": "Go"
+  },
+  {
+    "title": "darglein/ADOP",
+    "url": "https://github.com/darglein/ADOP",
+    "lang": "C++"
+  },
+  {
+    "title": "nickboucher/trojan-source",
+    "url": "https://github.com/nickboucher/trojan-source",
+    "lang": "SCSS"
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CesiumGS/cesium",
+    "url": "https://github.com/CesiumGS/cesium",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kenp-io/not-for-iphone-usb-c",
+    "url": "https://github.com/kenp-io/not-for-iphone-usb-c"
+  },
+  {
+    "title": "Drunkmars/BypassUAC",
+    "url": "https://github.com/Drunkmars/BypassUAC"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "lang": "Nunjucks"
+  }
+]

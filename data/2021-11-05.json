@@ -1,0 +1,123 @@
+[
+  {
+    "title": "knownsec/KCon",
+    "url": "https://github.com/knownsec/KCon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "questdb/questdb",
+    "url": "https://github.com/questdb/questdb",
+    "lang": "Java"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "lang": "Go"
+  },
+  {
+    "title": "apple/swift-markdown",
+    "url": "https://github.com/apple/swift-markdown",
+    "lang": "Swift"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "Roblox/luau",
+    "url": "https://github.com/Roblox/luau",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "lang": "Python"
+  },
+  {
+    "title": "maxvfischer/DIY-CNC-machine",
+    "url": "https://github.com/maxvfischer/DIY-CNC-machine"
+  },
+  {
+    "title": "ThioJoe/YouTube-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YouTube-Spammer-Purge",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "MangoDB-io/MangoDB",
+    "url": "https://github.com/MangoDB-io/MangoDB",
+    "lang": "Go"
+  },
+  {
+    "title": "artart222/CodeArt",
+    "url": "https://github.com/artart222/CodeArt",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kenp-io/not-for-iphone-usb-c",
+    "url": "https://github.com/kenp-io/not-for-iphone-usb-c"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "extremecodetv/ExtremeCodeOS",
+    "url": "https://github.com/extremecodetv/ExtremeCodeOS",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "microsoft/Power-Fx",
+    "url": "https://github.com/microsoft/Power-Fx",
+    "lang": "C#"
+  },
+  {
+    "title": "ethereum-boilerplate/ethereum-boilerplate",
+    "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Yin-Hongwei/music-website",
+    "url": "https://github.com/Yin-Hongwei/music-website",
+    "lang": "Vue"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "lang": "Python"
+  }
+]

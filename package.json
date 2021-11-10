@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@xibang/node-common": "^1.0.3",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cheerio": "^1.0.0-rc.3"
   }
 }

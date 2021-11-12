@@ -1,0 +1,124 @@
+[
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "lang": "Python"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "Vue"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "lang": "C"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "lang": "Groovy"
+  },
+  {
+    "title": "lwch/natpass",
+    "url": "https://github.com/lwch/natpass",
+    "lang": "Go"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "lang": "C"
+  },
+  {
+    "title": "fonoster/fonoster",
+    "url": "https://github.com/fonoster/fonoster",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "lang": "C#"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "lang": "Python"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "lang": "Java"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "lang": "TeX"
+  },
+  {
+    "title": "stong/infosec-resources",
+    "url": "https://github.com/stong/infosec-resources"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "lang": "Go"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python"
+  },
+  {
+    "title": "RicoSuter/NSwag",
+    "url": "https://github.com/RicoSuter/NSwag",
+    "lang": "C#"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+  }
+]

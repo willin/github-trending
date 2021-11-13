@@ -1,0 +1,125 @@
+[
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "lang": "Python"
+  },
+  {
+    "title": "Kyome22/RunCat_for_windows",
+    "url": "https://github.com/Kyome22/RunCat_for_windows",
+    "lang": "C#"
+  },
+  {
+    "title": "halfrost/Halfrost-Field",
+    "url": "https://github.com/halfrost/Halfrost-Field",
+    "lang": "Go"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "yeemachine/kalidokit",
+    "url": "https://github.com/yeemachine/kalidokit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "lyrric/seckill",
+    "url": "https://github.com/lyrric/seckill",
+    "lang": "Java"
+  },
+  {
+    "title": "serverless/serverless",
+    "url": "https://github.com/serverless/serverless",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "lang": "Rust"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "lang": "Go"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "lang": "Go"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C"
+  },
+  {
+    "title": "kubernetes/test-infra",
+    "url": "https://github.com/kubernetes/test-infra",
+    "lang": "Go"
+  },
+  {
+    "title": "canonical/multipass",
+    "url": "https://github.com/canonical/multipass",
+    "lang": "C++"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  }
+]

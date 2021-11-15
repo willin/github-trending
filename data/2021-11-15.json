@@ -1,0 +1,125 @@
+[
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "lang": "C++"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "lang": "C++"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "lang": "Python"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "lang": "C"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022"
+  },
+  {
+    "title": "Kyome22/RunCat_for_windows",
+    "url": "https://github.com/Kyome22/RunCat_for_windows",
+    "lang": "C#"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "lang": "Go"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "lang": "C++"
+  },
+  {
+    "title": "Raptor3um/raptoreum",
+    "url": "https://github.com/Raptor3um/raptoreum",
+    "lang": "C++"
+  },
+  {
+    "title": "0xCGonzalo/Golden-Guide-for-Pentesting",
+    "url": "https://github.com/0xCGonzalo/Golden-Guide-for-Pentesting",
+    "lang": "Python"
+  },
+  {
+    "title": "unlock-music/unlock-music",
+    "url": "https://github.com/unlock-music/unlock-music",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ycd/dstp",
+    "url": "https://github.com/ycd/dstp",
+    "lang": "Go"
+  },
+  {
+    "title": "JamesIves/github-pages-deploy-action",
+    "url": "https://github.com/JamesIves/github-pages-deploy-action",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "td512/re3",
+    "url": "https://github.com/td512/re3",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "lang": "Python"
+  },
+  {
+    "title": "antfu/unocss",
+    "url": "https://github.com/antfu/unocss",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "lang": "HTML"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "lang": "Go"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "klinix5/InstallerFileTakeOver",
+    "url": "https://github.com/klinix5/InstallerFileTakeOver",
+    "lang": "C++"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "lang": "C++"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "lang": "Python"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "toitlang/toit",
+    "url": "https://github.com/toitlang/toit",
+    "lang": "C++"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ming1016/SwiftPamphletApp",
+    "url": "https://github.com/ming1016/SwiftPamphletApp",
+    "lang": "Swift"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "lang": "C"
+  },
+  {
+    "title": "fangzesheng/free-api",
+    "url": "https://github.com/fangzesheng/free-api"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Shopify/dawn",
+    "url": "https://github.com/Shopify/dawn",
+    "lang": "Liquid"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "lang": "Swift"
+  },
+  {
+    "title": "AsyncBanana/microdiff",
+    "url": "https://github.com/AsyncBanana/microdiff",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum-boilerplate/ethereum-boilerplate",
+    "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/remix-project",
+    "url": "https://github.com/ethereum/remix-project",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "lang": "JupyterNotebook"
+  }
+]

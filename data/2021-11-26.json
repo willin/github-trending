@@ -1,0 +1,124 @@
+[
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "lang": "C"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "lang": "C++"
+  },
+  {
+    "title": "vueuse/vueuse",
+    "url": "https://github.com/vueuse/vueuse",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "klinix5/InstallerFileTakeOver",
+    "url": "https://github.com/klinix5/InstallerFileTakeOver",
+    "lang": "C++"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "lang": "Solidity"
+  },
+  {
+    "title": "fangzesheng/free-api",
+    "url": "https://github.com/fangzesheng/free-api"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "merico-dev/lake",
+    "url": "https://github.com/merico-dev/lake",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "lang": "Python"
+  },
+  {
+    "title": "jvdutra/open-source-rpg",
+    "url": "https://github.com/jvdutra/open-source-rpg",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "lang": "C++"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "lang": "HTML"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "lang": "Java"
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "lang": "Java"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "lang": "PHP"
+  },
+  {
+    "title": "sogou/srpc",
+    "url": "https://github.com/sogou/srpc",
+    "lang": "C++"
+  },
+  {
+    "title": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "lang": "Go"
+  }
+]

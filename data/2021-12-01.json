@@ -1,0 +1,120 @@
+[
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "makeitrealcamp/intro-javascript-nov-2021",
+    "url": "https://github.com/makeitrealcamp/intro-javascript-nov-2021"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "tenderlove/asmrepl",
+    "url": "https://github.com/tenderlove/asmrepl",
+    "lang": "Ruby"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "lang": "Rust"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "Shell"
+  },
+  {
+    "title": "fullstackhero/dotnet-webapi-boilerplate",
+    "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
+    "lang": "C#"
+  },
+  {
+    "title": "0voice/learning_mind_map",
+    "url": "https://github.com/0voice/learning_mind_map"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethanhs/python-wasm",
+    "url": "https://github.com/ethanhs/python-wasm",
+    "lang": "Shell"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "argentlabs/argent-x",
+    "url": "https://github.com/argentlabs/argent-x",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tonsky/FiraCode",
+    "url": "https://github.com/tonsky/FiraCode",
+    "lang": "Clojure"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "lang": "Go"
+  },
+  {
+    "title": "zeldaret/oot",
+    "url": "https://github.com/zeldaret/oot",
+    "lang": "C"
+  }
+]

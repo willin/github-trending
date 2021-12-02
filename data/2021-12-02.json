@@ -1,0 +1,124 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "lang": "Go"
+  },
+  {
+    "title": "oxidecomputer/hubris",
+    "url": "https://github.com/oxidecomputer/hubris",
+    "lang": "Rust"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "0voice/learning_mind_map",
+    "url": "https://github.com/0voice/learning_mind_map"
+  },
+  {
+    "title": "pengzhile/ja-netfilter",
+    "url": "https://github.com/pengzhile/ja-netfilter",
+    "lang": "Java"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "thunlp/WantWords",
+    "url": "https://github.com/thunlp/WantWords",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "autonomousvision/projected_gan",
+    "url": "https://github.com/autonomousvision/projected_gan",
+    "lang": "Python"
+  },
+  {
+    "title": "tonsky/FiraCode",
+    "url": "https://github.com/tonsky/FiraCode",
+    "lang": "Clojure"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "lang": "Shell"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "lang": "Java"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "lang": "HCL"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "lang": "Groovy"
+  },
+  {
+    "title": "aws/karpenter",
+    "url": "https://github.com/aws/karpenter",
+    "lang": "Go"
+  },
+  {
+    "title": "oxidecomputer/humility",
+    "url": "https://github.com/oxidecomputer/humility",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/go-containerregistry",
+    "url": "https://github.com/google/go-containerregistry",
+    "lang": "Go"
+  },
+  {
+    "title": "Liqunkit/LiqunKit_",
+    "url": "https://github.com/Liqunkit/LiqunKit_"
+  },
+  {
+    "title": "acmenlt/dynamic-threadpool",
+    "url": "https://github.com/acmenlt/dynamic-threadpool",
+    "lang": "Java"
+  },
+  {
+    "title": "frankwxu/digital-forensics-lab",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "aws-ia/terraform-aws-control_tower_account_factory",
+    "url": "https://github.com/aws-ia/terraform-aws-control_tower_account_factory",
+    "lang": "HCL"
+  },
+  {
+    "title": "getsentry/sentry-javascript",
+    "url": "https://github.com/getsentry/sentry-javascript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "lang": "Go"
+  }
+]

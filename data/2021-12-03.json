@@ -1,0 +1,125 @@
+[
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "lang": "Java"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "lang": "HCL"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yuval-alaluf/hyperstyle",
+    "url": "https://github.com/yuval-alaluf/hyperstyle",
+    "lang": "Python"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jesseduffield/lazydocker",
+    "url": "https://github.com/jesseduffield/lazydocker",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "editso/fuso",
+    "url": "https://github.com/editso/fuso",
+    "lang": "Rust"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "lang": "Go"
+  },
+  {
+    "title": "autonomousvision/projected_gan",
+    "url": "https://github.com/autonomousvision/projected_gan",
+    "lang": "Python"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "karpathy/arxiv-sanity-lite",
+    "url": "https://github.com/karpathy/arxiv-sanity-lite",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "FerretDB/FerretDB",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java"
+  },
+  {
+    "title": "frankwxu/digital-forensics-lab",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "SummerSec/ShiroAttack2",
+    "url": "https://github.com/SummerSec/ShiroAttack2",
+    "lang": "Java"
+  }
+]

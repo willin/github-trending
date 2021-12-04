@@ -1,0 +1,124 @@
+[
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "lang": "PHP"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "crater-invoice/crater",
+    "url": "https://github.com/crater-invoice/crater",
+    "lang": "PHP"
+  },
+  {
+    "title": "acmenlt/dynamic-threadpool",
+    "url": "https://github.com/acmenlt/dynamic-threadpool",
+    "lang": "Java"
+  },
+  {
+    "title": "rd2coding/Road2Coding",
+    "url": "https://github.com/rd2coding/Road2Coding"
+  },
+  {
+    "title": "FarbstoffRSL/RSL-Helper",
+    "url": "https://github.com/FarbstoffRSL/RSL-Helper"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AsyncBanana/microdiff",
+    "url": "https://github.com/AsyncBanana/microdiff",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ethereum/consensus-specs",
+    "url": "https://github.com/ethereum/consensus-specs",
+    "lang": "Python"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "lang": "Python"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "thunlp/WantWords",
+    "url": "https://github.com/thunlp/WantWords",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FerretDB/FerretDB",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "lang": "Go"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "argyleink/open-props",
+    "url": "https://github.com/argyleink/open-props",
+    "lang": "HTML"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "github/explore",
+    "url": "https://github.com/github/explore",
+    "lang": "Ruby"
+  },
+  {
+    "title": "microsoft/dotnet-podcasts",
+    "url": "https://github.com/microsoft/dotnet-podcasts",
+    "lang": "C#"
+  },
+  {
+    "title": "Mas0nShi/typoraCracker",
+    "url": "https://github.com/Mas0nShi/typoraCracker",
+    "lang": "Python"
+  },
+  {
+    "title": "elixir-lang/elixir",
+    "url": "https://github.com/elixir-lang/elixir",
+    "lang": "Elixir"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "lang": "Python"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "lang": "JavaScript"
+  }
+]

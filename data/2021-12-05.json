@@ -1,0 +1,125 @@
+[
+  {
+    "title": "haampie/libtree",
+    "url": "https://github.com/haampie/libtree",
+    "lang": "C++"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "lang": "PHP"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FerretDB/FerretDB",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "lang": "Go"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "prabhatsharma/zinc",
+    "url": "https://github.com/prabhatsharma/zinc",
+    "lang": "Vue"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "lang": "Python"
+  },
+  {
+    "title": "Qovery/engine",
+    "url": "https://github.com/Qovery/engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebookresearch/Mask2Former",
+    "url": "https://github.com/facebookresearch/Mask2Former",
+    "lang": "Python"
+  },
+  {
+    "title": "supabase/pg_graphql",
+    "url": "https://github.com/supabase/pg_graphql",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "lang": "Python"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "microsoft/dotnet-podcasts",
+    "url": "https://github.com/microsoft/dotnet-podcasts",
+    "lang": "C#"
+  },
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "lang": "C++"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "raspberrypi/pico-examples",
+    "url": "https://github.com/raspberrypi/pico-examples",
+    "lang": "C"
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "lang": "C++"
+  }
+]

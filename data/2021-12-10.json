@@ -1,0 +1,125 @@
+[
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "charmbracelet/soft-serve",
+    "url": "https://github.com/charmbracelet/soft-serve",
+    "lang": "Go"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "lang": "C#"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "lang": "Python"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "lang": "Java"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/ai-edu",
+    "url": "https://github.com/microsoft/ai-edu",
+    "lang": "HTML"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Grinchiest/SantaRat",
+    "url": "https://github.com/Grinchiest/SantaRat",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "lang": "Go"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "clap-rs/clap",
+    "url": "https://github.com/clap-rs/clap",
+    "lang": "Rust"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "lang": "PHP"
+  },
+  {
+    "title": "loveispapapa/txt_files",
+    "url": "https://github.com/loveispapapa/txt_files"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "lang": "Java"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "lang": "C++"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "lang": "Java"
+  }
+]

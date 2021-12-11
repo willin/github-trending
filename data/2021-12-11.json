@@ -1,0 +1,125 @@
+[
+  {
+    "title": "tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "url": "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "lang": "Java"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "bytedance/monoio",
+    "url": "https://github.com/bytedance/monoio",
+    "lang": "Rust"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dendibakh/perf-book",
+    "url": "https://github.com/dendibakh/perf-book",
+    "lang": "TeX"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "lang": "Java"
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "lang": "Java"
+  },
+  {
+    "title": "mbechler/marshalsec",
+    "url": "https://github.com/mbechler/marshalsec",
+    "lang": "Java"
+  },
+  {
+    "title": "welk1n/JNDI-Injection-Exploit",
+    "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
+    "lang": "Java"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "lang": "Dart"
+  },
+  {
+    "title": "instrumental-finance/airdrop-addresses",
+    "url": "https://github.com/instrumental-finance/airdrop-addresses"
+  },
+  {
+    "title": "vercel/turborepo",
+    "url": "https://github.com/vercel/turborepo",
+    "lang": "Go"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "lang": "PHP"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "lang": "Go"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/ilogtail",
+    "url": "https://github.com/alibaba/ilogtail",
+    "lang": "Go"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/ai-edu",
+    "url": "https://github.com/microsoft/ai-edu",
+    "lang": "HTML"
+  },
+  {
+    "title": "flix/flix",
+    "url": "https://github.com/flix/flix",
+    "lang": "Scala"
+  },
+  {
+    "title": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "lang": "Go"
+  },
+  {
+    "title": "tkestack/kstone",
+    "url": "https://github.com/tkestack/kstone",
+    "lang": "Go"
+  }
+]

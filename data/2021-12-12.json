@@ -1,0 +1,126 @@
+[
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "welk1n/JNDI-Injection-Exploit",
+    "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
+    "lang": "Java"
+  },
+  {
+    "title": "tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "url": "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "lang": "Java"
+  },
+  {
+    "title": "SeanDaBlack/KelloggBot",
+    "url": "https://github.com/SeanDaBlack/KelloggBot",
+    "lang": "Python"
+  },
+  {
+    "title": "feihong-cs/JNDIExploit",
+    "url": "https://github.com/feihong-cs/JNDIExploit",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "lang": "Java"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "lang": "Go"
+  },
+  {
+    "title": "vercel/turborepo",
+    "url": "https://github.com/vercel/turborepo",
+    "lang": "Go"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "lang": "Python"
+  },
+  {
+    "title": "whwlsfb/Log4j2Scan",
+    "url": "https://github.com/whwlsfb/Log4j2Scan",
+    "lang": "Java"
+  },
+  {
+    "title": "YfryTchsGD/Log4jAttackSurface",
+    "url": "https://github.com/YfryTchsGD/Log4jAttackSurface"
+  },
+  {
+    "title": "christophetd/log4shell-vulnerable-app",
+    "url": "https://github.com/christophetd/log4shell-vulnerable-app",
+    "lang": "Java"
+  },
+  {
+    "title": "cshum/imagor",
+    "url": "https://github.com/cshum/imagor",
+    "lang": "Go"
+  },
+  {
+    "title": "veracode-research/rogue-jndi",
+    "url": "https://github.com/veracode-research/rogue-jndi",
+    "lang": "Java"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "HyCraftHD/Log4J-RCE-Proof-Of-Concept",
+    "url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
+    "lang": "Java"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "lang": "Java"
+  },
+  {
+    "title": "mbechler/marshalsec",
+    "url": "https://github.com/mbechler/marshalsec",
+    "lang": "Java"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "lang": "Dart"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "tsherif/space-shooter.c",
+    "url": "https://github.com/tsherif/space-shooter.c",
+    "lang": "C"
+  }
+]

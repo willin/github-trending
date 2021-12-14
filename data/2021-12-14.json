@@ -1,0 +1,124 @@
+[
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell"
+  },
+  {
+    "title": "huntresslabs/log4shell-tester",
+    "url": "https://github.com/huntresslabs/log4shell-tester",
+    "lang": "Java"
+  },
+  {
+    "title": "Neo23x0/log4shell-detector",
+    "url": "https://github.com/Neo23x0/log4shell-detector",
+    "lang": "Python"
+  },
+  {
+    "title": "anchore/syft",
+    "url": "https://github.com/anchore/syft",
+    "lang": "Go"
+  },
+  {
+    "title": "christophetd/log4shell-vulnerable-app",
+    "url": "https://github.com/christophetd/log4shell-vulnerable-app",
+    "lang": "Java"
+  },
+  {
+    "title": "whwlsfb/Log4j2Scan",
+    "url": "https://github.com/whwlsfb/Log4j2Scan",
+    "lang": "Java"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "lang": "Java"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "lang": "Java"
+  },
+  {
+    "title": "vercel/turborepo",
+    "url": "https://github.com/vercel/turborepo",
+    "lang": "Go"
+  },
+  {
+    "title": "tangxiaofeng7/BurpLog4j2Scan",
+    "url": "https://github.com/tangxiaofeng7/BurpLog4j2Scan",
+    "lang": "Java"
+  },
+  {
+    "title": "hillu/local-log4j-vuln-scanner",
+    "url": "https://github.com/hillu/local-log4j-vuln-scanner",
+    "lang": "Go"
+  },
+  {
+    "title": "rolling-scopes-school/tasks",
+    "url": "https://github.com/rolling-scopes-school/tasks",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "inconvergent/weird",
+    "url": "https://github.com/inconvergent/weird",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "Cybereason/Logout4Shell",
+    "url": "https://github.com/Cybereason/Logout4Shell",
+    "lang": "Java"
+  },
+  {
+    "title": "PKUFlyingPig/pku-cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/pku-cs-self-learning"
+  },
+  {
+    "title": "cube0x0/noPac",
+    "url": "https://github.com/cube0x0/noPac",
+    "lang": "C#"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao"
+  },
+  {
+    "title": "libevm/subway",
+    "url": "https://github.com/libevm/subway",
+    "lang": "Solidity"
+  },
+  {
+    "title": "Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
+    "url": "https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
+    "lang": "Java"
+  },
+  {
+    "title": "anchore/grype",
+    "url": "https://github.com/anchore/grype",
+    "lang": "Go"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "lang": "Java"
+  },
+  {
+    "title": "WazeHell/sam-the-admin",
+    "url": "https://github.com/WazeHell/sam-the-admin",
+    "lang": "Python"
+  },
+  {
+    "title": "EmYiQing/LDAPKit",
+    "url": "https://github.com/EmYiQing/LDAPKit",
+    "lang": "Java"
+  },
+  {
+    "title": "leonjza/log4jpwn",
+    "url": "https://github.com/leonjza/log4jpwn",
+    "lang": "Python"
+  }
+]

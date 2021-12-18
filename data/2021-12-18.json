@@ -1,0 +1,123 @@
+[
+  {
+    "title": "CERTCC/CVE-2021-44228_scanner",
+    "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "signalapp/Signal-Calling-Service",
+    "url": "https://github.com/signalapp/Signal-Calling-Service",
+    "lang": "Rust"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "lang": "Lua"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "lang": "C++"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "lang": "Python"
+  },
+  {
+    "title": "QianMo/Game-Programmer-Study-Notes",
+    "url": "https://github.com/QianMo/Game-Programmer-Study-Notes"
+  },
+  {
+    "title": "proferosec/log4jScanner",
+    "url": "https://github.com/proferosec/log4jScanner",
+    "lang": "Go"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "lang": "HTML"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "lang": "Java"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN"
+  },
+  {
+    "title": "jfrog/log4j-tools",
+    "url": "https://github.com/jfrog/log4j-tools",
+    "lang": "Python"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "lang": "Java"
+  },
+  {
+    "title": "Loopring/loopring-web-v2",
+    "url": "https://github.com/Loopring/loopring-web-v2",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "lang": "C#"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "lang": "C"
+  },
+  {
+    "title": "niubiqigai/turtle",
+    "url": "https://github.com/niubiqigai/turtle",
+    "lang": "Python"
+  }
+]

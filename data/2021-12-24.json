@@ -1,0 +1,124 @@
+[
+  {
+    "title": "cisagov/log4j-scanner",
+    "url": "https://github.com/cisagov/log4j-scanner",
+    "lang": "Java"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "lang": "Go"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "lang": "Python"
+  },
+  {
+    "title": "wader/fq",
+    "url": "https://github.com/wader/fq",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/tdesign",
+    "url": "https://github.com/Tencent/tdesign"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "lang": "Rust"
+  },
+  {
+    "title": "zeromicro/go-zero",
+    "url": "https://github.com/zeromicro/go-zero",
+    "lang": "Go"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mchong6/JoJoGAN",
+    "url": "https://github.com/mchong6/JoJoGAN",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "lang": "Python"
+  },
+  {
+    "title": "AkaiRep/video-to-ascii",
+    "url": "https://github.com/AkaiRep/video-to-ascii",
+    "lang": "Python"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/tdesign-vue",
+    "url": "https://github.com/Tencent/tdesign-vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2021",
+    "url": "https://github.com/louisfb01/best_AI_papers_2021"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "lang": "Rust"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "lang": "Python"
+  },
+  {
+    "title": "gakonst/solidity-book",
+    "url": "https://github.com/gakonst/solidity-book",
+    "lang": "Makefile"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "lang": "Python"
+  }
+]

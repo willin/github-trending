@@ -1,0 +1,124 @@
+[
+  {
+    "title": "cisagov/log4j-scanner",
+    "url": "https://github.com/cisagov/log4j-scanner",
+    "lang": "Java"
+  },
+  {
+    "title": "open-mmlab/mmrazor",
+    "url": "https://github.com/open-mmlab/mmrazor",
+    "lang": "Python"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "lang": "Python"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "h3r2tic/cornell-mcray",
+    "url": "https://github.com/h3r2tic/cornell-mcray",
+    "lang": "Rust"
+  },
+  {
+    "title": "d2forum/16th",
+    "url": "https://github.com/d2forum/16th"
+  },
+  {
+    "title": "mehdihadeli/awesome-go-education",
+    "url": "https://github.com/mehdihadeli/awesome-go-education",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/tdesign-react",
+    "url": "https://github.com/Tencent/tdesign-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fanux/sealos",
+    "url": "https://github.com/fanux/sealos",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/tdesign",
+    "url": "https://github.com/Tencent/tdesign"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "lang": "Go"
+  },
+  {
+    "title": "ssssssss-team/spider-flow",
+    "url": "https://github.com/ssssssss-team/spider-flow",
+    "lang": "Java"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "wader/fq",
+    "url": "https://github.com/wader/fq",
+    "lang": "Go"
+  },
+  {
+    "title": "easychen/pushdeer",
+    "url": "https://github.com/easychen/pushdeer",
+    "lang": "PHP"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/tdesign-vue-next",
+    "url": "https://github.com/Tencent/tdesign-vue-next",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bozbez/win-capture-audio",
+    "url": "https://github.com/bozbez/win-capture-audio",
+    "lang": "C++"
+  },
+  {
+    "title": "Courseplay/courseplay",
+    "url": "https://github.com/Courseplay/courseplay",
+    "lang": "Lua"
+  },
+  {
+    "title": "freeCodeCamp/LearnToCodeRPG",
+    "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
+    "lang": "Ren'Py"
+  }
+]

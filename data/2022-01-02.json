@@ -1,0 +1,121 @@
+[
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "lang": "Java"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "surge-synthesizer/monique-monosynth",
+    "url": "https://github.com/surge-synthesizer/monique-monosynth",
+    "lang": "C++"
+  },
+  {
+    "title": "deepklarity/jupyter-text2code",
+    "url": "https://github.com/deepklarity/jupyter-text2code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "lang": "Rust"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "clap-rs/clap",
+    "url": "https://github.com/clap-rs/clap",
+    "lang": "Rust"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "lang": "HTML"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "ccrisan/motioneyeos",
+    "url": "https://github.com/ccrisan/motioneyeos",
+    "lang": "Makefile"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "lang": "Python"
+  },
+  {
+    "title": "betaflight/betaflight",
+    "url": "https://github.com/betaflight/betaflight",
+    "lang": "C"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "lang": "Rust"
+  },
+  {
+    "title": "fikrikarim/companies-with-successful-pivot",
+    "url": "https://github.com/fikrikarim/companies-with-successful-pivot"
+  },
+  {
+    "title": "Kaustubh-Natuskar/moreThanFAANGM",
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM"
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "lang": "C++"
+  },
+  {
+    "title": "hku-mars/r3live",
+    "url": "https://github.com/hku-mars/r3live",
+    "lang": "C++"
+  }
+]

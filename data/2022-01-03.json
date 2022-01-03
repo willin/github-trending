@@ -1,0 +1,123 @@
+[
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/log4jscanner",
+    "url": "https://github.com/google/log4jscanner",
+    "lang": "Go"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "lang": "Rust"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "lang": "Solidity"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "lang": "HTML"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "lang": "Shell"
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "lang": "C++"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "lang": "Java"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "lang": "Python"
+  },
+  {
+    "title": "praydog/REFramework",
+    "url": "https://github.com/praydog/REFramework",
+    "lang": "C++"
+  },
+  {
+    "title": "Jackett/Jackett",
+    "url": "https://github.com/Jackett/Jackett",
+    "lang": "C#"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kallaway/100-days-of-code",
+    "url": "https://github.com/kallaway/100-days-of-code"
+  },
+  {
+    "title": "betaflight/betaflight",
+    "url": "https://github.com/betaflight/betaflight",
+    "lang": "C"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mdecrevoisier/Windows-auditing-mindmap",
+    "url": "https://github.com/mdecrevoisier/Windows-auditing-mindmap"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nerdyrodent/VQGAN-CLIP",
+    "url": "https://github.com/nerdyrodent/VQGAN-CLIP",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  }
+]

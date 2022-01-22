@@ -1,0 +1,124 @@
+[
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "lang": "C#"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "lang": "Go"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Go"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "lang": "Go"
+  },
+  {
+    "title": "ngneat/falso",
+    "url": "https://github.com/ngneat/falso",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "lang": "Go"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+  },
+  {
+    "title": "vercel/platforms",
+    "url": "https://github.com/vercel/platforms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yaronzz/Tidal-Media-Downloader",
+    "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NNNNolan/Ark",
+    "url": "https://github.com/NNNNolan/Ark",
+    "lang": "HTML"
+  },
+  {
+    "title": "apache/hop",
+    "url": "https://github.com/apache/hop",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "lang": "Python"
+  },
+  {
+    "title": "FACEGOOD/Audio2Face",
+    "url": "https://github.com/FACEGOOD/Audio2Face",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "ag2s20150909/TTS",
+    "url": "https://github.com/ag2s20150909/TTS",
+    "lang": "Java"
+  }
+]

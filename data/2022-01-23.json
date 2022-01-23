@@ -1,0 +1,125 @@
+[
+  {
+    "title": "khuedoan/homelab",
+    "url": "https://github.com/khuedoan/homelab",
+    "lang": "Python"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "lang": "Rust"
+  },
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "lang": "C#"
+  },
+  {
+    "title": "vercel/platforms",
+    "url": "https://github.com/vercel/platforms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "lang": "Go"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "lang": "Python"
+  },
+  {
+    "title": "cybersecsi/HOUDINI",
+    "url": "https://github.com/cybersecsi/HOUDINI",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trufflesuite/ganache",
+    "url": "https://github.com/trufflesuite/ganache",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "lang": "C#"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "lang": "C"
+  },
+  {
+    "title": "fireship-io/nft-art-generator",
+    "url": "https://github.com/fireship-io/nft-art-generator",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "lang": "C#"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "khuedoan/homelab",
+    "url": "https://github.com/khuedoan/homelab",
+    "lang": "Python"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "lang": "Go"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "lang": "C#"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "lang": "C++"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "lang": "Go"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "chiru-labs/ERC721A",
+    "url": "https://github.com/chiru-labs/ERC721A",
+    "lang": "Solidity"
+  },
+  {
+    "title": "jonmatthis/freemocap",
+    "url": "https://github.com/jonmatthis/freemocap",
+    "lang": "Python"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "lang": "Rust"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "lang": "Rust"
+  },
+  {
+    "title": "arvidn/libtorrent",
+    "url": "https://github.com/arvidn/libtorrent",
+    "lang": "C++"
+  },
+  {
+    "title": "mljar/mercury",
+    "url": "https://github.com/mljar/mercury",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "radareorg/radare2",
+    "url": "https://github.com/radareorg/radare2",
+    "lang": "C"
+  }
+]

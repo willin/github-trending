@@ -1,0 +1,122 @@
+[
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/nmap-nse-vulnerability-scripts",
+    "url": "https://github.com/nccgroup/nmap-nse-vulnerability-scripts",
+    "lang": "Lua"
+  },
+  {
+    "title": "ukncsc/SME",
+    "url": "https://github.com/ukncsc/SME"
+  },
+  {
+    "title": "mszoek/airyx",
+    "url": "https://github.com/mszoek/airyx",
+    "lang": "C"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "lang": "Python"
+  },
+  {
+    "title": "Idov31/FunctionStomping",
+    "url": "https://github.com/Idov31/FunctionStomping",
+    "lang": "C++"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "lang": "Go"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "kunal-kushwaha/DevOps-Bootcamp",
+    "url": "https://github.com/kunal-kushwaha/DevOps-Bootcamp"
+  },
+  {
+    "title": "jkarlin/topics",
+    "url": "https://github.com/jkarlin/topics"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "postgres-ai/database-lab-engine",
+    "url": "https://github.com/postgres-ai/database-lab-engine",
+    "lang": "Go"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "lang": "Go"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ariga/atlas",
+    "url": "https://github.com/ariga/atlas",
+    "lang": "Go"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "lang": "Go"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python"
+  }
+]

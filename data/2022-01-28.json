@@ -1,0 +1,125 @@
+[
+  {
+    "title": "arthepsy/CVE-2021-4034",
+    "url": "https://github.com/arthepsy/CVE-2021-4034",
+    "lang": "C"
+  },
+  {
+    "title": "berdav/CVE-2021-4034",
+    "url": "https://github.com/berdav/CVE-2021-4034",
+    "lang": "C"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "lang": "Java"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python"
+  },
+  {
+    "title": "spring-projects/spring-authorization-server",
+    "url": "https://github.com/spring-projects/spring-authorization-server",
+    "lang": "Java"
+  },
+  {
+    "title": "nccgroup/nmap-nse-vulnerability-scripts",
+    "url": "https://github.com/nccgroup/nmap-nse-vulnerability-scripts",
+    "lang": "Lua"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "IBAX-io/go-ibax",
+    "url": "https://github.com/IBAX-io/go-ibax",
+    "lang": "Go"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "ly4k/PwnKit",
+    "url": "https://github.com/ly4k/PwnKit",
+    "lang": "C"
+  },
+  {
+    "title": "rancher-sandbox/rancher-desktop",
+    "url": "https://github.com/rancher-sandbox/rancher-desktop",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "lang": "Python"
+  },
+  {
+    "title": "Ajaxy/telegram-tt",
+    "url": "https://github.com/Ajaxy/telegram-tt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "roottusk/vapi",
+    "url": "https://github.com/roottusk/vapi",
+    "lang": "HTML"
+  },
+  {
+    "title": "sinwindie/OSINT",
+    "url": "https://github.com/sinwindie/OSINT",
+    "lang": "Python"
+  },
+  {
+    "title": "easychen/pushdeer",
+    "url": "https://github.com/easychen/pushdeer",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "lang": "Ruby"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hlldz/RefleXXion",
+    "url": "https://github.com/hlldz/RefleXXion",
+    "lang": "C++"
+  },
+  {
+    "title": "jkarlin/topics",
+    "url": "https://github.com/jkarlin/topics"
+  },
+  {
+    "title": "bitnami-labs/sealed-secrets",
+    "url": "https://github.com/bitnami-labs/sealed-secrets",
+    "lang": "Go"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  }
+]

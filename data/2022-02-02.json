@@ -1,0 +1,124 @@
+[
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "hannahcode/word-guessing-game",
+    "url": "https://github.com/hannahcode/word-guessing-game",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "lang": "Rust"
+  },
+  {
+    "title": "nlp-with-transformers/notebooks",
+    "url": "https://github.com/nlp-with-transformers/notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "lang": "Java"
+  },
+  {
+    "title": "vopani/jaxton",
+    "url": "https://github.com/vopani/jaxton",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "typeorm/typeorm",
+    "url": "https://github.com/typeorm/typeorm",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "reprise99/Sentinel-Queries",
+    "url": "https://github.com/reprise99/Sentinel-Queries"
+  },
+  {
+    "title": "gitpod-io/gitpod",
+    "url": "https://github.com/gitpod-io/gitpod",
+    "lang": "TypeScript"
+  }
+]

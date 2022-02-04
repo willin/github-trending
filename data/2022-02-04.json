@@ -1,0 +1,123 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "lang": "Clojure"
+  },
+  {
+    "title": "fly-apps/live_beats",
+    "url": "https://github.com/fly-apps/live_beats",
+    "lang": "Elixir"
+  },
+  {
+    "title": "certusone/wormhole",
+    "url": "https://github.com/certusone/wormhole",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao"
+  },
+  {
+    "title": "thefLink/RecycledGate",
+    "url": "https://github.com/thefLink/RecycledGate",
+    "lang": "C"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "lang": "C#"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "lang": "Rust"
+  },
+  {
+    "title": "cosmic-horizon/testnets",
+    "url": "https://github.com/cosmic-horizon/testnets",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "alex/what-happens-when",
+    "url": "https://github.com/alex/what-happens-when"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AdRoll/rustenstein",
+    "url": "https://github.com/AdRoll/rustenstein",
+    "lang": "Rust"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "leaningtech/webvm",
+    "url": "https://github.com/leaningtech/webvm",
+    "lang": "HTML"
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "lang": "Go"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NaturalSelectionLabs/RSS3-Protocol",
+    "url": "https://github.com/NaturalSelectionLabs/RSS3-Protocol"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "lang": "C++"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "lang": "Solidity"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fireship-io/gpt3-twitter-bot",
+    "url": "https://github.com/fireship-io/gpt3-twitter-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deepmind/code_contests",
+    "url": "https://github.com/deepmind/code_contests",
+    "lang": "Starlark"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "lang": "C#"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pytest-dev/pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "lang": "Python"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "lang": "C++"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "thoughtbot/hotwire-example-template",
+    "url": "https://github.com/thoughtbot/hotwire-example-template",
+    "lang": "Ruby"
+  },
+  {
+    "title": "Jguer/yay",
+    "url": "https://github.com/Jguer/yay",
+    "lang": "Go"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "lang": "Go"
+  },
+  {
+    "title": "NG-ZORRO/ng-zorro-antd",
+    "url": "https://github.com/NG-ZORRO/ng-zorro-antd",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "lang": "C++"
+  },
+  {
+    "title": "lengfengwujing/IWantToRun",
+    "url": "https://github.com/lengfengwujing/IWantToRun"
+  }
+]

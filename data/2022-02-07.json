@@ -1,0 +1,123 @@
+[
+  {
+    "title": "kabinspace/AstroVim",
+    "url": "https://github.com/kabinspace/AstroVim",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "gyroflow/gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow",
+    "lang": "Rust"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vooidzero/B23Downloader",
+    "url": "https://github.com/vooidzero/B23Downloader",
+    "lang": "C++"
+  },
+  {
+    "title": "WebDevSimplified/wordle-clone",
+    "url": "https://github.com/WebDevSimplified/wordle-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thelilypad/systematic-trader",
+    "url": "https://github.com/thelilypad/systematic-trader",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "tokio-rs/tokio",
+    "url": "https://github.com/tokio-rs/tokio",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "lang": "C++"
+  },
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "lang": "C"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "lang": "C++"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "lang": "Python"
+  },
+  {
+    "title": "gorhill/uBlock",
+    "url": "https://github.com/gorhill/uBlock",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "lang": "HTML"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "lang": "Rust"
+  }
+]

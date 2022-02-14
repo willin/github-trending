@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "lang": "Java"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DaveGamble/cJSON",
+    "url": "https://github.com/DaveGamble/cJSON",
+    "lang": "C"
+  },
+  {
+    "title": "4rtzel/poe-archnemesis-scanner",
+    "url": "https://github.com/4rtzel/poe-archnemesis-scanner",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python"
+  },
+  {
+    "title": "PaulJuliusMartinez/jless",
+    "url": "https://github.com/PaulJuliusMartinez/jless",
+    "lang": "Rust"
+  },
+  {
+    "title": "tanyarajhans/LeetCode",
+    "url": "https://github.com/tanyarajhans/LeetCode",
+    "lang": "C++"
+  },
+  {
+    "title": "karma9874/AndroRAT",
+    "url": "https://github.com/karma9874/AndroRAT",
+    "lang": "Java"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "lang": "Python"
+  },
+  {
+    "title": "4ndersonLin/awesome-cloud-security",
+    "url": "https://github.com/4ndersonLin/awesome-cloud-security"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "datafuselabs/databend",
+    "url": "https://github.com/datafuselabs/databend",
+    "lang": "Rust"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "lang": "C++"
+  },
+  {
+    "title": "aquasecurity/cloudsploit",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  }
+]

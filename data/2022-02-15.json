@@ -1,0 +1,121 @@
+[
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "lang": "Go"
+  },
+  {
+    "title": "novak-99/MLPP",
+    "url": "https://github.com/novak-99/MLPP",
+    "lang": "C++"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "lang": "Python"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "4ndersonLin/awesome-cloud-security",
+    "url": "https://github.com/4ndersonLin/awesome-cloud-security"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "trewisscotch/CobaltStr4.5",
+    "url": "https://github.com/trewisscotch/CobaltStr4.5"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tinymce/tinymce",
+    "url": "https://github.com/tinymce/tinymce",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codeedu/imersao-fc6",
+    "url": "https://github.com/codeedu/imersao-fc6",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zxing/zxing",
+    "url": "https://github.com/zxing/zxing",
+    "lang": "Java"
+  },
+  {
+    "title": "cncf/mentoring",
+    "url": "https://github.com/cncf/mentoring"
+  },
+  {
+    "title": "Azure/ResourceModules",
+    "url": "https://github.com/Azure/ResourceModules",
+    "lang": "Bicep"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "lang": "Python"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "lang": "Rust"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "lang": "C"
+  }
+]

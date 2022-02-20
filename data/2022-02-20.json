@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook"
+  },
+  {
+    "title": "lwthiker/curl-impersonate",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "cryptotwinsbr/spacecrypto-bot",
+    "url": "https://github.com/cryptotwinsbr/spacecrypto-bot",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "lang": "Svelte"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "lang": "Rust"
+  },
+  {
+    "title": "iranremote/awesome-iran-remote",
+    "url": "https://github.com/iranremote/awesome-iran-remote"
+  },
+  {
+    "title": "libevent/libevent",
+    "url": "https://github.com/libevent/libevent",
+    "lang": "C"
+  },
+  {
+    "title": "littlefs-project/littlefs",
+    "url": "https://github.com/littlefs-project/littlefs",
+    "lang": "C"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "BishopFox/unredacter",
+    "url": "https://github.com/BishopFox/unredacter",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "harmonoid/harmonoid",
+    "url": "https://github.com/harmonoid/harmonoid",
+    "lang": "Dart"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "lang": "Python"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openvinotoolkit/anomalib",
+    "url": "https://github.com/openvinotoolkit/anomalib",
+    "lang": "Python"
+  },
+  {
+    "title": "odin-lang/Odin",
+    "url": "https://github.com/odin-lang/Odin",
+    "lang": "Odin"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python"
+  },
+  {
+    "title": "metowolf/vCards",
+    "url": "https://github.com/metowolf/vCards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "lang": "Cuda"
+  },
+  {
+    "title": "spring-projects/spring-petclinic",
+    "url": "https://github.com/spring-projects/spring-petclinic",
+    "lang": "CSS"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
+  }
+]

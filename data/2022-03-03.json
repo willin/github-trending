@@ -1,0 +1,117 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "TheParmak/conti-leaks-englished",
+    "url": "https://github.com/TheParmak/conti-leaks-englished",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "opengs/uashield",
+    "url": "https://github.com/opengs/uashield",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "stop-war-in-ukraine/stop-russia-it",
+    "url": "https://github.com/stop-war-in-ukraine/stop-russia-it"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "lang": "Python"
+  },
+  {
+    "title": "curated-intel/Ukraine-Cyber-Operations",
+    "url": "https://github.com/curated-intel/Ukraine-Cyber-Operations",
+    "lang": "YARA"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "lang": "HTML"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vinodotdev/node-to-rust",
+    "url": "https://github.com/vinodotdev/node-to-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "valyala/fasthttp",
+    "url": "https://github.com/valyala/fasthttp",
+    "lang": "Go"
+  },
+  {
+    "title": "NVIDIA/cutlass",
+    "url": "https://github.com/NVIDIA/cutlass",
+    "lang": "C++"
+  },
+  {
+    "title": "github/feedback",
+    "url": "https://github.com/github/feedback"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  }
+]

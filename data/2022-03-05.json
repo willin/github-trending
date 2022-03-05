@@ -1,0 +1,125 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "TrungNguyen1909/qemu-t8030",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "lang": "C"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "lang": "Go"
+  },
+  {
+    "title": "mattn/awesome-twitter-communities",
+    "url": "https://github.com/mattn/awesome-twitter-communities",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "opengs/uashield",
+    "url": "https://github.com/opengs/uashield",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opensumi/ide-startup",
+    "url": "https://github.com/opensumi/ide-startup",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xianyi/OpenBLAS",
+    "url": "https://github.com/xianyi/OpenBLAS",
+    "lang": "Fortran"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/FastFold",
+    "url": "https://github.com/hpcaitech/FastFold",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gildas-lormeau/SingleFile",
+    "url": "https://github.com/gildas-lormeau/SingleFile",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "lang": "JavaScript"
+  }
+]

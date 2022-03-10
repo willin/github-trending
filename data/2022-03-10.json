@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
+    "url": "https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
+    "lang": "C"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "lang": "C++"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "lang": "Python"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  {
+    "title": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "lang": "Rust"
+  },
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "VHellendoorn/Code-LMs",
+    "url": "https://github.com/VHellendoorn/Code-LMs",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "lang": "Go"
+  },
+  {
+    "title": "walmat/nebula",
+    "url": "https://github.com/walmat/nebula",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "lang": "Python"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "lang": "Java"
+  },
+  {
+    "title": "J0o1ey/BountyHunterInChina",
+    "url": "https://github.com/J0o1ey/BountyHunterInChina"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "lang": "Rust"
+  },
+  {
+    "title": "antfu/vscode-file-nesting-config",
+    "url": "https://github.com/antfu/vscode-file-nesting-config",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "lang": "PHP"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview"
+  },
+  {
+    "title": "goatcorp/FFXIVQuickLauncher",
+    "url": "https://github.com/goatcorp/FFXIVQuickLauncher",
+    "lang": "C#"
+  }
+]

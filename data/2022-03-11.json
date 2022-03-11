@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "lang": "Go"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "quii/learn-go-with-tests",
+    "url": "https://github.com/quii/learn-go-with-tests",
+    "lang": "Go"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "lang": "Go"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "J0o1ey/BountyHunterInChina",
+    "url": "https://github.com/J0o1ey/BountyHunterInChina"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "searx/searx",
+    "url": "https://github.com/searx/searx",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/Azure-Sentinel",
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vavkamil/awesome-bugbounty-tools",
+    "url": "https://github.com/vavkamil/awesome-bugbounty-tools"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "VHellendoorn/Code-LMs",
+    "url": "https://github.com/VHellendoorn/Code-LMs",
+    "lang": "Python"
+  },
+  {
+    "title": "pmndrs/zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "Shell"
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "lang": "Java"
+  },
+  {
+    "title": "mifi/lossless-cut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/arrow-datafusion",
+    "url": "https://github.com/apache/arrow-datafusion",
+    "lang": "Rust"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "lang": "Swift"
+  }
+]

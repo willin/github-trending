@@ -1,0 +1,125 @@
+[
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "lang": "Rust"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "lang": "Swift"
+  },
+  {
+    "title": "mrd0x/BITB",
+    "url": "https://github.com/mrd0x/BITB",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Frontesque/VueTube",
+    "url": "https://github.com/Frontesque/VueTube",
+    "lang": "Vue"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "polarismesh/femas",
+    "url": "https://github.com/polarismesh/femas",
+    "lang": "Java"
+  },
+  {
+    "title": "RIAEvangelist/node-ipc",
+    "url": "https://github.com/RIAEvangelist/node-ipc",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python"
+  },
+  {
+    "title": "blawar/ooot",
+    "url": "https://github.com/blawar/ooot",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "lang": "Rust"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "nusu/avvvatars",
+    "url": "https://github.com/nusu/avvvatars",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "lang": "C"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "lang": "OCaml"
+  },
+  {
+    "title": "Tas9er/ByPassBehinder4J",
+    "url": "https://github.com/Tas9er/ByPassBehinder4J"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "lang": "C#"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "url": "https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "lang": "HTML"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JasonStein/Notepads",
+    "url": "https://github.com/JasonStein/Notepads",
+    "lang": "C#"
+  },
+  {
+    "title": "oskardudycz/EventSourcing.NetCore",
+    "url": "https://github.com/oskardudycz/EventSourcing.NetCore",
+    "lang": "C#"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "lang": "Java"
+  }
+]

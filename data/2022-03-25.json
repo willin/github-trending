@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "lang": "Go"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "lang": "Python"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "lang": "Python"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "metarank/metarank",
+    "url": "https://github.com/metarank/metarank",
+    "lang": "Scala"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HarbourMasters/Shipwright",
+    "url": "https://github.com/HarbourMasters/Shipwright",
+    "lang": "C"
+  },
+  {
+    "title": "googlefonts/morisawa-biz-ud-mincho",
+    "url": "https://github.com/googlefonts/morisawa-biz-ud-mincho",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/sionna",
+    "url": "https://github.com/NVlabs/sionna",
+    "lang": "Python"
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "BetaSu/fe-hunter",
+    "url": "https://github.com/BetaSu/fe-hunter",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/lowcode-demo",
+    "url": "https://github.com/alibaba/lowcode-demo",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/pinia",
+    "url": "https://github.com/vuejs/pinia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kognise/arpchat",
+    "url": "https://github.com/kognise/arpchat",
+    "lang": "Rust"
+  },
+  {
+    "title": "weaveworks/eksctl",
+    "url": "https://github.com/weaveworks/eksctl",
+    "lang": "Go"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "apache/hudi",
+    "url": "https://github.com/apache/hudi",
+    "lang": "Java"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "lang": "Go"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "lang": "Rust"
+  }
+]

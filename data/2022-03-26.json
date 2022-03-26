@@ -1,0 +1,122 @@
+[
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V"
+  },
+  {
+    "title": "hashicorp/terraform-provider-azurerm",
+    "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "lang": "Go"
+  },
+  {
+    "title": "ReVancedTeam/revanced-patcher",
+    "url": "https://github.com/ReVancedTeam/revanced-patcher",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "BishopFox/unredacter",
+    "url": "https://github.com/BishopFox/unredacter",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arthurspk/guiadevbrasil",
+    "url": "https://github.com/arthurspk/guiadevbrasil"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya"
+  },
+  {
+    "title": "polygraphene/DirtyPipe-Android",
+    "url": "https://github.com/polygraphene/DirtyPipe-Android",
+    "lang": "C"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "solana-labs/token-list",
+    "url": "https://github.com/solana-labs/token-list",
+    "lang": "Go"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  {
+    "title": "orchest/orchest",
+    "url": "https://github.com/orchest/orchest",
+    "lang": "Python"
+  },
+  {
+    "title": "mgerdes/Open-Golf",
+    "url": "https://github.com/mgerdes/Open-Golf",
+    "lang": "C"
+  },
+  {
+    "title": "ionic-team/stencil",
+    "url": "https://github.com/ionic-team/stencil",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "lang": "Python"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "lang": "Python"
+  },
+  {
+    "title": "flower-corp/lotusdb",
+    "url": "https://github.com/flower-corp/lotusdb",
+    "lang": "Go"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "lang": "C++"
+  }
+]

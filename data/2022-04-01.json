@@ -1,0 +1,126 @@
+[
+  {
+    "title": "dagger/dagger",
+    "url": "https://github.com/dagger/dagger",
+    "lang": "Go"
+  },
+  {
+    "title": "grafana/mimir",
+    "url": "https://github.com/grafana/mimir",
+    "lang": "Go"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "craig/SpringCore0day",
+    "url": "https://github.com/craig/SpringCore0day",
+    "lang": "Python"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "lang": "C"
+  },
+  {
+    "title": "BobTheShoplifter/Spring4Shell-POC",
+    "url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "lang": "Python"
+  },
+  {
+    "title": "Retrospected/spring-rce-poc",
+    "url": "https://github.com/Retrospected/spring-rce-poc",
+    "lang": "Python"
+  },
+  {
+    "title": "fengguangbin/spring-rce-war",
+    "url": "https://github.com/fengguangbin/spring-rce-war",
+    "lang": "Java"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "lang": "HTML"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "lang": "C++"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "title": "cleanlock/VideoAdBlockForTwitch",
+    "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dinosn/CVE-2022-22963",
+    "url": "https://github.com/dinosn/CVE-2022-22963",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "lang": "Dart"
+  },
+  {
+    "title": "chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "url": "https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "lang": "Go"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  }
+]

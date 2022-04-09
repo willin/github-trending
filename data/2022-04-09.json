@@ -1,0 +1,126 @@
+[
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "lambda765/robFoodDD",
+    "url": "https://github.com/lambda765/robFoodDD",
+    "lang": "Go"
+  },
+  {
+    "title": "Skykai521/DingDongHelper",
+    "url": "https://github.com/Skykai521/DingDongHelper",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "lang": "Go"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "lang": "HTML"
+  },
+  {
+    "title": "yoship1639/UniToon",
+    "url": "https://github.com/yoship1639/UniToon",
+    "lang": "ShaderLab"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vercel/pkg",
+    "url": "https://github.com/vercel/pkg",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "peng-zhihui/ElectronBot",
+    "url": "https://github.com/peng-zhihui/ElectronBot",
+    "lang": "C"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "lang": "Python"
+  },
+  {
+    "title": "brettwooldridge/HikariCP",
+    "url": "https://github.com/brettwooldridge/HikariCP",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "jozhn/ddmc.monitor",
+    "url": "https://github.com/jozhn/ddmc.monitor",
+    "lang": "Python"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "lang": "Rust"
+  },
+  {
+    "title": "qulingyuan/robVeg",
+    "url": "https://github.com/qulingyuan/robVeg",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "lang": "C++"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "JannsenYang/dingdong-helper",
+    "url": "https://github.com/JannsenYang/dingdong-helper",
+    "lang": "Java"
+  },
+  {
+    "title": "ekzhang/bore",
+    "url": "https://github.com/ekzhang/bore",
+    "lang": "Rust"
+  },
+  {
+    "title": "chiru-labs/ERC721A",
+    "url": "https://github.com/chiru-labs/ERC721A",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "lang": "Python"
+  },
+  {
+    "title": "archway-network/testnets",
+    "url": "https://github.com/archway-network/testnets"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gakonst/foundry",
+    "url": "https://github.com/gakonst/foundry",
+    "lang": "Rust"
+  },
+  {
+    "title": "oneThousand1000/non-hair-FFHQ",
+    "url": "https://github.com/oneThousand1000/non-hair-FFHQ"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "lang": "Go"
+  },
+  {
+    "title": "Sjj1024/QiangCai",
+    "url": "https://github.com/Sjj1024/QiangCai",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/subfinder",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "lang": "Go"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "mlcommons/inference",
+    "url": "https://github.com/mlcommons/inference",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x"
+  },
+  {
+    "title": "ern0/howto-wasm-minimal",
+    "url": "https://github.com/ern0/howto-wasm-minimal",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/uncover",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python"
+  },
+  {
+    "title": "tc39/proposals",
+    "url": "https://github.com/tc39/proposals"
+  },
+  {
+    "title": "archway-network/testnet-signer",
+    "url": "https://github.com/archway-network/testnet-signer",
+    "lang": "Go"
+  }
+]

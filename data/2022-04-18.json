@@ -1,0 +1,124 @@
+[
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
+  },
+  {
+    "title": "TheCherno/Walnut",
+    "url": "https://github.com/TheCherno/Walnut",
+    "lang": "C++"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++"
+  },
+  {
+    "title": "ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Cider",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "diasurgical/devilutionX",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "lang": "C++"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "robGoods/sams",
+    "url": "https://github.com/robGoods/sams",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "imchillin/Anamnesis",
+    "url": "https://github.com/imchillin/Anamnesis",
+    "lang": "C#"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "azhan1998/sam_buy",
+    "url": "https://github.com/azhan1998/sam_buy",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "linkedin/feathr",
+    "url": "https://github.com/linkedin/feathr",
+    "lang": "Scala"
+  },
+  {
+    "title": "zc2638/ddshop",
+    "url": "https://github.com/zc2638/ddshop",
+    "lang": "Go"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript"
+  }
+]

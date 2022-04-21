@@ -1,72 +1,7 @@
 [
   {
-    "title": "dagger/dagger",
-    "url": "https://github.com/dagger/dagger",
-    "lang": "Go"
-  },
-  {
-    "title": "Leaflet/Leaflet",
-    "url": "https://github.com/Leaflet/Leaflet",
-    "lang": "JavaScript"
-  },
-  {
     "title": "geekan/HowToLiveLonger",
     "url": "https://github.com/geekan/HowToLiveLonger"
-  },
-  {
-    "title": "trustwallet/assets",
-    "url": "https://github.com/trustwallet/assets",
-    "lang": "Go"
-  },
-  {
-    "title": "calcom/cal.com",
-    "url": "https://github.com/calcom/cal.com",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "30-seconds/30-seconds-of-code",
-    "url": "https://github.com/30-seconds/30-seconds-of-code",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "aptos-labs/aptos-core",
-    "url": "https://github.com/aptos-labs/aptos-core",
-    "lang": "Rust"
-  },
-  {
-    "title": "inventree/InvenTree",
-    "url": "https://github.com/inventree/InvenTree",
-    "lang": "JavaScript"
-  },
-  {
-    "title": "kagancapar/CVE-2022-29072",
-    "url": "https://github.com/kagancapar/CVE-2022-29072",
-    "lang": "HTML"
-  },
-  {
-    "title": "freenet/locutus",
-    "url": "https://github.com/freenet/locutus",
-    "lang": "Rust"
-  },
-  {
-    "title": "MLEveryday/100-Days-Of-ML-Code",
-    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
-    "lang": "JupyterNotebook"
-  },
-  {
-    "title": "hehonghui/the-economist-ebooks",
-    "url": "https://github.com/hehonghui/the-economist-ebooks",
-    "lang": "CSS"
-  },
-  {
-    "title": "remix-run/remix",
-    "url": "https://github.com/remix-run/remix",
-    "lang": "TypeScript"
-  },
-  {
-    "title": "nushell/nushell",
-    "url": "https://github.com/nushell/nushell",
-    "lang": "Rust"
   },
   {
     "title": "Grasscutters/Grasscutter",
@@ -74,28 +9,39 @@
     "lang": "Java"
   },
   {
-    "title": "gin-gonic/gin",
-    "url": "https://github.com/gin-gonic/gin",
-    "lang": "Go"
+    "title": "ydb-platform/ydb",
+    "url": "https://github.com/ydb-platform/ydb",
+    "lang": "C++"
   },
   {
-    "title": "kedro-org/kedro",
-    "url": "https://github.com/kedro-org/kedro",
+    "title": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
     "lang": "Python"
   },
   {
-    "title": "mxgmn/WaveFunctionCollapse",
-    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
-    "lang": "C#"
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "lang": "Python"
   },
   {
-    "title": "robGoods/sams",
-    "url": "https://github.com/robGoods/sams",
-    "lang": "Go"
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "lang": "JavaScript"
   },
   {
-    "title": "jCodeLife/mind-map",
-    "url": "https://github.com/jCodeLife/mind-map"
+    "title": "google/libphonenumber",
+    "url": "https://github.com/google/libphonenumber",
+    "lang": "C++"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -103,23 +49,78 @@
     "lang": "C++"
   },
   {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "lang": "HTML"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
     "lang": "TypeScript"
   },
   {
-    "title": "Alamofire/Alamofire",
-    "url": "https://github.com/Alamofire/Alamofire",
-    "lang": "Swift"
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
   },
   {
-    "title": "ryanmcdermott/clean-code-javascript",
-    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "lang": "JavaScript"
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
   },
   {
-    "title": "realm/realm-swift",
-    "url": "https://github.com/realm/realm-swift",
-    "lang": "Objective-C"
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "lang": "Go"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "lang": "PHP"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "lang": "Java"
+  },
+  {
+    "title": "mattermost/mattermost-server",
+    "url": "https://github.com/mattermost/mattermost-server",
+    "lang": "Go"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "lang": "Java"
   }
 ]
